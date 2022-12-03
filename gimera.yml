@@ -7,7 +7,7 @@ repos:
 - branch: 14.0
   path: enterprise.14
   type: integrated
-  url: https://github.com/odoo/enterprise
+  url: git@github.com:odoo/enterprise
 - branch: 15.0
   path: odoo.15
   type: integrated
@@ -15,7 +15,7 @@ repos:
 - branch: 15.0
   path: enterprise.15
   type: integrated
-  url: https://github.com/odoo/enterprise
+  url: git@github.com:odoo/enterprise
 - branch: 16.0
   path: odoo.16
   type: integrated
@@ -23,4 +23,4 @@ repos:
 - branch: 16.0
   path: enterprise.16
   type: integrated
-  url: https://github.com/odoo/enterprise
+  url: git@github.com:odoo/enterprise
