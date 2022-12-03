@@ -27,6 +27,7 @@ repos:
   patches:
   - patches/odoo.16
   path: odoo.16
+  sha: f42071df87f54e31d26f3d27483dd25646818de2
   type: integrated
   url: https://github.com/odoo/odoo
 - branch: 16.0
