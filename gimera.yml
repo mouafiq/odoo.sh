@@ -15,6 +15,7 @@ repos:
   patches:
   - patches/odoo.15
   path: odoo.15
+  sha: a3bb5b0c4b010b7583af1440cb65e889586636c8
   type: integrated
   url: https://github.com/odoo/odoo
 - branch: 15.0
