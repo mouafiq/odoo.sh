@@ -1,14 +1,19 @@
 repos:
 - branch: 14.0
+  patches:
+  - patches/odoo.14
   path: odoo.14
   sha: 9b777fa9ab9ab22a1cdce6e9aa10766c58e96715
   type: integrated
   url: https://github.com/odoo/odoo
 - branch: 14.0
   path: enterprise.14
+  sha: aded330b0d4991e9e7505f64c0dce6aece0caf35
   type: integrated
   url: git@github.com:odoo/enterprise
 - branch: 15.0
+  patches:
+  - patches/odoo.15
   path: odoo.15
   type: integrated
   url: https://github.com/odoo/odoo
@@ -17,6 +22,8 @@ repos:
   type: integrated
   url: git@github.com:odoo/enterprise
 - branch: 16.0
+  patches:
+  - patches/odoo.16
   path: odoo.16
   type: integrated
   url: https://github.com/odoo/odoo
