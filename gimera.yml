@@ -1,27 +1,26 @@
 repos:
-  - url: https://github.com/odoo/odoo
-    branch: 14.0
-    path: odoo.14
-    type: integrated
-  - url: https://github.com/odoo/enterprise
-    branch: 14.0
-    path: enterprise.14
-    type: integrated
-
-  - url: https://github.com/odoo/odoo
-    branch: 15.0
-    path: odoo.15
-    type: integrated
-  - url: https://github.com/odoo/enterprise
-    branch: 15.0
-    path: enterprise.15
-
-    type: integrated
-  - url: https://github.com/odoo/odoo
-    branch: 16.0
-    path: odoo.16
-    type: integrated
-  - url: https://github.com/odoo/enterprise
-    branch: 16.0
-    path: enterprise.16
-    type: integrated
+- branch: 14.0
+  path: odoo.14
+  sha: 9b777fa9ab9ab22a1cdce6e9aa10766c58e96715
+  type: integrated
+  url: https://github.com/odoo/odoo
+- branch: 14.0
+  path: enterprise.14
+  type: integrated
+  url: https://github.com/odoo/enterprise
+- branch: 15.0
+  path: odoo.15
+  type: integrated
+  url: https://github.com/odoo/odoo
+- branch: 15.0
+  path: enterprise.15
+  type: integrated
+  url: https://github.com/odoo/enterprise
+- branch: 16.0
+  path: odoo.16
+  type: integrated
+  url: https://github.com/odoo/odoo
+- branch: 16.0
+  path: enterprise.16
+  type: integrated
+  url: https://github.com/odoo/enterprise
