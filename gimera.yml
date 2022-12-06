@@ -52,6 +52,7 @@ repos:
   url: https://github.com/OCA/knowledge
 - branch: '15.0'
   path: OCA/knowledge/15.0
+  sha: c1e13247aa5caa95e306e238c41479a67bcc16e8
   type: integrated
   url: https://github.com/OCA/knowledge
 - branch: '16.0'
