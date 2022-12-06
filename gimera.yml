@@ -122,6 +122,7 @@ repos:
   url: https://github.com/OCA/edi
 - branch: '14.0'
   path: OCA/edi/14.0
+  sha: f8cf7c41d3d689659b256b697ec30214a378a16b
   type: integrated
   url: https://github.com/OCA/edi
 - branch: '15.0'
