@@ -62,6 +62,7 @@ repos:
   url: https://github.com/OCA/knowledge
 - branch: '12.0'
   path: OCA/delivery-carrier/12.0
+  sha: 5142d2b8aa03e8e4b17b823b9e0e6b6e4d63b75e
   type: integrated
   url: https://github.com/OCA/delivery-carrier
 - branch: '13.0'
