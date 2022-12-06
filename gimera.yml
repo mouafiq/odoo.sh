@@ -112,6 +112,7 @@ repos:
   url: https://github.com/OCA/stock-logistics-warehouse
 - branch: '12.0'
   path: OCA/edi/12.0
+  sha: c48610e2b8339366cf6f11c6338404e8e5409b7f
   type: integrated
   url: https://github.com/OCA/edi
 - branch: '13.0'
