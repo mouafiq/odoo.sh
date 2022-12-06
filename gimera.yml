@@ -277,6 +277,7 @@ repos:
   url: https://github.com/OCA/l10n-thailand
 - branch: '15.0'
   path: OCA/l10n-thailand/15.0
+  sha: f4546c225beef08650ce97afe910835f675a28e8
   type: integrated
   url: https://github.com/OCA/l10n-thailand
 - branch: '16.0'
