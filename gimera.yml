@@ -192,6 +192,7 @@ repos:
   url: https://github.com/OCA/product-attribute
 - branch: '13.0'
   path: OCA/product-attribute/13.0
+  sha: 5a7aaca17e2780499b925cc0e84903891bf1e935
   type: integrated
   url: https://github.com/OCA/product-attribute
 - branch: '14.0'
