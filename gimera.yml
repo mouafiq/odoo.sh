@@ -162,6 +162,7 @@ repos:
   url: https://github.com/OCA/server-ux
 - branch: '12.0'
   path: OCA/l10n-switzerland/12.0
+  sha: feea370e601e36777ed57ccd071e239285ba277b
   type: integrated
   url: https://github.com/OCA/l10n-switzerland
 - branch: '13.0'
