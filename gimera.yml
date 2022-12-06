@@ -172,6 +172,7 @@ repos:
   url: https://github.com/OCA/l10n-switzerland
 - branch: '14.0'
   path: OCA/l10n-switzerland/14.0
+  sha: de41257d8daeb4920ca4ae8f948b301da1f7b081
   type: integrated
   url: https://github.com/OCA/l10n-switzerland
 - branch: '15.0'
