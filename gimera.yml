@@ -237,6 +237,7 @@ repos:
   url: https://github.com/OCA/l10n-italy
 - branch: '12.0'
   path: OCA/multi-company/12.0
+  sha: acf27ca5d8f590089efdecd35a204af91ddf32eb
   type: integrated
   url: https://github.com/OCA/multi-company
 - branch: '13.0'
