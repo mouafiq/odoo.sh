@@ -332,6 +332,7 @@ repos:
   url: https://github.com/OCA/commission
 - branch: '16.0'
   path: OCA/commission/16.0
+  sha: 0085226f3d5b20da18d53455cd5394f4719538a9
   type: integrated
   url: https://github.com/OCA/commission
 - branch: '12.0'
