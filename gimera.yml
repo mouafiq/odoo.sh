@@ -187,6 +187,7 @@ repos:
   url: https://github.com/OCA/l10n-switzerland
 - branch: '12.0'
   path: OCA/product-attribute/12.0
+  sha: 09d8a9dfb0c313f80c9026365c75540aa4d9440f
   type: integrated
   url: https://github.com/OCA/product-attribute
 - branch: '13.0'
