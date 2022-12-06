@@ -929,6 +929,7 @@ repos:
   url: https://github.com/OCA/account-closing
 - branch: '15.0'
   path: OCA/account-closing/15.0
+  sha: 7a81008e7c2d55cd7419db7b357958ea7b14dfbc
   type: integrated
   url: https://github.com/OCA/account-closing
 - branch: '16.0'
