@@ -37,6 +37,7 @@ repos:
   url: git@github.com:odoo/enterprise
 - branch: '12.0'
   path: OCA/knowledge/12.0
+  sha: a2b3d416d4424ca3a23b71c4e332cfe537701cc6
   type: integrated
   url: https://github.com/OCA/knowledge
 - branch: '13.0'
