@@ -72,6 +72,7 @@ repos:
   url: https://github.com/OCA/delivery-carrier
 - branch: '14.0'
   path: OCA/delivery-carrier/14.0
+  sha: 835506ffa4b9e4dbbe175336a85f404b41ef556e
   type: integrated
   url: https://github.com/OCA/delivery-carrier
 - branch: '15.0'
