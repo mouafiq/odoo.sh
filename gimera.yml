@@ -87,6 +87,7 @@ repos:
   url: https://github.com/OCA/delivery-carrier
 - branch: '12.0'
   path: OCA/stock-logistics-warehouse/12.0
+  sha: 2fb496923d391405d4d725262a25f2694ef77a51
   type: integrated
   url: https://github.com/OCA/stock-logistics-warehouse
 - branch: '13.0'
