@@ -297,6 +297,7 @@ repos:
   url: https://github.com/OCA/web
 - branch: '14.0'
   path: OCA/web/14.0
+  sha: 0b6b2054f2db1068099367974fed9b442c39aaa2
   type: integrated
   url: https://github.com/OCA/web
 - branch: '15.0'
