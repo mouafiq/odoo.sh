@@ -137,6 +137,7 @@ repos:
   url: https://github.com/OCA/edi
 - branch: '12.0'
   path: OCA/server-ux/12.0
+  sha: 609ad1d571c00f44d0b65386f7f50511375d2bf2
   type: integrated
   url: https://github.com/OCA/server-ux
 - branch: '13.0'
