@@ -262,6 +262,7 @@ repos:
   url: https://github.com/OCA/multi-company
 - branch: '12.0'
   path: OCA/l10n-thailand/12.0
+  sha: bf400debad22b195515a83dc2944f70c5b59337d
   type: integrated
   url: https://github.com/OCA/l10n-thailand
 - branch: '13.0'
