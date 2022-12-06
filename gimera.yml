@@ -207,6 +207,7 @@ repos:
   url: https://github.com/OCA/product-attribute
 - branch: '16.0'
   path: OCA/product-attribute/16.0
+  sha: 3872c9a251d01be4ba4b460289f2737e857a7043
   type: integrated
   url: https://github.com/OCA/product-attribute
 - branch: '12.0'
