@@ -1250,6 +1250,7 @@ repos:
   url: https://github.com/OCA/reporting-engine
 - branch: '15.0'
   path: OCA/reporting-engine/15.0
+  sha: 61cc5693ea83c0ee24f288689733c60648f0d407
   type: integrated
   url: https://github.com/OCA/reporting-engine
 - branch: '16.0'
@@ -1692,6 +1693,7 @@ repos:
   url: https://github.com/OCA/queue
 - branch: '15.0'
   path: OCA/queue/15.0
+  sha: ad85d90eddea4c8875efb6c56de8a61071231fbb
   type: integrated
   url: https://github.com/OCA/queue
 - branch: '16.0'
