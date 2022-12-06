@@ -217,6 +217,7 @@ repos:
   url: https://github.com/OCA/l10n-italy
 - branch: '13.0'
   path: OCA/l10n-italy/13.0
+  sha: d4449af5ad97b504f0e4d226f4fe6911178e2740
   type: integrated
   url: https://github.com/OCA/l10n-italy
 - branch: '14.0'
