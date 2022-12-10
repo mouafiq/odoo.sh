@@ -2,6 +2,7 @@
 import { registry } from "@web/core/registry";
 import { kanbanView } from "@web/views/kanban/kanban_view";
 import { KanbanEditorRenderer } from "@web_studio/client_action/view_editors/kanban/kanban_editor_renderer";
+import { makeModelErrorResilient } from "@web_studio/client_action/view_editors/utils";
 
 class OneRecordModel extends kanbanView.Model {
     async load() {
@@ -17,7 +18,7 @@ class OneRecordModel extends kanbanView.Model {
         }
         if (!hasRecords) {
             if (isGrouped) {
-                const group = this.createDataPoint("group", {
+                const params = {
                     ...list.commonGroupParams,
                     isFolded: false,
                     count: 0,
@@ -27,7 +28,11 @@ class OneRecordModel extends kanbanView.Model {
                     groupByField: list.groupByField,
                     groupDomain: [],
                     rawContext: list.rawContext,
-                });
+                };
+                if (["date", "datetime"].includes(list.groupByField.type)) {
+                    params.range = {};
+                }
+                const group = this.createDataPoint("group", params);
                 list.groups.push(group);
 
                 list = group.list;
@@ -45,7 +50,7 @@ const kanbanEditor = {
     props(genericProps, editor, config) {
         const props = kanbanView.props(genericProps, editor, config);
         props.defaultGroupBy = props.archInfo.defaultGroupBy;
-        props.Model = OneRecordModel;
+        props.Model = makeModelErrorResilient(OneRecordModel);
         props.limit = 1;
         props.Renderer = KanbanEditorRenderer;
         return props;
