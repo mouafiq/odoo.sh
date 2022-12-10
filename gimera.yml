@@ -147,7 +147,7 @@ repos:
   url: https://github.com/OCA/server-ux
 - branch: '14.0'
   path: OCA/server-ux/14.0
-  sha: 183bf162b515c014c415b0856838944c941146d8
+  sha: 6a0e10c4ff20fc2f8b3d7b2e58c3e76abd6adda3
   type: integrated
   url: https://github.com/OCA/server-ux
 - branch: '15.0'
