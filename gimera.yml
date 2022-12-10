@@ -92,7 +92,7 @@ repos:
   url: https://github.com/OCA/stock-logistics-warehouse
 - branch: '13.0'
   path: OCA/stock-logistics-warehouse/13.0
-  sha: f43a36cf7067c17b4bc1877825ff235839a05d70
+  sha: 3417ea369c4357272224424367b9b2ff4d544ed3
   type: integrated
   url: https://github.com/OCA/stock-logistics-warehouse
 - branch: '14.0'
