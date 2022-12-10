@@ -242,7 +242,7 @@ repos:
   url: https://github.com/OCA/multi-company
 - branch: '13.0'
   path: OCA/multi-company/13.0
-  sha: 3ba640147339a1d851f64c364065a382f48519a7
+  sha: 8eaa4d2bfa3742f894fa544dc623332bf2e679a3
   type: integrated
   url: https://github.com/OCA/multi-company
 - branch: '14.0'
