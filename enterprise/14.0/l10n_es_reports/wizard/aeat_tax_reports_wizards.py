@@ -32,6 +32,7 @@ class Mod111Wizard(models.TransientModel):
     _modelo = '111'
 
     casilla_10 = fields.Integer(string="[10] Nº de perceptores", default=0)
+    # 11 and 12 should be removed in master, not used by the wizard anymore (computed directly via tax tags)
     casilla_11 = fields.Monetary(string="[11] Valor percepciones en especie", default=0)
     casilla_12 = fields.Monetary(string="[12] Importe de los ingresos a cuenta", default=0)
     casilla_13 = fields.Integer(string="[13] Nº de perceptores", default=0)

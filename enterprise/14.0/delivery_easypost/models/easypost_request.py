@@ -84,7 +84,7 @@ class EasypostRequest():
             if not order.order_line:
                 raise UserError(_("Please provide at least one item to ship."))
             for line in order.order_line.filtered(
-                    lambda line: not line.product_id.weight and not line.is_delivery and line.product_id.type not in ['service', 'digital'] and not line.display_type
+                    lambda line: not line.product_id.weight and line.product_qty != 0 and not line.is_delivery and line.product_id.type not in ['service', 'digital'] and not line.display_type
                 ):
                 raise UserError(_('The estimated price cannot be computed because the weight of your product %s is missing.', line.product_id.display_name))
 
@@ -92,7 +92,7 @@ class EasypostRequest():
         if picking:
             if not picking.move_lines:
                 raise UserError(_("Please provide at least one item to ship."))
-            for line in picking.move_lines.filtered(lambda line: not line.weight):
+            for line in picking.move_lines.filtered(lambda line: not line.weight and line.product_qty != 0):
                 raise UserError(_('The estimated price cannot be computed because the weight of your product %s is missing.', line.product_id.display_name))
         return True
 

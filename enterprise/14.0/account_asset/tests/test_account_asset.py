@@ -1251,3 +1251,41 @@ class TestAccountAsset(TestAccountReportsCommon):
         ]
 
         self.assertLinesValues(report._get_lines(options)[:1], [0, 5, 6, 7, 8, 9, 10, 11, 12, 13], expected_values_closed_asset)
+
+    def test_asset_analytic_on_lines(self):
+        self.env.user.groups_id += self.env.ref('analytic.group_analytic_accounting')
+        self.env.user.groups_id += self.env.ref('analytic.group_analytic_tags')
+        analytic_account = self.env['account.analytic.account'].create({
+            'name': "Test Account"
+        })
+        analytic_tag = self.env['account.analytic.tag'].create({
+            'name': "Tag Analytic"
+        })
+        CEO_car = self.env['account.asset'].with_context(asset_type='purchase').create({
+            'salvage_value': 2000.0,
+            'state': 'open',
+            'method_period': '12',
+            'method_number': 5,
+            'name': "CEO's Car",
+            'original_value': 12000.0,
+            'model_id': self.account_asset_model_fixedassets.id,
+        })
+        CEO_car._onchange_model_id()
+        CEO_car.method_number = 5
+        CEO_car.account_analytic_id = analytic_account.id
+        CEO_car.analytic_tag_ids = analytic_tag
+
+        # In order to test the process of Account Asset, I perform a action to confirm Account Asset.
+        CEO_car.validate()
+
+        for move in CEO_car.depreciation_move_ids:
+            self.assertRecordValues(move.line_ids, [
+                {
+                    'analytic_account_id': analytic_account.id,
+                    'analytic_tag_ids': analytic_tag.ids,
+                },
+                {
+                    'analytic_account_id': analytic_account.id,
+                    'analytic_tag_ids': analytic_tag.ids,
+                },
+            ])

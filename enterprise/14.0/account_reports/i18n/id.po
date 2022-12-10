@@ -3037,7 +3037,7 @@ msgstr ""
 #: code:addons/account_reports/models/res_partner.py:0
 #, python-format
 msgid "any"
-msgstr ""
+msgstr "apapun"
 
 #. module: account_reports
 #: model_terms:ir.ui.view,arch_db:account_reports.res_config_settings_view_form

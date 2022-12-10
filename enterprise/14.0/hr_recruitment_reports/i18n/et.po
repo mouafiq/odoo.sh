@@ -9,6 +9,7 @@
 # Piia Paurson <piia@avalah.ee>, 2020
 # Algo Kärp <algokarp@gmail.com>, 2021
 # Aveli Kannel <aveli@avalah.ee>, 2021
+# Jana Jaakson, 2022
 # 
 msgid ""
 msgstr ""
@@ -16,7 +17,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-27 13:48+0000\n"
 "PO-Revision-Date: 2020-09-07 08:21+0000\n"
-"Last-Translator: Aveli Kannel <aveli@avalah.ee>, 2021\n"
+"Last-Translator: Jana Jaakson, 2022\n"
 "Language-Team: Estonian (https://www.transifex.com/odoo/teams/41243/et/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -27,7 +28,7 @@ msgstr ""
 #. module: hr_recruitment_reports
 #: model:ir.model.fields,field_description:hr_recruitment_reports.field_hr_recruitment_report__hired
 msgid "# Hired"
-msgstr ""
+msgstr "# Tööle võetud"
 
 #. module: hr_recruitment_reports
 #: model:ir.model.fields,field_description:hr_recruitment_reports.field_hr_recruitment_report__count
@@ -42,12 +43,12 @@ msgstr "# Palgalehed"
 #. module: hr_recruitment_reports
 #: model:ir.model.fields,field_description:hr_recruitment_reports.field_hr_recruitment_report__refused
 msgid "# Refused"
-msgstr ""
+msgstr "# Keeldunud"
 
 #. module: hr_recruitment_reports
 #: model:ir.model.fields,field_description:hr_recruitment_reports.field_hr_recruitment_report__name
 msgid "Applicant Name"
-msgstr ""
+msgstr "Kandideerija nimi"
 
 #. module: hr_recruitment_reports
 #: model:ir.model.fields,field_description:hr_recruitment_reports.field_hr_recruitment_report__company_id
@@ -78,7 +79,7 @@ msgstr "Rühmitamine"
 #. module: hr_recruitment_reports
 #: model_terms:ir.ui.view,arch_db:hr_recruitment_reports.hr_recruitment_report_view_dashboard
 msgid "Hired People"
-msgstr ""
+msgstr "Tööle võetud inimesed"
 
 #. module: hr_recruitment_reports
 #: model:ir.model.fields,field_description:hr_recruitment_reports.field_hr_recruitment_report__id
@@ -98,7 +99,7 @@ msgstr "Ametikoht"
 #. module: hr_recruitment_reports
 #: model_terms:ir.ui.view,arch_db:hr_recruitment_reports.recruitment_report_view_search
 msgid "Last 365 Days Applicant"
-msgstr ""
+msgstr "Viimase 365 päeva jooksul kandideerinud "
 
 #. module: hr_recruitment_reports
 #: model:ir.model.fields,field_description:hr_recruitment_reports.field_hr_recruitment_report____last_update
@@ -115,12 +116,12 @@ msgstr "Keskmine"
 #: model:ir.model.fields,field_description:hr_recruitment_reports.field_hr_recruitment_report__process_duration
 #: model_terms:ir.ui.view,arch_db:hr_recruitment_reports.hr_recruitment_report_view_dashboard
 msgid "Process Duration"
-msgstr ""
+msgstr "Protsessi kestus"
 
 #. module: hr_recruitment_reports
 #: model_terms:ir.ui.view,arch_db:hr_recruitment_reports.hr_recruitment_report_view_dashboard
 msgid "Process Duration in Days"
-msgstr ""
+msgstr "Protsessi kestus päevades"
 
 #. module: hr_recruitment_reports
 #: model:ir.actions.act_window,name:hr_recruitment_reports.recruitment_report_action

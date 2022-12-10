@@ -185,7 +185,7 @@ msgstr ""
 #: model:ir.actions.act_window,name:website_calendar.website_calendar_report
 #: model:ir.ui.menu,name:website_calendar.menu_schedule_report_online
 msgid "All Appointments"
-msgstr ""
+msgstr "Semua Appointment"
 
 #. module: website_calendar
 #: model_terms:ir.ui.view,arch_db:website_calendar.calendar_appointment_type_view_form
@@ -212,7 +212,7 @@ msgstr "Jawaban"
 #: model_terms:ir.ui.view,arch_db:website_calendar.index
 #, python-format
 msgid "Appointment"
-msgstr ""
+msgstr "Appointment"
 
 #. module: website_calendar
 #: model_terms:ir.ui.view,arch_db:website_calendar.calendar_appointment_type_view_form
@@ -241,7 +241,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:website_calendar.calendar_appointment_type_view_form
 #: model_terms:ir.ui.view,arch_db:website_calendar.calendar_appointment_type_view_tree
 msgid "Appointment Type"
-msgstr ""
+msgstr "Jenis Appointment"
 
 #. module: website_calendar
 #: model_terms:ir.ui.view,arch_db:website_calendar.appointment_validated
@@ -258,7 +258,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:website_calendar.calendar_event_view_graph
 #: model_terms:ir.ui.view,arch_db:website_calendar.calendar_event_view_pivot
 msgid "Appointments"
-msgstr ""
+msgstr "Appointment"
 
 #. module: website_calendar
 #: model:ir.model.fields,field_description:website_calendar.field_calendar_appointment_type__assignation_method
@@ -621,7 +621,7 @@ msgstr "Nama"
 #: code:addons/website_calendar/static/src/js/website_calendar.editor.js:0
 #, python-format
 msgid "New Appointment Type"
-msgstr ""
+msgstr "Jenis Appointment Baru"
 
 #. module: website_calendar
 #: model_terms:ir.ui.view,arch_db:website_calendar.setup
@@ -693,7 +693,7 @@ msgstr ""
 #: model:ir.ui.menu,name:website_calendar.website_appointment_type_menu
 #: model_terms:ir.ui.view,arch_db:website_calendar.calendar_event_view_search_inherit_website_calendar
 msgid "Online Appointments"
-msgstr ""
+msgstr "Appointment Online"
 
 #. module: website_calendar
 #: model:ir.model.fields,field_description:website_calendar.field_calendar_appointment_question__placeholder
@@ -801,7 +801,7 @@ msgstr ""
 #. module: website_calendar
 #: model_terms:ir.ui.view,arch_db:website_calendar.index
 msgid "Schedule an Appointment"
-msgstr ""
+msgstr "Jadwalkan Appointment"
 
 #. module: website_calendar
 #: model_terms:ir.actions.act_window,help:website_calendar.calendar_event_action_reporting
@@ -827,7 +827,7 @@ msgstr ""
 #. module: website_calendar
 #: model:ir.model.fields,field_description:website_calendar.field_calendar_appointment_type__seo_name
 msgid "Seo name"
-msgstr ""
+msgstr "Nama SEO"
 
 #. module: website_calendar
 #: model:ir.model.fields,field_description:website_calendar.field_calendar_appointment_question__sequence
@@ -939,7 +939,7 @@ msgstr ""
 #. module: website_calendar
 #: model:ir.model.fields,field_description:website_calendar.field_calendar_appointment_type__website_published
 msgid "Visible on current website"
-msgstr ""
+msgstr "Terlihat pada website saat ini"
 
 #. module: website_calendar
 #: model_terms:calendar.appointment.type,message_confirmation:website_calendar.calendar_appointment
@@ -986,7 +986,7 @@ msgstr "Judul meta situs"
 #. module: website_calendar
 #: model:ir.model.fields,field_description:website_calendar.field_calendar_appointment_type__website_meta_og_img
 msgid "Website opengraph image"
-msgstr ""
+msgstr "Gambar opengraph Website"
 
 #. module: website_calendar
 #: model_terms:ir.ui.view,arch_db:website_calendar.appointment_calendar

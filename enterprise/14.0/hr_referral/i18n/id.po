@@ -1249,7 +1249,7 @@ msgstr "Mulai"
 #: code:addons/hr_referral/static/src/xml/hr_referral_templates.xml:0
 #, python-format
 msgid "Start Now"
-msgstr ""
+msgstr "Mulai Sekarang"
 
 #. module: hr_referral
 #: model_terms:ir.ui.view,arch_db:hr_referral.employee_referral_report_view_dashboard

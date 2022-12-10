@@ -333,7 +333,7 @@ class DatevExportCSV(models.AbstractModel):
                 start_count = param_start_vendors.isdigit() and int(param_start_vendors) or 700000000
             start_count = int(str(start_count).ljust(len_param, '0'))
             return partner.l10n_de_datev_identifier or start_count + partner.id
-        return str(account.code).ljust(len_param - 1, '0')
+        return str(account.code).ljust(len_param - 1, '0') if account else ''
 
     # Source: http://www.datev.de/dnlexom/client/app/index.html#/document/1036228/D103622800029
     def get_csv(self, options):
@@ -389,7 +389,7 @@ class DatevExportCSV(models.AbstractModel):
                     codes = set(aml.tax_ids.mapped('l10n_de_datev_code'))
                     if len(codes) == 1:
                         # there should only be one max, else skip code
-                        code_correction = codes.pop()
+                        code_correction = codes.pop() or ''
 
                 # account and counterpart account
                 to_account_code = str(self._find_partner_account(aml.move_id.l10n_de_datev_main_account_id, aml.partner_id))
@@ -438,7 +438,7 @@ class DatevExportCSV(models.AbstractModel):
                     'belegfeld1': receipt1[-36:],
                     'belegfeld2': receipt2,
                     'datum': datetime.strftime(aml.move_id.date, '%-d%m'),
-                    'konto': account_code or '',
+                    'konto': account_code,
                     'kurs': str(aml.currency_id.rate).replace('.', ','),
                     'buchungstext': receipt1,
                     'line_amount': line_amount

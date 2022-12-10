@@ -301,12 +301,7 @@ class AnalyticLine(models.Model):
             })
             return notification 
 
-        if analytic_lines.filtered(lambda l: l.timer_start):
-            notification['params'].update({
-                'title': _("At least one timer is running on the selected timesheets."),
-                'type':'danger',
-            })
-            return notification 
+        analytic_lines._stop_all_users_timer()
 
         analytic_lines.sudo().write({'validated': True})
         notification['params'].update({
@@ -614,6 +609,21 @@ class AnalyticLine(models.Model):
         if self.user_timer_id.timer_start and self.display_timer:
             minutes_spent = super(AnalyticLine, self).action_timer_stop()
             self._add_timesheet_time(minutes_spent, try_to_match)
+
+    def _stop_all_users_timer(self, try_to_match=False):
+        """ Stop ALL the timers of the timesheets (WHOEVER the timer associated user is)
+            try_to_match: if true, we try to match with another timesheet which corresponds to the following criteria:
+            1. Neither of them has a description
+            2. The last one is not validated
+            3. Match user, project task, and must be the same day.
+        """
+        if any(self.sudo().mapped('validated')):
+            raise UserError(_('Sorry, you cannot use a timer for a validated timesheet'))
+        timers = self.env['timer.timer'].sudo().search([('res_id', 'in', self.ids), ('res_model', '=', self._name)])
+        for timer in timers:
+            minutes_spent = timer.action_timer_stop()
+            self.env["account.analytic.line"].browse(timer.res_id).sudo()._add_timesheet_time(minutes_spent, try_to_match)
+            timer.unlink()
 
     def action_timer_unlink(self):
         """ Action unlink the timer of the current timesheet

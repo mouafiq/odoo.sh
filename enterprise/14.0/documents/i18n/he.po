@@ -20,6 +20,7 @@
 # Netta Waizer, 2022
 # Roy Sayag, 2022
 # NoaFarkash, 2022
+# Ha Ketem <haketem@gmail.com>, 2022
 # 
 msgid ""
 msgstr ""
@@ -27,7 +28,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-27 13:47+0000\n"
 "PO-Revision-Date: 2020-09-07 08:19+0000\n"
-"Last-Translator: NoaFarkash, 2022\n"
+"Last-Translator: Ha Ketem <haketem@gmail.com>, 2022\n"
 "Language-Team: Hebrew (https://www.transifex.com/odoo/teams/41243/he/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -65,7 +66,7 @@ msgstr "%s מסמכים"
 #: code:addons/documents/static/src/js/documents_controller_mixin.js:0
 #, python-format
 msgid "%s Documents (%s locked)"
-msgstr ""
+msgstr "%s מסמכים(%s נעולים)"
 
 #. module: documents
 #. openerp-web
@@ -161,6 +162,8 @@ msgid ""
 "<i class=\"fa fa fa-folder o_documents_folder_color mr-2\" "
 "title=\"Workspace\"/>"
 msgstr ""
+"<i class=\"fa fa fa-folder o_documents_folder_color mr-2\" "
+"title=\"Workspace\"/>"
 
 #. module: documents
 #: model_terms:ir.ui.view,arch_db:documents.share_single
@@ -174,7 +177,7 @@ msgstr ""
 #. module: documents
 #: model_terms:ir.ui.view,arch_db:documents.document_view_kanban
 msgid "<i class=\"fa fa-circle-thin o_record_selector\" title=\"Select document\"/>"
-msgstr ""
+msgstr "<i class=\"fa fa-circle-thin o_record_selector\" title=\"Select document\"/>"
 
 #. module: documents
 #: model_terms:ir.ui.view,arch_db:documents.share_page
@@ -196,7 +199,7 @@ msgstr "<i class=\"fa fa-fw o_button_icon fa-arrow-right\"/> הגדר שרתי �
 #. module: documents
 #: model_terms:ir.ui.view,arch_db:documents.document_view_kanban
 msgid "<i class=\"fa fa-globe\" title=\"Document url\"/>"
-msgstr ""
+msgstr "<i class=\"fa fa-globe\" title=\"Document url\"/>"
 
 #. module: documents
 #: model_terms:ir.ui.view,arch_db:documents.share_single
@@ -209,6 +212,8 @@ msgid ""
 "<i class=\"fa fa-tag o_documents_tag_color ml-2\" attrs=\"{'invisible': "
 "[('tag_ids', '=', [])]}\" title=\"Tags\"/>"
 msgstr ""
+"<i class=\"fa fa-tag o_documents_tag_color ml-2\" attrs=\"{'invisible': "
+"[('tag_ids', '=', [])]}\" title=\"Tags\"/>"
 
 #. module: documents
 #: model_terms:ir.ui.view,arch_db:documents.share_page
@@ -498,7 +503,7 @@ msgstr "הוסף"
 #: code:addons/documents/static/src/owl/components/pdf_manager/pdf_manager.xml:0
 #, python-format
 msgid "Add File"
-msgstr ""
+msgstr "הוספת קובץ"
 
 #. module: documents
 #: model:ir.actions.act_window,name:documents.action_url_form
@@ -520,7 +525,7 @@ msgstr "הוסף קישור "
 #: code:addons/documents/static/src/owl/components/pdf_manager/pdf_manager.xml:0
 #, python-format
 msgid "Add new file"
-msgstr ""
+msgstr "הוספת קובץ חדש"
 
 #. module: documents
 #: model:res.groups,name:documents.group_documents_manager
@@ -606,7 +611,7 @@ msgstr "ארכיון"
 #: code:addons/documents/static/src/owl/components/pdf_manager/pdf_manager.xml:0
 #, python-format
 msgid "Archive original file(s)"
-msgstr ""
+msgstr "שליחת קובץ/קבצים מקוריים לארכיון"
 
 #. module: documents
 #: model_terms:ir.ui.view,arch_db:documents.document_view_form
@@ -620,12 +625,12 @@ msgstr "בארכיון"
 #, python-format
 msgid ""
 "As this PDF contains multiple documents, let's split and process in bulk."
-msgstr ""
+msgstr "בגלל שה-PDF מכין מספר מסמכים, בואו נחלק ואז נטפל בהם בבת-אחת."
 
 #. module: documents
 #: model:documents.workflow.rule,name:documents.documents_rule_finance_afv
 msgid "Ask for Validation"
-msgstr ""
+msgstr "לבקש אימות"
 
 #. module: documents
 #: model:documents.facet,name:documents.documents_marketing_assets

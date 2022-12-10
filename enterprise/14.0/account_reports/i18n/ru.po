@@ -16,6 +16,7 @@
 # Irina Fedulova <istartlin@gmail.com>, 2020
 # Ivan Kropotkin <yelizariev@itpp.dev>, 2021
 # ILMIR <karamov@it-projects.info>, 2021
+# valmasone, 2022
 # Сергей Шебанин <sergey@shebanin.ru>, 2022
 # 
 msgid ""
@@ -693,7 +694,7 @@ msgstr ""
 #. module: account_reports
 #: model_terms:ir.ui.view,arch_db:account_reports.account_reports_journal_dashboard_kanban_view
 msgid "Balance in GL"
-msgstr ""
+msgstr "Сальдо"
 
 #. module: account_reports
 #: model:ir.model.fields,field_description:account_reports.field_account_multicurrency_revaluation__report_amount_currency
@@ -3114,7 +3115,7 @@ msgstr "название модели отчета"
 #. module: account_reports
 #: model_terms:ir.ui.view,arch_db:account_reports.main_template
 msgid "prior or included in this period"
-msgstr ""
+msgstr "в текущем периоде или ранее"
 
 #. module: account_reports
 #: model:ir.model.fields.selection,name:account_reports.selection__res_company__account_tax_periodicity__trimester

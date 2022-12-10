@@ -264,7 +264,7 @@ msgstr ""
 #: code:addons/documents_spreadsheet/static/src/js/o-spreadsheet/o_spreadsheet.js:0
 #, python-format
 msgid "Bold"
-msgstr ""
+msgstr "Bold"
 
 #. module: documents_spreadsheet
 #. openerp-web
@@ -467,7 +467,7 @@ msgstr ""
 #: code:addons/documents_spreadsheet/static/src/js/o-spreadsheet/o_spreadsheet.js:0
 #, python-format
 msgid "Copy"
-msgstr ""
+msgstr "Copy"
 
 #. module: documents_spreadsheet
 #. openerp-web
@@ -1635,7 +1635,7 @@ msgstr ""
 #: code:addons/documents_spreadsheet/static/src/js/components/filter_editor_side_panel.js:0
 #, python-format
 msgid "Invalid fields"
-msgstr ""
+msgstr "Kolom invalid"
 
 #. module: documents_spreadsheet
 #. openerp-web
@@ -2833,7 +2833,7 @@ msgstr "Teks"
 #: code:addons/documents_spreadsheet/static/src/js/o-spreadsheet/o_spreadsheet.js:0
 #, python-format
 msgid "Text Color"
-msgstr ""
+msgstr "Warna Teks"
 
 #. module: documents_spreadsheet
 #. openerp-web

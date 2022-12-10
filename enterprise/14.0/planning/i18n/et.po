@@ -12,6 +12,7 @@
 # Piia Paurson <piia@avalah.ee>, 2020
 # Triine Aavik <triine@avalah.ee>, 2020
 # Algo Kärp <algokarp@gmail.com>, 2021
+# Leaanika Randmets, 2022
 # 
 msgid ""
 msgstr ""
@@ -19,7 +20,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-27 13:47+0000\n"
 "PO-Revision-Date: 2020-09-07 08:22+0000\n"
-"Last-Translator: Algo Kärp <algokarp@gmail.com>, 2021\n"
+"Last-Translator: Leaanika Randmets, 2022\n"
 "Language-Team: Estonian (https://www.transifex.com/odoo/teams/41243/et/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -995,7 +996,7 @@ msgstr "Graafiku korduvus"
 #: model:ir.model,name:planning.model_planning_role
 #: model_terms:ir.ui.view,arch_db:planning.planning_role_view_form
 msgid "Planning Role"
-msgstr ""
+msgstr "Rolli planeerimine"
 
 #. module: planning
 #: model_terms:ir.ui.view,arch_db:planning.planning_role_view_tree

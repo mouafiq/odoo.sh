@@ -11,10 +11,11 @@
 # Ikhsanul Wirsa <iwirsa02@outlook.co.id>, 2020
 # Wahyu Setiawan <wahyusetiaaa@gmail.com>, 2020
 # Ryanto The <ry.the77@gmail.com>, 2020
-# Muftiara Syuhada <muftiara.syuhada@falinwa.com>, 2020
+# Muftiara Syuhada <muftiara.syuhada@gmail.com>, 2020
 # Bonny Useful <bonny.useful@gmail.com>, 2020
 # Martin Trigaux, 2021
 # Abdul Munif Hanafi <amunifhanafi@gmail.com>, 2021
+# Abe Manyo, 2022
 # 
 msgid ""
 msgstr ""
@@ -22,7 +23,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-27 13:47+0000\n"
 "PO-Revision-Date: 2020-09-07 08:21+0000\n"
-"Last-Translator: Abdul Munif Hanafi <amunifhanafi@gmail.com>, 2021\n"
+"Last-Translator: Abe Manyo, 2022\n"
 "Language-Team: Indonesian (https://www.transifex.com/odoo/teams/41243/id/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1406,7 +1407,7 @@ msgstr "Label"
 #: model_terms:ir.ui.view,arch_db:marketing_automation.marketing_campaign_view_search
 #: model_terms:ir.ui.view,arch_db:marketing_automation.marketing_campaign_view_tree
 msgid "Target"
-msgstr ""
+msgstr "Target"
 
 #. module: marketing_automation
 #: model_terms:ir.ui.view,arch_db:marketing_automation.marketing_participant_view_tree
@@ -1491,7 +1492,7 @@ msgstr ""
 #. module: marketing_automation
 #: model_terms:ir.ui.view,arch_db:marketing_automation.marketing_activity_view_form
 msgid "Trigger"
-msgstr ""
+msgstr "Pemicu"
 
 #. module: marketing_automation
 #: model:ir.model.fields,field_description:marketing_automation.field_marketing_activity__trigger_category
@@ -1508,7 +1509,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:marketing_automation.field_marketing_activity__utm_campaign_id
 #: model:ir.model.fields,field_description:marketing_automation.field_marketing_campaign__utm_campaign_id
 msgid "UTM Campaign"
-msgstr ""
+msgstr "Kampanye UTM"
 
 #. module: marketing_automation
 #: model_terms:ir.ui.view,arch_db:marketing_automation.marketing_campaign_view_form
