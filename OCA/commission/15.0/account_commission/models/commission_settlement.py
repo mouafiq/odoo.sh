@@ -30,6 +30,7 @@ class CommissionSettlement(models.Model):
         readonly=True,
     )
     invoice_id = fields.Many2one(
+        string="Generated Invoice",
         store=True,
         comodel_name="account.move",
         compute="_compute_invoice_id",
@@ -44,7 +45,9 @@ class CommissionSettlement(models.Model):
     @api.depends("invoice_line_ids")
     def _compute_invoice_id(self):
         for record in self:
-            record.invoice_id = record.invoice_line_ids[:1].move_id
+            record.invoice_id = record.invoice_line_ids.filtered(
+                lambda x: x.parent_state != "cancel"
+            )[:1].move_id
 
     def action_cancel(self):
         """Check if any settlement has been invoiced."""
@@ -53,7 +56,7 @@ class CommissionSettlement(models.Model):
         return super().action_cancel()
 
     def action_draft(self):
-        self.write({"state": "draft"})
+        self.write({"state": "settled"})
 
     def unlink(self):
         """Allow to delete only cancelled settlements."""
