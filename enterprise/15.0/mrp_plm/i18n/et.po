@@ -1023,7 +1023,7 @@ msgstr "Kanbani seisund"
 #. module: mrp_plm
 #: model:ir.model.fields,field_description:mrp_plm.field_mrp_eco__kanban_state_label
 msgid "Kanban State Label"
-msgstr ""
+msgstr "Kanban´i oleku silt"
 
 #. module: mrp_plm
 #: model:ir.model.fields,field_description:mrp_plm.field_mrp_eco__legend_done

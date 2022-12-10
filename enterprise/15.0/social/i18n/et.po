@@ -1645,7 +1645,7 @@ msgstr ""
 #. module: social
 #: model:ir.model.fields,field_description:social.field_social_post__utm_source_id
 msgid "UTM Source"
-msgstr ""
+msgstr "UTM allikas"
 
 #. module: social
 #: code:addons/social/models/social_post.py:0

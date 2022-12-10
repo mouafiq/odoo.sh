@@ -352,7 +352,7 @@ msgstr ""
 #: code:addons/documents_spreadsheet/static/src/js/o_spreadsheet/o_spreadsheet.js:0
 #, python-format
 msgid "Bold"
-msgstr ""
+msgstr "Bold"
 
 #. module: documents_spreadsheet
 #. openerp-web
@@ -651,7 +651,7 @@ msgstr ""
 #: code:addons/documents_spreadsheet/static/src/js/o_spreadsheet/o_spreadsheet.js:0
 #, python-format
 msgid "Copy"
-msgstr ""
+msgstr "Copy"
 
 #. module: documents_spreadsheet
 #. openerp-web
@@ -3600,7 +3600,7 @@ msgstr "Teks"
 #: code:addons/documents_spreadsheet/static/src/js/o_spreadsheet/o_spreadsheet.js:0
 #, python-format
 msgid "Text Color"
-msgstr ""
+msgstr "Warna Teks"
 
 #. module: documents_spreadsheet
 #. openerp-web
@@ -4294,7 +4294,7 @@ msgstr ""
 #: code:addons/documents_spreadsheet/static/src/js/o_spreadsheet/o_spreadsheet.js:0
 #, python-format
 msgid "Top"
-msgstr ""
+msgstr "Atas"
 
 #. module: documents_spreadsheet
 #. openerp-web

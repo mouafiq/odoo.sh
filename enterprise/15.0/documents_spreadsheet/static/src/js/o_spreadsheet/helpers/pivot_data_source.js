@@ -177,6 +177,9 @@ export default class PivotDataSource extends BasicDataSource {
             return undefined
         }
         const sqlValue = readGroup["__range"][fieldName].from
+        if (this.metadata.fields[fieldName].type === "date") {
+            return sqlValue;
+        }
         return luxon.DateTime.fromSQL(sqlValue, {  zone: "utc" }).toLocal().toISODate();
     }
 

@@ -41,19 +41,19 @@ msgstr ""
 #. module: website_appointment
 #: model_terms:ir.ui.view,arch_db:website_appointment.calendar_appointment_type_view_kanban
 msgid "<span>Published</span>"
-msgstr ""
+msgstr "<span>Dipublikasikan</span>"
 
 #. module: website_appointment
 #: code:addons/website_appointment/models/website.py:0
 #: model:website.menu,name:website_appointment.menu_appointment
 #, python-format
 msgid "Appointment"
-msgstr ""
+msgstr "Appointment"
 
 #. module: website_appointment
 #: model:ir.model,name:website_appointment.model_calendar_appointment_type
 msgid "Appointment Type"
-msgstr ""
+msgstr "Jenis Appointment"
 
 #. module: website_appointment
 #: model:ir.model,name:website_appointment.model_calendar_appointment_share
@@ -87,17 +87,17 @@ msgstr "Nama"
 #: code:addons/website_appointment/static/src/js/website_appointment.editor.js:0
 #, python-format
 msgid "New Appointment Type"
-msgstr ""
+msgstr "Jenis Appointment Baru"
 
 #. module: website_appointment
 #: model_terms:ir.ui.view,arch_db:website_appointment.appointments_cards
 msgid "No appointment found."
-msgstr ""
+msgstr "Tidak ada appointment yang ditemukan."
 
 #. module: website_appointment
 #: model:ir.ui.menu,name:website_appointment.website_appointment_type_menu
 msgid "Online Appointments"
-msgstr ""
+msgstr "Appointment Online"
 
 #. module: website_appointment
 #: model_terms:ir.ui.view,arch_db:website_appointment.calendar_appointment_type_view_kanban
@@ -113,12 +113,12 @@ msgstr "Dioptimalkan SEO"
 #: code:addons/website_appointment/models/website.py:0
 #, python-format
 msgid "Schedule an appointment"
-msgstr ""
+msgstr "Jadwalkan Appointment"
 
 #. module: website_appointment
 #: model:ir.model.fields,field_description:website_appointment.field_calendar_appointment_type__seo_name
 msgid "Seo name"
-msgstr ""
+msgstr "Nama SEO"
 
 #. module: website_appointment
 #: model:ir.model.fields,help:website_appointment.field_calendar_appointment_type__website_url
@@ -128,12 +128,12 @@ msgstr "URL lengkap untuk mengakses dokumen melalui website."
 #. module: website_appointment
 #: model_terms:ir.ui.view,arch_db:website_appointment.appointments_cards
 msgid "Use the top button '<b>+ New</b>' to create an appointment type."
-msgstr ""
+msgstr "Gunakan tombol diatas '<b>+ New</b>' untuk membuat jenis appointment."
 
 #. module: website_appointment
 #: model:ir.model.fields,field_description:website_appointment.field_calendar_appointment_type__website_published
 msgid "Visible on current website"
-msgstr ""
+msgstr "Terlihat pada website saat ini"
 
 #. module: website_appointment
 #: model:ir.model,name:website_appointment.model_website
@@ -163,4 +163,4 @@ msgstr "Judul meta website"
 #. module: website_appointment
 #: model:ir.model.fields,field_description:website_appointment.field_calendar_appointment_type__website_meta_og_img
 msgid "Website opengraph image"
-msgstr ""
+msgstr "Gambar opengraph Website"

@@ -7,6 +7,7 @@
 # ExcaliberX <excaliberx@gmail.com>, 2022
 # Martin Trigaux, 2022
 # ZVI BLONDER <ZVIBLONDER@gmail.com>, 2022
+# Ha Ketem <haketem@gmail.com>, 2022
 # 
 msgid ""
 msgstr ""
@@ -14,7 +15,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-06 12:46+0000\n"
 "PO-Revision-Date: 2022-06-10 15:35+0000\n"
-"Last-Translator: ZVI BLONDER <ZVIBLONDER@gmail.com>, 2022\n"
+"Last-Translator: Ha Ketem <haketem@gmail.com>, 2022\n"
 "Language-Team: Hebrew (https://www.transifex.com/odoo/teams/41243/he/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -76,7 +77,7 @@ msgstr "קוד"
 #: code:addons/sale_amazon_spapi/utils.py:0
 #, python-format
 msgid "Could not establish the connection to the API."
-msgstr ""
+msgstr "לא הצלחנו להתחבר ל-API."
 
 #. module: sale_amazon_spapi
 #: code:addons/sale_amazon_spapi/utils.py:0
@@ -155,7 +156,7 @@ msgstr ""
 #. module: sale_amazon_spapi
 #: model:ir.model.fields,field_description:sale_amazon_spapi.field_amazon_marketplace__region
 msgid "Region"
-msgstr ""
+msgstr "איזור"
 
 #. module: sale_amazon_spapi
 #: model:ir.model.fields,field_description:sale_amazon_spapi.field_amazon_account__restricted_data_token

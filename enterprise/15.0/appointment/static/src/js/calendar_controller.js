@@ -62,7 +62,7 @@ CalendarController.include({
                 },
             });
             if (customAppointment.id) {
-                browser.navigator.clipboard.writeText(customAppointment.url);
+                setTimeout(async () => await browser.navigator.clipboard.writeText(customAppointment.url));
                 this.lastAppointmentURL = customAppointment.url;
             }
         }
@@ -89,7 +89,7 @@ CalendarController.include({
             route: '/appointment/calendar_appointment_type/search_create_work_hours',
         });
         if (workHoursAppointment.id) {
-            browser.navigator.clipboard.writeText(workHoursAppointment.url);
+            setTimeout(async () => await browser.navigator.clipboard.writeText(workHoursAppointment.url));
             this.lastAppointmentURL = workHoursAppointment.url;
         }
     },

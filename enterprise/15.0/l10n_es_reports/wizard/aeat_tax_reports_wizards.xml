@@ -35,8 +35,6 @@
                             <strong>Redimientos en especie</strong>
                             <group>
                                 <field name="casilla_10"/>
-                                <field name="casilla_11"/>
-                                <field name="casilla_12"/>
                             </group>
 
                             <h2>Premios por la participación en juegos</h2>

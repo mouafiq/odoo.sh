@@ -9,6 +9,7 @@
 # Ryanto The <ry.the77@gmail.com>, 2022
 # Altela Eleviansyah Pramardhika <altela_pramardhika@yahoo.com>, 2022
 # Martin Trigaux, 2022
+# Abe Manyo, 2022
 # 
 msgid ""
 msgstr ""
@@ -16,7 +17,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-16 15:21+0000\n"
 "PO-Revision-Date: 2021-09-14 12:43+0000\n"
-"Last-Translator: Martin Trigaux, 2022\n"
+"Last-Translator: Abe Manyo, 2022\n"
 "Language-Team: Indonesian (https://www.transifex.com/odoo/teams/41243/id/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -36,7 +37,7 @@ msgstr ""
 #: code:addons/web_enterprise/static/src/webclient/burger_menu/mobile_switch_company_menu/mobile_switch_company_menu.xml:0
 #, python-format
 msgid "(current)"
-msgstr ""
+msgstr "(current)"
 
 #. module: web_enterprise
 #. openerp-web
@@ -103,7 +104,7 @@ msgstr "Semua"
 #: code:addons/web_enterprise/static/src/search/control_panel/control_panel.xml:0
 #, python-format
 msgid "CLEAR"
-msgstr ""
+msgstr "CLEAR"
 
 #. module: web_enterprise
 #. openerp-web
@@ -139,7 +140,7 @@ msgstr "Tutup"
 #: code:addons/web_enterprise/static/src/webclient/burger_menu/burger_menu.xml:0
 #, python-format
 msgid "Close menu"
-msgstr ""
+msgstr "Tutup menu"
 
 #. module: web_enterprise
 #. openerp-web
@@ -165,7 +166,7 @@ msgstr ""
 #: code:addons/web_enterprise/static/src/webclient/barcode/barcode_scanner.js:0
 #, python-format
 msgid "Could not start scanning. "
-msgstr ""
+msgstr "Tidak dapat memulai scanning."
 
 #. module: web_enterprise
 #. openerp-web
@@ -201,7 +202,7 @@ msgstr ""
 #: code:addons/web_enterprise/static/src/search/search_panel/search_panel.xml:0
 #, python-format
 msgid "FILTER"
-msgstr ""
+msgstr "FILTER"
 
 #. module: web_enterprise
 #: model:ir.model,name:web_enterprise.model_ir_http
@@ -235,7 +236,7 @@ msgstr "Menu"
 #: code:addons/web_enterprise/static/src/webclient/barcode/barcode_scanner.js:0
 #, python-format
 msgid "No device can be found."
-msgstr ""
+msgstr "Tidak ada perangkat yang ditemukan"
 
 #. module: web_enterprise
 #. openerp-web
@@ -249,7 +250,7 @@ msgstr ""
 #: code:addons/web_enterprise/static/src/webclient/home_menu/home_menu.xml:0
 #, python-format
 msgid "No result"
-msgstr ""
+msgstr "Tidak ada hasil"
 
 #. module: web_enterprise
 #. openerp-web
@@ -285,7 +286,7 @@ msgstr ""
 #: code:addons/web_enterprise/static/src/webclient/barcode/barcode_scanner.js:0
 #, python-format
 msgid "Odoo needs your authorization first."
-msgstr ""
+msgstr "Odoo membutuhkan otorisasi Anda terlebih dahulu."
 
 #. module: web_enterprise
 #. openerp-web
@@ -340,7 +341,7 @@ msgstr ""
 #: code:addons/web_enterprise/static/src/search/search_panel/search_panel.xml:0
 #, python-format
 msgid "SEE RESULT"
-msgstr ""
+msgstr "LIHAT HASIL"
 
 #. module: web_enterprise
 #. openerp-web
@@ -348,7 +349,7 @@ msgstr ""
 #: code:addons/web_enterprise/static/src/legacy/xml/barcode_fields.xml:0
 #, python-format
 msgid "Scan barcode"
-msgstr ""
+msgstr "Scan barcode"
 
 #. module: web_enterprise
 #. openerp-web
@@ -447,7 +448,7 @@ msgstr "Hari Ini"
 #: code:addons/web_enterprise/static/src/webclient/burger_menu/burger_menu.xml:0
 #, python-format
 msgid "Toggle menu"
-msgstr ""
+msgstr "Toggle menu"
 
 #. module: web_enterprise
 #. openerp-web

@@ -6,7 +6,6 @@
 # nurbakhit nurka <nurbakhit@bumanit.mn>, 2021
 # Batmunkh Ganbat <batmunkh.g@bumanit.mn>, 2021
 # tumenjargal hadbaatar <tumenjargal7903@gmail.com>, 2021
-# Baskhuu Lodoikhuu <baskhuujacara@gmail.com>, 2021
 # Martin Trigaux, 2021
 # hish, 2021
 # Батмөнх Ганбат <batmunkh2522@gmail.com>, 2021
@@ -15,6 +14,7 @@
 # Батболд <batbold.ts@gmail.com>, 2021
 # Munkhbaatar g <muuguu17@gmail.com>, 2021
 # Bayarkhuu Bataa, 2022
+# Baskhuu Lodoikhuu <baskhuujacara@gmail.com>, 2022
 # 
 msgid ""
 msgstr ""
@@ -22,7 +22,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-09-14 10:59+0000\n"
 "PO-Revision-Date: 2021-09-14 12:37+0000\n"
-"Last-Translator: Bayarkhuu Bataa, 2022\n"
+"Last-Translator: Baskhuu Lodoikhuu <baskhuujacara@gmail.com>, 2022\n"
 "Language-Team: Mongolian (https://www.transifex.com/odoo/teams/41243/mn/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -61,13 +61,13 @@ msgstr "%s нэхэмжлэлээс үүссэн"
 #: code:addons/account_asset/report/account_assets_report.py:0
 #, python-format
 msgid "%s m"
-msgstr ""
+msgstr "%s с"
 
 #. module: account_asset
 #: code:addons/account_asset/report/account_assets_report.py:0
 #, python-format
 msgid "%s y"
-msgstr ""
+msgstr "%s ж"
 
 #. module: account_asset
 #: code:addons/account_asset/models/account_asset.py:0
@@ -614,32 +614,32 @@ msgstr "Нооргоор үүсгэх"
 #. module: account_asset
 #: model_terms:ir.actions.act_window,help:account_asset.action_account_asset_form
 msgid "Create new asset"
-msgstr ""
+msgstr "Шинэ хөрөнгө үүсгэх"
 
 #. module: account_asset
 #: model_terms:ir.actions.act_window,help:account_asset.action_account_asset_model_form
 msgid "Create new asset model"
-msgstr ""
+msgstr "Шинэ хөрөнгийн загвар үүсгэх"
 
 #. module: account_asset
 #: model_terms:ir.actions.act_window,help:account_asset.action_account_expense_form
 msgid "Create new deferred expense"
-msgstr ""
+msgstr "Шинэ урьдчилж тооцсон зардал бүртгэх"
 
 #. module: account_asset
 #: model_terms:ir.actions.act_window,help:account_asset.action_account_expense_model_form
 msgid "Create new deferred expense model"
-msgstr ""
+msgstr "Шинэ урьдчилж тооцсон зардлын загвар бүртгэх"
 
 #. module: account_asset
 #: model_terms:ir.actions.act_window,help:account_asset.action_account_revenue_form
 msgid "Create new deferred revenue"
-msgstr ""
+msgstr "Шинэ урьдчилж тооцсон орлого бүртгэх"
 
 #. module: account_asset
 #: model_terms:ir.actions.act_window,help:account_asset.action_account_revenue_model_form
 msgid "Create new deferred revenue model"
-msgstr ""
+msgstr "Шинэ урьдчилж тооцсон орлогын загвар бүртгэх"
 
 #. module: account_asset
 #: model:ir.model.fields,field_description:account_asset.field_account_asset__create_uid
@@ -1035,7 +1035,7 @@ msgstr "Үргэлжлэх хугацаа"
 #: code:addons/account_asset/report/account_assets_report.py:0
 #, python-format
 msgid "Duration / Rate"
-msgstr ""
+msgstr "Хугацаа / Харьцаа"
 
 #. module: account_asset
 #: model_terms:ir.ui.view,arch_db:account_asset.view_account_asset_form
@@ -1186,7 +1186,7 @@ msgstr "Бүлэглэх..."
 #. module: account_asset
 #: model:ir.model.fields,field_description:account_asset.field_account_asset__has_message
 msgid "Has Message"
-msgstr ""
+msgstr "Мессежтэй"
 
 #. module: account_asset
 #: model:ir.model.fields,field_description:account_asset.field_account_asset__id

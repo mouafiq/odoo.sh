@@ -419,7 +419,7 @@ msgstr "Judul"
 #. module: social_push_notifications
 #: model:ir.model,name:social_push_notifications.model_utm_campaign
 msgid "UTM Campaign"
-msgstr ""
+msgstr "Kampanye UTM"
 
 #. module: social_push_notifications
 #: model_terms:ir.ui.view,arch_db:social_push_notifications.res_config_settings_view_form
@@ -449,7 +449,7 @@ msgstr ""
 #. module: social_push_notifications
 #: model:ir.ui.menu,name:social_push_notifications.social_visitor
 msgid "Visitors"
-msgstr ""
+msgstr "Pengunjung"
 
 #. module: social_push_notifications
 #: code:addons/social_push_notifications/controllers/main.py:0
@@ -477,7 +477,7 @@ msgstr "Website"
 #. module: social_push_notifications
 #: model:ir.model,name:social_push_notifications.model_website_visitor
 msgid "Website Visitor"
-msgstr ""
+msgstr "Pengunjung Website"
 
 #. module: social_push_notifications
 #: code:addons/social_push_notifications/models/social_account.py:0

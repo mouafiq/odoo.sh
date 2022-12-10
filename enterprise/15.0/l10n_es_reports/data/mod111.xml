@@ -190,7 +190,9 @@
             <field name="name">[11] Valor percepciones en especie</field>
             <field name="code">aeat_mod_111_11</field>
             <field name="parent_id" ref='mod_111_title_6'/>
-            <field name="formulas">from_context</field>
+            <field name="domain" eval="[('tax_tag_ids', '=', ref('l10n_es.mod_111_11'))]"/>
+            <field name="formulas">sum</field>
+            <field name="groupby">account_id</field>
             <field name="sequence" eval="17"/>
             <field name="level" eval="4"/>
             <field name="special_date_changer">strict_range</field>
@@ -200,7 +202,9 @@
             <field name="name">[12] Importe de los ingresos a cuenta</field>
             <field name="code">aeat_mod_111_12</field>
             <field name="parent_id" ref='mod_111_title_6'/>
-            <field name="formulas">from_context</field>
+            <field name="domain" eval="[('tax_tag_ids', '=', ref('l10n_es.mod_111_12'))]"/>
+            <field name="formulas">-sum</field>
+            <field name="groupby">account_id</field>
             <field name="sequence" eval="18"/>
             <field name="level" eval="4"/>
             <field name="special_date_changer">strict_range</field>
