@@ -20,7 +20,7 @@ repos:
   url: https://github.com/odoo/odoo
 - branch: 15.0
   path: enterprise/15.0
-  sha: 6ea095dadf36d9d9546247f69d2560fda7cbebd6
+  sha: 08d6b0042eeeafb11b8b8917c581e93415e6ac2a
   type: integrated
   url: git@github.com:odoo/enterprise
 - branch: 16.0
