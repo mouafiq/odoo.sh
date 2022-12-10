@@ -47,7 +47,7 @@ repos:
   url: https://github.com/OCA/knowledge
 - branch: '14.0'
   path: OCA/knowledge/14.0
-  sha: 0aee131dd68b8f791842369ce059407c34b99025
+  sha: 37c641dfa323d8d0c71387f5978d453a07acb127
   type: integrated
   url: https://github.com/OCA/knowledge
 - branch: '15.0'
