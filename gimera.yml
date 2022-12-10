@@ -8,7 +8,7 @@ repos:
   url: https://github.com/odoo/odoo
 - branch: 14.0
   path: enterprise/14.0
-  sha: aded330b0d4991e9e7505f64c0dce6aece0caf35
+  sha: ac12fcaea2adb2f408ede8f3149a335d2d3b7896
   type: integrated
   url: git@github.com:odoo/enterprise
 - branch: 15.0
