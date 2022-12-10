@@ -3,7 +3,7 @@ repos:
   patches:
   - patches/odoo.14
   path: odoo/14.0
-  sha: 9b777fa9ab9ab22a1cdce6e9aa10766c58e96715
+  sha: 427ce76760a015d871589f43dba9985a793f937e
   type: integrated
   url: https://github.com/odoo/odoo
 - branch: 14.0
