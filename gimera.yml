@@ -886,6 +886,7 @@ repos:
   url: https://github.com/OCA/sale-workflow
 - branch: '13.0'
   path: OCA/sale-workflow/13.0
+  sha: 6629b2baafd0644d771d4e00233f4053f4ed601b
   type: integrated
   url: https://github.com/OCA/sale-workflow
 - branch: '14.0'
