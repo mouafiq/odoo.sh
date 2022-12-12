@@ -4393,6 +4393,7 @@ repos:
   url: https://github.com/OCA/l10n-greece
 - branch: '15.0'
   path: OCA/l10n-greece/15.0
+  sha: 9892cd8a49db9b5439f7d9474e9023cd69db17d2
   type: integrated
   url: https://github.com/OCA/l10n-greece
 - branch: '16.0'
