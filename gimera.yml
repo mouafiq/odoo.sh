@@ -2737,6 +2737,7 @@ repos:
   url: https://github.com/OCA/l10n-germany
 - branch: '14.0'
   path: OCA/l10n-germany/14.0
+  sha: 661a7ed5ec0533394cff53429d4cac764a94e90f
   type: integrated
   url: https://github.com/OCA/l10n-germany
 - branch: '15.0'
