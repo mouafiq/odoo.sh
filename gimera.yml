@@ -3423,6 +3423,7 @@ repos:
   url: https://github.com/OCA/vertical-ngo
 - branch: '15.0'
   path: OCA/vertical-ngo/15.0
+  sha: fd033ecd62993fa367d1740046a6b0010af06378
   type: integrated
   url: https://github.com/OCA/vertical-ngo
 - branch: '16.0'
