@@ -2509,20 +2509,9 @@ repos:
   sha: fb1b270044dafc8cf760501b2fad53ed8de1aebe
   type: integrated
   url: https://github.com/OCA/donation
-- branch: '12.0'
-  path: OCA/agreement/12.0
-  type: integrated
-  url: https://github.com/OCA/agreement
-- branch: '13.0'
-  path: OCA/agreement/13.0
-  type: integrated
-  url: https://github.com/OCA/agreement
-- branch: '14.0'
-  path: OCA/agreement/14.0
-  type: integrated
-  url: https://github.com/OCA/agreement
 - branch: '15.0'
   path: OCA/agreement/15.0
+  sha: 183788cb8eac32981eba23ff58c5ada0212c48bb
   type: integrated
   url: https://github.com/OCA/agreement
 - branch: '16.0'
