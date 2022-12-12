@@ -2095,6 +2095,7 @@ repos:
   url: https://github.com/OCA/vertical-hotel
 - branch: '12.0'
   path: OCA/mis-builder/12.0
+  sha: e94226de1ff083d633dcdddb37450a22c878c204
   type: integrated
   url: https://github.com/OCA/mis-builder
 - branch: '13.0'
