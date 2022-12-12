@@ -4003,10 +4003,12 @@ repos:
   url: https://github.com/OCA/l10n-uruguay
 - branch: '16.0'
   path: OCA/l10n-uruguay/16.0
+  sha: 3ebcdbe370470df48d532d0f49cc4026ca10cb33
   type: integrated
   url: https://github.com/OCA/l10n-uruguay
 - branch: '12.0'
   path: OCA/l10n-united-kingdom/12.0
+  sha: 56cc0e0aa4b946a4e07e41f0770c7b04e93b0586
   type: integrated
   url: https://github.com/OCA/l10n-united-kingdom
 - branch: '13.0'
