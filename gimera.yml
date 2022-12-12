@@ -2653,6 +2653,7 @@ repos:
   url: https://github.com/OCA/l10n-ecuador
 - branch: '16.0'
   path: OCA/l10n-ecuador/16.0
+  sha: bea0cde3fb5619af5c87465aa65795ac034e6644
   type: integrated
   url: https://github.com/OCA/l10n-ecuador
 - branch: '12.0'
