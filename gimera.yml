@@ -3334,6 +3334,7 @@ repos:
   url: https://github.com/OCA/webkit-tools
 - branch: '12.0'
   path: OCA/webhook/12.0
+  sha: e3c134015aabab16d8a1e7f6969bdefb27e07812
   type: integrated
   url: https://github.com/OCA/webhook
 - branch: '13.0'
