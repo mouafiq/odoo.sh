@@ -2962,6 +2962,7 @@ repos:
   url: https://github.com/OCA/vertical-association
 - branch: '16.0'
   path: OCA/vertical-association/16.0
+  sha: dcaa4b4cc44fc7a6fe96aefa8b4b8a72f8fdc0ac
   type: integrated
   url: https://github.com/OCA/vertical-association
 - branch: '12.0'
