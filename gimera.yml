@@ -3066,6 +3066,7 @@ repos:
   url: https://github.com/OCA/l10n-argentina
 - branch: '14.0'
   path: OCA/l10n-argentina/14.0
+  sha: 2d3eeb03e088d2a0ce04965758f6fc493f87fde5
   type: integrated
   url: https://github.com/OCA/l10n-argentina
 - branch: '15.0'
