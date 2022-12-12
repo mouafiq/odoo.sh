@@ -3364,6 +3364,7 @@ repos:
   url: https://github.com/OCA/vertical-travel
 - branch: '13.0'
   path: OCA/vertical-travel/13.0
+  sha: fac9750c37de6c98b2d1869e936a7869bfab4fa4
   type: integrated
   url: https://github.com/OCA/vertical-travel
 - branch: '14.0'
