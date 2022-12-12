@@ -4428,6 +4428,7 @@ repos:
   url: https://github.com/OCA/l10n-finland
 - branch: '12.0'
   path: OCA/l10n-ethiopia/12.0
+  sha: 6d73b6a832e0e59a49caa5ffafae80a4db9981ab
   type: integrated
   url: https://github.com/OCA/l10n-ethiopia
 - branch: '13.0'
