@@ -3294,6 +3294,7 @@ repos:
   url: https://github.com/OCA/website-cms
 - branch: '14.0'
   path: OCA/website-cms/14.0
+  sha: 220aaeecc8d491450334f622b9c16b8d047eb679
   type: integrated
   url: https://github.com/OCA/website-cms
 - branch: '15.0'
