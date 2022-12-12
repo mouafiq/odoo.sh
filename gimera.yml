@@ -4991,6 +4991,7 @@ repos:
   url: https://github.com/OCA/connector-accountedge
 - branch: '15.0'
   path: OCA/connector-accountedge/15.0
+  sha: 35395642fe2f2701f90894f9f5302f6511e05817
   type: integrated
   url: https://github.com/OCA/connector-accountedge
 - branch: '16.0'
