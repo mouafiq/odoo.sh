@@ -382,6 +382,7 @@ repos:
   url: https://github.com/OCA/stock-logistics-workflow
 - branch: '12.0'
   path: OCA/l10n-romania/12.0
+  sha: 7f7f8a8bce85e8b1db195afb225dd8739df213d0
   type: integrated
   url: https://github.com/OCA/l10n-romania
 - branch: '13.0'
