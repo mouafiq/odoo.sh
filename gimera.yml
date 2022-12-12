@@ -1111,6 +1111,7 @@ repos:
   url: https://github.com/OCA/timesheet
 - branch: '12.0'
   path: OCA/connector/12.0
+  sha: 97dedbcffd41748ab9ee1f9a3fb2b6669d794c91
   type: integrated
   url: https://github.com/OCA/connector
 - branch: '13.0'
