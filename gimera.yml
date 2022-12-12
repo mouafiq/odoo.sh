@@ -3819,6 +3819,7 @@ repos:
   url: https://github.com/OCA/project-reporting
 - branch: '12.0'
   path: OCA/project-agile/12.0
+  sha: 462c024435dd317d3a2448d5ef8e791a50f7280b
   type: integrated
   url: https://github.com/OCA/project-agile
 - branch: '13.0'
