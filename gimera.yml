@@ -4936,6 +4936,7 @@ repos:
   url: https://github.com/OCA/connector-infor
 - branch: '14.0'
   path: OCA/connector-infor/14.0
+  sha: 67f3543b66395ea47898305b7da1d9f48f44ac10
   type: integrated
   url: https://github.com/OCA/connector-infor
 - branch: '15.0'
