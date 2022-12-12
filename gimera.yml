@@ -3640,6 +3640,7 @@ repos:
   url: https://github.com/OCA/shift-planning
 - branch: '14.0'
   path: OCA/shift-planning/14.0
+  sha: 6ba3c5a79f0e923c3d91df856d212c55d9343181
   type: integrated
   url: https://github.com/OCA/shift-planning
 - branch: '15.0'
