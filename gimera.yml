@@ -2501,6 +2501,7 @@ repos:
   url: https://github.com/OCA/donation
 - branch: '15.0'
   path: OCA/donation/15.0
+  sha: 71e77a7de4beaa55ac0c5d8148d7ad1a4199b630
   type: integrated
   url: https://github.com/OCA/donation
 - branch: '16.0'
