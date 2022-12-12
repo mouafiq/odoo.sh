@@ -1511,6 +1511,7 @@ repos:
   url: https://github.com/OCA/connector-jira
 - branch: '13.0'
   path: OCA/connector-jira/13.0
+  sha: 0c80b3979a96e2c1e9815981695970b4dbb8bf72
   type: integrated
   url: https://github.com/OCA/connector-jira
 - branch: '14.0'
