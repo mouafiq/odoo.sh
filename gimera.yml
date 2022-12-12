@@ -2461,6 +2461,7 @@ repos:
   url: https://github.com/OCA/interface-github
 - branch: '12.0'
   path: OCA/l10n-usa/12.0
+  sha: 6720b14c9639a7caebcdacc861d1af5a71a41762
   type: integrated
   url: https://github.com/OCA/l10n-usa
 - branch: '13.0'
