@@ -2045,6 +2045,7 @@ repos:
   url: https://github.com/OCA/sale-promotion
 - branch: '12.0'
   path: OCA/margin-analysis/12.0
+  sha: cd598ffac5208bf497c145e49c591dc3336f056b
   type: integrated
   url: https://github.com/OCA/margin-analysis
 - branch: '13.0'
