@@ -2194,6 +2194,7 @@ repos:
   url: https://github.com/OCA/data-protection
 - branch: '12.0'
   path: OCA/account-fiscal-rule/12.0
+  sha: ed508d83b5b641b3f3e6026d44bea2485f94980d
   type: integrated
   url: https://github.com/OCA/account-fiscal-rule
 - branch: '13.0'
