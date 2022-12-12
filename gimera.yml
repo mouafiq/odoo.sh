@@ -926,6 +926,7 @@ repos:
   url: https://github.com/OCA/contract
 - branch: '16.0'
   path: OCA/contract/16.0
+  sha: db2f9a6644d08c41b842f3cb1a4c289cc1a43190
   type: integrated
   url: https://github.com/OCA/contract
 - branch: '12.0'
