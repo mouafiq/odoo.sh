@@ -457,6 +457,7 @@ repos:
   url: https://github.com/OCA/l10n-brazil
 - branch: '12.0'
   path: OCA/server-tools/12.0
+  sha: 2dcd5c4b08d2718f00d06be60b9979e263921884
   type: integrated
   url: https://github.com/OCA/server-tools
 - branch: '13.0'
