@@ -986,6 +986,7 @@ repos:
   url: https://github.com/OCA/cooperative
 - branch: '12.0'
   path: OCA/project/12.0
+  sha: 0c69ea6cc8f2ff198c057046acca041568c720b2
   type: integrated
   url: https://github.com/OCA/project
 - branch: '13.0'
