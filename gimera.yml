@@ -721,6 +721,7 @@ repos:
   url: https://github.com/OCA/iot
 - branch: '15.0'
   path: OCA/iot/15.0
+  sha: 68c78454d9aa4f6286c070ceba0c246fcf552192
   type: integrated
   url: https://github.com/OCA/iot
 - branch: '16.0'
