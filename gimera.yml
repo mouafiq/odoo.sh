@@ -2144,6 +2144,7 @@ repos:
   url: https://github.com/OCA/storage
 - branch: '12.0'
   path: OCA/server-backend/12.0
+  sha: 0d4bf844dbe5bf549ce0e29119e96ef90dcbbfb3
   type: integrated
   url: https://github.com/OCA/server-backend
 - branch: '13.0'
