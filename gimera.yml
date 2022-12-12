@@ -432,6 +432,7 @@ repos:
   url: https://github.com/OCA/OCB
 - branch: '12.0'
   path: OCA/l10n-brazil/12.0
+  sha: 026622db630bb99ee13fe0ef1f9b06d64a0781db
   type: integrated
   url: https://github.com/OCA/l10n-brazil
 - branch: '13.0'
