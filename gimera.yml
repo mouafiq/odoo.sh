@@ -1960,6 +1960,7 @@ repos:
   url: https://github.com/OCA/operating-unit
 - branch: '14.0'
   path: OCA/operating-unit/14.0
+  sha: af8aa52bc69e562feba05566f99417fc351da0a2
   type: integrated
   url: https://github.com/OCA/operating-unit
 - branch: '15.0'
