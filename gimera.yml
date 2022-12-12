@@ -606,6 +606,7 @@ repos:
   url: https://github.com/OCA/rma
 - branch: '12.0'
   path: OCA/account-financial-tools/12.0
+  sha: d7f14e646a4d84e26a39d719bf1f18da2c170201
   type: integrated
   url: https://github.com/OCA/account-financial-tools
 - branch: '13.0'
