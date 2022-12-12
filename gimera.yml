@@ -4063,6 +4063,7 @@ repos:
   url: https://github.com/OCA/l10n-taiwan
 - branch: '13.0'
   path: OCA/l10n-taiwan/13.0
+  sha: dd87032faee8e22dbc9fcfa9fdedd2690dea17d1
   type: integrated
   url: https://github.com/OCA/l10n-taiwan
 - branch: '14.0'
