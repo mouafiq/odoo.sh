@@ -407,6 +407,7 @@ repos:
   url: https://github.com/OCA/l10n-romania
 - branch: '12.0'
   path: OCA/OCB/12.0
+  sha: daa274eb48324d563e1096e334a5a73034be71dc
   type: integrated
   url: https://github.com/OCA/OCB
 - branch: '13.0'
