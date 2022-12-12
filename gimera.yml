@@ -1576,6 +1576,7 @@ repos:
   url: https://github.com/OCA/helpdesk
 - branch: '16.0'
   path: OCA/helpdesk/16.0
+  sha: f4364c81cc66ceade9c11c928818e8378276af67
   type: integrated
   url: https://github.com/OCA/helpdesk
 - branch: '12.0'
