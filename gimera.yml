@@ -3928,6 +3928,7 @@ repos:
   url: https://github.com/OCA/oca.recipe.odoo
 - branch: '16.0'
   path: OCA/oca.recipe.odoo/16.0
+  sha: 803488540e8811af58d5ebcaefe50249f5e3952f
   type: integrated
   url: https://github.com/OCA/oca.recipe.odoo
 - branch: '12.0'
