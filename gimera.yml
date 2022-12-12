@@ -2050,6 +2050,7 @@ repos:
   url: https://github.com/OCA/margin-analysis
 - branch: '13.0'
   path: OCA/margin-analysis/13.0
+  sha: 84a5a255d0379457da00ec8093dda3e1b24e502a
   type: integrated
   url: https://github.com/OCA/margin-analysis
 - branch: '14.0'
