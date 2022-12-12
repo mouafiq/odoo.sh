@@ -2976,6 +2976,7 @@ repos:
   url: https://github.com/OCA/wallet
 - branch: '14.0'
   path: OCA/wallet/14.0
+  sha: 78e90038b2dfa8cb1cda2494e3215b1a5602df76
   type: integrated
   url: https://github.com/OCA/wallet
 - branch: '15.0'
