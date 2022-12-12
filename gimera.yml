@@ -3458,6 +3458,7 @@ repos:
   url: https://github.com/OCA/vertical-isp
 - branch: '12.0'
   path: OCA/vertical-education/12.0
+  sha: 8e6f0ae47fcf79378a75f2a1a7a27b9e2f69bb8b
   type: integrated
   url: https://github.com/OCA/vertical-education
 - branch: '13.0'
