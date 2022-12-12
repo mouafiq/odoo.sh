@@ -1321,6 +1321,7 @@ repos:
   url: https://github.com/OCA/social
 - branch: '14.0'
   path: OCA/social/14.0
+  sha: 1005e7c3e9a026caf10cb06e0d4a163e9490043f
   type: integrated
   url: https://github.com/OCA/social
 - branch: '15.0'
