@@ -1496,6 +1496,7 @@ repos:
   url: https://github.com/OCA/account-payment
 - branch: '15.0'
   path: OCA/account-payment/15.0
+  sha: 0f5f30414a6aab013ff19dcdd86efae1a0504f90
   type: integrated
   url: https://github.com/OCA/account-payment
 - branch: '16.0'
