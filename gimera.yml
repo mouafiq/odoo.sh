@@ -1481,6 +1481,7 @@ repos:
   url: https://github.com/OCA/field-service
 - branch: '12.0'
   path: OCA/account-payment/12.0
+  sha: 6d451d41427070f7efa1328c7dcf635a6f6cdf0c
   type: integrated
   url: https://github.com/OCA/account-payment
 - branch: '13.0'
