@@ -2301,6 +2301,7 @@ repos:
   url: https://github.com/OCA/fleet
 - branch: '13.0'
   path: OCA/fleet/13.0
+  sha: 5853e0904691c0bc0f64c1bb845e1a5822e91218
   type: integrated
   url: https://github.com/OCA/fleet
 - branch: '14.0'
