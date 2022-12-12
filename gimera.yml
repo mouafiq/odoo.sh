@@ -1746,6 +1746,7 @@ repos:
   url: https://github.com/OCA/credit-control
 - branch: '12.0'
   path: OCA/partner-contact/12.0
+  sha: ae4dc8163aa4d6373cb8ad39a091d7d164aff4b5
   type: integrated
   url: https://github.com/OCA/partner-contact
 - branch: '13.0'
