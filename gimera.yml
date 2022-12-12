@@ -4174,6 +4174,7 @@ repos:
   url: https://github.com/OCA/l10n-peru
 - branch: '16.0'
   path: OCA/l10n-peru/16.0
+  sha: 781357262e371978e519394e01334cd4ffba6fc5
   type: integrated
   url: https://github.com/OCA/l10n-peru
 - branch: '12.0'
