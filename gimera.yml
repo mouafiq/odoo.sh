@@ -2860,6 +2860,7 @@ repos:
   url: https://github.com/OCA/l10n-iran
 - branch: '14.0'
   path: OCA/l10n-iran/14.0
+  sha: 9c2d1ce8b026834cfda139fb2053200e921ade13
   type: integrated
   url: https://github.com/OCA/l10n-iran
 - branch: '15.0'
