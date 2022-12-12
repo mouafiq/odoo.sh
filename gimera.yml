@@ -1160,27 +1160,8 @@ repos:
   type: integrated
   url: https://github.com/OCA/sale-reporting
 - branch: '12.0'
-  path: OCA/OpenUpgrade/12.0
-  type: integrated
-  url: https://github.com/OCA/OpenUpgrade
-- branch: '13.0'
-  path: OCA/OpenUpgrade/13.0
-  type: integrated
-  url: https://github.com/OCA/OpenUpgrade
-- branch: '14.0'
-  path: OCA/OpenUpgrade/14.0
-  type: integrated
-  url: https://github.com/OCA/OpenUpgrade
-- branch: '15.0'
-  path: OCA/OpenUpgrade/15.0
-  type: integrated
-  url: https://github.com/OCA/OpenUpgrade
-- branch: '16.0'
-  path: OCA/OpenUpgrade/16.0
-  type: integrated
-  url: https://github.com/OCA/OpenUpgrade
-- branch: '12.0'
   path: OCA/maintenance/12.0
+  sha: 448b2fb111a71c46d2d01d5173d352c9e5ce4e13
   type: integrated
   url: https://github.com/OCA/maintenance
 - branch: '13.0'
@@ -1944,26 +1925,6 @@ repos:
   path: OCA/sale-promotion/16.0
   type: integrated
   url: https://github.com/OCA/sale-promotion
-- branch: '12.0'
-  path: OCA/openupgradelib/12.0
-  type: integrated
-  url: https://github.com/OCA/openupgradelib
-- branch: '13.0'
-  path: OCA/openupgradelib/13.0
-  type: integrated
-  url: https://github.com/OCA/openupgradelib
-- branch: '14.0'
-  path: OCA/openupgradelib/14.0
-  type: integrated
-  url: https://github.com/OCA/openupgradelib
-- branch: '15.0'
-  path: OCA/openupgradelib/15.0
-  type: integrated
-  url: https://github.com/OCA/openupgradelib
-- branch: '16.0'
-  path: OCA/openupgradelib/16.0
-  type: integrated
-  url: https://github.com/OCA/openupgradelib
 - branch: '12.0'
   path: OCA/margin-analysis/12.0
   type: integrated
