@@ -1416,6 +1416,7 @@ repos:
   url: https://github.com/OCA/hr-attendance
 - branch: '14.0'
   path: OCA/hr-attendance/14.0
+  sha: 33c969e23a88f3075b2e9cb155774882552749ed
   type: integrated
   url: https://github.com/OCA/hr-attendance
 - branch: '15.0'
