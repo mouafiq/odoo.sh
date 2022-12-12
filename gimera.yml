@@ -3023,6 +3023,7 @@ repos:
   url: https://github.com/OCA/l10n-cambodia
 - branch: '15.0'
   path: OCA/l10n-cambodia/15.0
+  sha: 34b3cb8d2193bee6ad723a03ce08fbfe0b7a6efd
   type: integrated
   url: https://github.com/OCA/l10n-cambodia
 - branch: '16.0'
