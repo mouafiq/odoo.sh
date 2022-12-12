@@ -3839,6 +3839,7 @@ repos:
   url: https://github.com/OCA/project-agile
 - branch: '16.0'
   path: OCA/project-agile/16.0
+  sha: b0ce7f0798c23cbe0b9ec5ba4fe288ffbd95fe6c
   type: integrated
   url: https://github.com/OCA/project-agile
 - branch: '12.0'
