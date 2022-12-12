@@ -5031,6 +5031,7 @@ repos:
   url: https://github.com/OCA/apps-store
 - branch: '13.0'
   path: OCA/apps-store/13.0
+  sha: 05a1a41fb63b4adfd6cb030f269a4d81d972202f
   type: integrated
   url: https://github.com/OCA/apps-store
 - branch: '14.0'
