@@ -2346,6 +2346,7 @@ repos:
   url: https://github.com/OCA/survey
 - branch: '12.0'
   path: OCA/ddmrp/12.0
+  sha: f4f2f920c091caef4bf0b55c6e1a98ed333afa25
   type: integrated
   url: https://github.com/OCA/ddmrp
 - branch: '13.0'
