@@ -1940,6 +1940,7 @@ repos:
   url: https://github.com/OCA/search-engine
 - branch: '15.0'
   path: OCA/search-engine/15.0
+  sha: 7bd5ea8be33a3ab341540ff9aa7f7c60ec87ac23
   type: integrated
   url: https://github.com/OCA/search-engine
 - branch: '16.0'
