@@ -4023,6 +4023,7 @@ repos:
   url: https://github.com/OCA/l10n-united-kingdom
 - branch: '15.0'
   path: OCA/l10n-united-kingdom/15.0
+  sha: 3c4c91574ba3399c4e2c55cb27c84c77bd2439f1
   type: integrated
   url: https://github.com/OCA/l10n-united-kingdom
 - branch: '16.0'
