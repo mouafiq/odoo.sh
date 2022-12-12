@@ -3857,6 +3857,7 @@ repos:
   url: https://github.com/OCA/program
 - branch: '15.0'
   path: OCA/program/15.0
+  sha: 7383cff377e6c3132af7428ae9689733b25a46a2
   type: integrated
   url: https://github.com/OCA/program
 - branch: '16.0'
