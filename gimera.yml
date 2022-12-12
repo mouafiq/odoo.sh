@@ -2125,11 +2125,11 @@ repos:
   url: https://github.com/OCA/storage
 - branch: '13.0'
   path: OCA/storage/13.0
-  sha: a2423cb50a406144880bf57c466892606d77e647
   type: integrated
   url: https://github.com/OCA/storage
 - branch: '14.0'
   path: OCA/storage/14.0
+  sha: 43b4903a19fbf10c9bb404cd4b72fe6cb38233f5
   type: integrated
   url: https://github.com/OCA/storage
 - branch: '15.0'
@@ -4821,19 +4821,3 @@ repos:
   path: OCA/contribute-md-template/16.0
   type: integrated
   url: https://github.com/OCA/contribute-md-template
-- branch: '13.0'
-  path: OCA/maintainer-quality-tools/13.0
-  type: integrated
-  url: https://github.com/OCA/maintainer-quality-tools
-- branch: '14.0'
-  path: OCA/maintainer-quality-tools/14.0
-  type: integrated
-  url: https://github.com/OCA/maintainer-quality-tools
-- branch: '15.0'
-  path: OCA/maintainer-quality-tools/15.0
-  type: integrated
-  url: https://github.com/OCA/maintainer-quality-tools
-- branch: '16.0'
-  path: OCA/maintainer-quality-tools/16.0
-  type: integrated
-  url: https://github.com/OCA/maintainer-quality-tools
