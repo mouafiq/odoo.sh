@@ -2015,6 +2015,7 @@ repos:
   url: https://github.com/OCA/product-pack
 - branch: '15.0'
   path: OCA/product-pack/15.0
+  sha: 5939f5b2c5915ee7f13b2a6b4a6399e47d733143
   type: integrated
   url: https://github.com/OCA/product-pack
 - branch: '16.0'
