@@ -3137,6 +3137,7 @@ repos:
   url: https://github.com/OCA/stock-logistics-orderpoint
 - branch: '16.0'
   path: OCA/stock-logistics-orderpoint/16.0
+  sha: f68b229603e43769803b37e035b34149b696636c
   type: integrated
   url: https://github.com/OCA/stock-logistics-orderpoint
 - branch: '12.0'
