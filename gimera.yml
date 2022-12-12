@@ -3162,6 +3162,7 @@ repos:
   url: https://github.com/OCA/purchase-reporting
 - branch: '16.0'
   path: OCA/purchase-reporting/16.0
+  sha: f6f4dcce88729c4e9b942ddeb58ff25d6da456d3
   type: integrated
   url: https://github.com/OCA/purchase-reporting
 - branch: '12.0'
