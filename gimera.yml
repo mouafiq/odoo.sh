@@ -3631,6 +3631,7 @@ repos:
   url: https://github.com/OCA/stock-logistics-tracking
 - branch: '12.0'
   path: OCA/shift-planning/12.0
+  sha: d11ab08bf040300e27ee1f42702c9e226c01a4e5
   type: integrated
   url: https://github.com/OCA/shift-planning
 - branch: '13.0'
