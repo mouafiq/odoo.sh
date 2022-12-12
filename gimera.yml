@@ -4563,6 +4563,7 @@ repos:
   url: https://github.com/OCA/l10n-china
 - branch: '14.0'
   path: OCA/l10n-china/14.0
+  sha: 91445a6601bcead7d5f118e5b5a14143c17ccd23
   type: integrated
   url: https://github.com/OCA/l10n-china
 - branch: '15.0'
