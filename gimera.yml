@@ -4443,6 +4443,7 @@ repos:
   url: https://github.com/OCA/l10n-ethiopia
 - branch: '15.0'
   path: OCA/l10n-ethiopia/15.0
+  sha: c484508b106bc076642975f9293a1cdbb4ae2856
   type: integrated
   url: https://github.com/OCA/l10n-ethiopia
 - branch: '16.0'
