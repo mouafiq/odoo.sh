@@ -4633,6 +4633,7 @@ repos:
   url: https://github.com/OCA/l10n-belarus
 - branch: '13.0'
   path: OCA/l10n-belarus/13.0
+  sha: 38e45d528c6b9610dfb30439f78f6b1f869ead9a
   type: integrated
   url: https://github.com/OCA/l10n-belarus
 - branch: '14.0'
