@@ -3433,6 +3433,7 @@ repos:
   url: https://github.com/OCA/vertical-ngo
 - branch: '12.0'
   path: OCA/vertical-isp/12.0
+  sha: 3bacd08f42889947a84648e7ffefb133d9fbd3bc
   type: integrated
   url: https://github.com/OCA/vertical-isp
 - branch: '13.0'
