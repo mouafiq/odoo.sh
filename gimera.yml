@@ -586,6 +586,7 @@ repos:
   url: https://github.com/OCA/rma
 - branch: '13.0'
   path: OCA/rma/13.0
+  sha: c2442746d140e06fd0977e94e99372b775ab0206
   type: integrated
   url: https://github.com/OCA/rma
 - branch: '14.0'
