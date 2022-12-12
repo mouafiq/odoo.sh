@@ -4508,6 +4508,7 @@ repos:
   url: https://github.com/OCA/l10n-costa-rica
 - branch: '13.0'
   path: OCA/l10n-costa-rica/13.0
+  sha: 45911844f1c38fcb4d0e92a1f59dad9797f6e515
   type: integrated
   url: https://github.com/OCA/l10n-costa-rica
 - branch: '14.0'
