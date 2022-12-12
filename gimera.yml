@@ -1271,6 +1271,7 @@ repos:
   url: https://github.com/OCA/pos
 - branch: '14.0'
   path: OCA/pos/14.0
+  sha: 552d1f9927409b4c14164f4f636fa513298fbbfe
   type: integrated
   url: https://github.com/OCA/pos
 - branch: '15.0'
