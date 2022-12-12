@@ -2942,6 +2942,7 @@ repos:
   url: https://github.com/OCA/connector-odoo2odoo
 - branch: '12.0'
   path: OCA/vertical-association/12.0
+  sha: 58cfecbd2fefec271fcbb915b72e224d92f32b0e
   type: integrated
   url: https://github.com/OCA/vertical-association
 - branch: '13.0'
