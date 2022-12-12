@@ -2471,6 +2471,7 @@ repos:
   url: https://github.com/OCA/l10n-usa
 - branch: '14.0'
   path: OCA/l10n-usa/14.0
+  sha: c5a2dbe3dbfc0937603bc02984179fb83f53a653
   type: integrated
   url: https://github.com/OCA/l10n-usa
 - branch: '15.0'
