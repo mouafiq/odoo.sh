@@ -1846,6 +1846,7 @@ repos:
   url: https://github.com/OCA/account-invoice-reporting
 - branch: '15.0'
   path: OCA/account-invoice-reporting/15.0
+  sha: 33e1357b18cb1952b4d2d6b85d47454aef23c7b7
   type: integrated
   url: https://github.com/OCA/account-invoice-reporting
 - branch: '16.0'
