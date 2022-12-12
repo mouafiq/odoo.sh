@@ -1696,6 +1696,7 @@ repos:
   url: https://github.com/OCA/l10n-netherlands
 - branch: '12.0'
   path: OCA/connector-prestashop/12.0
+  sha: c2a6905992bb1c60f63001326c4840dd73a2698a
   type: integrated
   url: https://github.com/OCA/connector-prestashop
 - branch: '13.0'
