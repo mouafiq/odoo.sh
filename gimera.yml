@@ -2757,6 +2757,7 @@ repos:
   url: https://github.com/OCA/stock-logistics-transport
 - branch: '13.0'
   path: OCA/stock-logistics-transport/13.0
+  sha: 19c5dfd3836ecba455340900ef66a36ccf6644a1
   type: integrated
   url: https://github.com/OCA/stock-logistics-transport
 - branch: '14.0'
