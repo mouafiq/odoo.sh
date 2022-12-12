@@ -467,6 +467,7 @@ repos:
   url: https://github.com/OCA/server-tools
 - branch: '14.0'
   path: OCA/server-tools/14.0
+  sha: 5ef11e84e6022f3d931bdda13830592218f1a83d
   type: integrated
   url: https://github.com/OCA/server-tools
 - branch: '15.0'
