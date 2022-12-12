@@ -4478,6 +4478,7 @@ repos:
   url: https://github.com/OCA/l10n-estonia
 - branch: '12.0'
   path: OCA/l10n-croatia/12.0
+  sha: e3971288fac2b8869fe24ff8daae47a9001ef73e
   type: integrated
   url: https://github.com/OCA/l10n-croatia
 - branch: '13.0'
