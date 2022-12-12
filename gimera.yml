@@ -3508,6 +3508,7 @@ repos:
   url: https://github.com/OCA/vertical-edition
 - branch: '12.0'
   path: OCA/vertical-cooperative-supermarket/12.0
+  sha: 7586756b3ebb2f85355ab6950aa760e483dbad20
   type: integrated
   url: https://github.com/OCA/vertical-cooperative-supermarket
 - branch: '13.0'
