@@ -1646,6 +1646,7 @@ repos:
   url: https://github.com/OCA/intrastat-extrastat
 - branch: '15.0'
   path: OCA/intrastat-extrastat/15.0
+  sha: 4466fa9505c500231857c5d2037fb5bd2887abe7
   type: integrated
   url: https://github.com/OCA/intrastat-extrastat
 - branch: '16.0'
