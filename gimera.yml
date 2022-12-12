@@ -3943,6 +3943,7 @@ repos:
   url: https://github.com/OCA/l10n-vietnam
 - branch: '14.0'
   path: OCA/l10n-vietnam/14.0
+  sha: 84e58c06230ceb115fc702ccebc2d902801096df
   type: integrated
   url: https://github.com/OCA/l10n-vietnam
 - branch: '15.0'
