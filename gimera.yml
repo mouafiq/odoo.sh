@@ -3224,6 +3224,7 @@ repos:
   url: https://github.com/OCA/vertical-abbey
 - branch: '15.0'
   path: OCA/vertical-abbey/15.0
+  sha: 6193ca9f6942c5b489af8d1c9a93d370c069bf66
   type: integrated
   url: https://github.com/OCA/vertical-abbey
 - branch: '16.0'
