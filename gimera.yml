@@ -3443,6 +3443,7 @@ repos:
   url: https://github.com/OCA/vertical-isp
 - branch: '14.0'
   path: OCA/vertical-isp/14.0
+  sha: 45f5683408b08a155b8a9ef804c066770b307c70
   type: integrated
   url: https://github.com/OCA/vertical-isp
 - branch: '15.0'
