@@ -1221,6 +1221,7 @@ repos:
   url: https://github.com/OCA/e-commerce
 - branch: '14.0'
   path: OCA/e-commerce/14.0
+  sha: 3485c41c8fa4d43b8074dfe68fbfb830b5acc9d8
   type: integrated
   url: https://github.com/OCA/e-commerce
 - branch: '15.0'
