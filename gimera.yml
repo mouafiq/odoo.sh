@@ -4318,6 +4318,7 @@ repos:
   url: https://github.com/OCA/l10n-ireland
 - branch: '15.0'
   path: OCA/l10n-ireland/15.0
+  sha: bfcbe41c421efcca8f5e062d0c91680b5be06712
   type: integrated
   url: https://github.com/OCA/l10n-ireland
 - branch: '16.0'
