@@ -956,6 +956,7 @@ repos:
   url: https://github.com/OCA/purchase-workflow
 - branch: '12.0'
   path: OCA/vertical-rental/12.0
+  sha: b43b31ef39f8651a644e80d519ae97cf1a9242f2
   type: integrated
   url: https://github.com/OCA/vertical-rental
 - branch: '13.0'
