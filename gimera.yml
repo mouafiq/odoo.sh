@@ -2538,6 +2538,7 @@ repos:
   url: https://github.com/OCA/hr-holidays
 - branch: '16.0'
   path: OCA/hr-holidays/16.0
+  sha: 0c073f789cffbd8eb088821397c640b2a8cd15d3
   type: integrated
   url: https://github.com/OCA/hr-holidays
 - branch: '12.0'
