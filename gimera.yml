@@ -2416,6 +2416,7 @@ repos:
   url: https://github.com/OCA/connector-magento
 - branch: '16.0'
   path: OCA/connector-magento/16.0
+  sha: bc46a00cbc9f26183c5a5ec96a89889221200432
   type: integrated
   url: https://github.com/OCA/connector-magento
 - branch: '12.0'
