@@ -1301,6 +1301,7 @@ repos:
   url: https://github.com/OCA/server-auth
 - branch: '15.0'
   path: OCA/server-auth/15.0
+  sha: c517ce1d4839e490578e67b519fc16b142ba0be0
   type: integrated
   url: https://github.com/OCA/server-auth
 - branch: '16.0'
