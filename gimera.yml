@@ -2035,6 +2035,7 @@ repos:
   url: https://github.com/OCA/sale-promotion
 - branch: '15.0'
   path: OCA/sale-promotion/15.0
+  sha: 9b1643bbe59083e75e876b98985d7fb5648d0fd2
   type: integrated
   url: https://github.com/OCA/sale-promotion
 - branch: '16.0'
