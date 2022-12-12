@@ -304,6 +304,8 @@ repos:
   path: OCA/web/15.0
   sha: 6597506d7f4243146eb99ac2b19fc6aa40489732
   type: integrated
+  merges:
+    - origin refs/pull/2234/head
   url: https://github.com/OCA/web
 - branch: '16.0'
   path: OCA/web/16.0
