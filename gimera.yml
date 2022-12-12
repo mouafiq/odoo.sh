@@ -422,6 +422,7 @@ repos:
   url: https://github.com/OCA/OCB
 - branch: '15.0'
   path: OCA/OCB/15.0
+  sha: 2127d718dcc9976f22f6e8359198d63a27a0a412
   type: integrated
   url: https://github.com/OCA/OCB
 - branch: '16.0'
