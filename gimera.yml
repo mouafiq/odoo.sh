@@ -1406,6 +1406,7 @@ repos:
   url: https://github.com/OCA/reporting-engine
 - branch: '16.0'
   path: OCA/reporting-engine/16.0
+  sha: ea4d12b84f42e5cfc6020877f1fd5a4eee77412b
   type: integrated
   url: https://github.com/OCA/reporting-engine
 - branch: '12.0'
