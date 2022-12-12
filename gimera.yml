@@ -1766,6 +1766,7 @@ repos:
   url: https://github.com/OCA/partner-contact
 - branch: '16.0'
   path: OCA/partner-contact/16.0
+  sha: 65d803c8d73037d2060993dd8936074651218c2c
   type: integrated
   url: https://github.com/OCA/partner-contact
 - branch: '12.0'
