@@ -996,6 +996,7 @@ repos:
   url: https://github.com/OCA/project
 - branch: '14.0'
   path: OCA/project/14.0
+  sha: 8246bb8a0715d7967799cc7baed733c5c358c28a
   type: integrated
   url: https://github.com/OCA/project
 - branch: '15.0'
