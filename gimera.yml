@@ -2820,6 +2820,7 @@ repos:
   url: https://github.com/OCA/vertical-medical
 - branch: '16.0'
   path: OCA/vertical-medical/16.0
+  sha: 2daf9414e4830b1dd47f66f08bd22b2faae25943
   type: integrated
   url: https://github.com/OCA/vertical-medical
 - branch: '12.0'
