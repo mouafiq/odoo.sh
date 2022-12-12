@@ -4901,6 +4901,7 @@ repos:
   url: https://github.com/OCA/connector-lims
 - branch: '12.0'
   path: OCA/connector-lengow/12.0
+  sha: e6cdadb65cdeefee2d6bf0d5d6146168462864ce
   type: integrated
   url: https://github.com/OCA/connector-lengow
 - branch: '13.0'
