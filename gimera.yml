@@ -4078,6 +4078,7 @@ repos:
   url: https://github.com/OCA/l10n-taiwan
 - branch: '16.0'
   path: OCA/l10n-taiwan/16.0
+  sha: cfbc0dce083be188d63ea4aadd74c946bdc7efe6
   type: integrated
   url: https://github.com/OCA/l10n-taiwan
 - branch: '12.0'
