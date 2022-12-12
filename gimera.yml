@@ -1606,6 +1606,7 @@ repos:
   url: https://github.com/OCA/l10n-ukraine
 - branch: '12.0'
   path: OCA/l10n-france/12.0
+  sha: fa96a3c7b3ad55af3a18e397d1bcff2b86505575
   type: integrated
   url: https://github.com/OCA/l10n-france
 - branch: '13.0'
