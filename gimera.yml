@@ -776,6 +776,7 @@ repos:
   url: https://github.com/OCA/bank-payment
 - branch: '16.0'
   path: OCA/bank-payment/16.0
+  sha: f7ba006e071a2efaeb1693b4c6ba1c5cde9873ec
   type: integrated
   url: https://github.com/OCA/bank-payment
 - branch: '12.0'
