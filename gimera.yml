@@ -831,6 +831,7 @@ repos:
   url: https://github.com/OCA/rest-framework
 - branch: '12.0'
   path: OCA/currency/12.0
+  sha: 3193f2b21e0b6cfae7d3e0d4369f8d13999ae18c
   type: integrated
   url: https://github.com/OCA/currency
 - branch: '13.0'
