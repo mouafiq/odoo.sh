@@ -686,6 +686,7 @@ repos:
   url: https://github.com/OCA/stock-logistics-reporting
 - branch: '13.0'
   path: OCA/stock-logistics-reporting/13.0
+  sha: 0ad52cd9c22a15d2725c80d67af54838320bb5e8
   type: integrated
   url: https://github.com/OCA/stock-logistics-reporting
 - branch: '14.0'
