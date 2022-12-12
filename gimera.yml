@@ -3789,6 +3789,7 @@ repos:
   url: https://github.com/OCA/pwa-builder
 - branch: '16.0'
   path: OCA/pwa-builder/16.0
+  sha: c641c6999c22f3f46ee47d8d920b479ad4e7a071
   type: integrated
   url: https://github.com/OCA/pwa-builder
 - branch: '12.0'
