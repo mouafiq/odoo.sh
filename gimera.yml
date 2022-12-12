@@ -1771,6 +1771,7 @@ repos:
   url: https://github.com/OCA/partner-contact
 - branch: '12.0'
   path: OCA/account-reconcile/12.0
+  sha: 77a5841accf5d0a334cbf08b21aa7c115c47e540
   type: integrated
   url: https://github.com/OCA/account-reconcile
 - branch: '13.0'
