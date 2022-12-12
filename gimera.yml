@@ -1896,6 +1896,7 @@ repos:
   url: https://github.com/OCA/queue
 - branch: '16.0'
   path: OCA/queue/16.0
+  sha: 3e0c7e371f1b37b1d537ef587ee423cc4603aaf8
   type: integrated
   url: https://github.com/OCA/queue
 - branch: '12.0'
