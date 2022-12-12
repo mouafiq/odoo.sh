@@ -4423,6 +4423,7 @@ repos:
   url: https://github.com/OCA/l10n-finland
 - branch: '16.0'
   path: OCA/l10n-finland/16.0
+  sha: 76de2e62c1443e72f9afbb2a3e61ac8d6dcf71b9
   type: integrated
   url: https://github.com/OCA/l10n-finland
 - branch: '12.0'
