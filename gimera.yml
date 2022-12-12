@@ -377,6 +377,7 @@ repos:
   url: https://github.com/OCA/stock-logistics-workflow
 - branch: '16.0'
   path: OCA/stock-logistics-workflow/16.0
+  sha: 508fbeefd5b76507d0f5ccc97bca20041c3c4921
   type: integrated
   url: https://github.com/OCA/stock-logistics-workflow
 - branch: '12.0'
