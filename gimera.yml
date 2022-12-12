@@ -1391,6 +1391,7 @@ repos:
   url: https://github.com/OCA/reporting-engine
 - branch: '13.0'
   path: OCA/reporting-engine/13.0
+  sha: 2b527770fda76c63df2102fd2eb8f14b1f11b416
   type: integrated
   url: https://github.com/OCA/reporting-engine
 - branch: '14.0'
