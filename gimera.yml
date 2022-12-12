@@ -1721,6 +1721,7 @@ repos:
   url: https://github.com/OCA/connector-prestashop
 - branch: '12.0'
   path: OCA/credit-control/12.0
+  sha: e6549cfa88c9a33a8147372411bda4b2a7361f15
   type: integrated
   url: https://github.com/OCA/credit-control
 - branch: '13.0'
