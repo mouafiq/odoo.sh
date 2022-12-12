@@ -4543,6 +4543,7 @@ repos:
   url: https://github.com/OCA/l10n-colombia
 - branch: '15.0'
   path: OCA/l10n-colombia/15.0
+  sha: abc26a7489280ec20bb7b28c5cd98089338171da
   type: integrated
   url: https://github.com/OCA/l10n-colombia
 - branch: '16.0'
