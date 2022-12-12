@@ -746,6 +746,7 @@ repos:
   url: https://github.com/OCA/wms
 - branch: '15.0'
   path: OCA/wms/15.0
+  sha: 120adf9a05db62542e49b789a0d9c6142cb78f3e
   type: integrated
   url: https://github.com/OCA/wms
 - branch: '16.0'
