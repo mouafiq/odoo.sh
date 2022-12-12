@@ -1686,6 +1686,7 @@ repos:
   url: https://github.com/OCA/l10n-netherlands
 - branch: '15.0'
   path: OCA/l10n-netherlands/15.0
+  sha: 4facb519c4cc488ee2606c46337e70abbc5721dd
   type: integrated
   url: https://github.com/OCA/l10n-netherlands
 - branch: '16.0'
