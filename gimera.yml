@@ -357,6 +357,7 @@ repos:
   url: https://github.com/OCA/payroll
 - branch: '12.0'
   path: OCA/stock-logistics-workflow/12.0
+  sha: 4804dad162d36ff21ed44aa89f3839dae27ea343
   type: integrated
   url: https://github.com/OCA/stock-logistics-workflow
 - branch: '13.0'
