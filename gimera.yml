@@ -2633,6 +2633,7 @@ repos:
   url: https://github.com/OCA/odoo-community.org
 - branch: '12.0'
   path: OCA/l10n-ecuador/12.0
+  sha: 8b5750f8f554a484892bcce45a4eccde3cb57ddd
   type: integrated
   url: https://github.com/OCA/l10n-ecuador
 - branch: '13.0'
