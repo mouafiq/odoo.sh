@@ -4268,6 +4268,7 @@ repos:
   url: https://github.com/OCA/l10n-macedonia
 - branch: '15.0'
   path: OCA/l10n-macedonia/15.0
+  sha: 03255c100680e34144f7ee4a110598b5fc9d55f6
   type: integrated
   url: https://github.com/OCA/l10n-macedonia
 - branch: '16.0'
