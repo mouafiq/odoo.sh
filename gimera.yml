@@ -2271,6 +2271,7 @@ repos:
   url: https://github.com/OCA/l10n-japan
 - branch: '12.0'
   path: OCA/product-variant/12.0
+  sha: a6d1e1d6201a96436cab3414d0aaa0b462de5a77
   type: integrated
   url: https://github.com/OCA/product-variant
 - branch: '13.0'
