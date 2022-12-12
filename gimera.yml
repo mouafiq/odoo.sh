@@ -931,6 +931,7 @@ repos:
   url: https://github.com/OCA/contract
 - branch: '12.0'
   path: OCA/purchase-workflow/12.0
+  sha: a4e1b405034834b30fe4421efa469cf94612b65c
   type: integrated
   url: https://github.com/OCA/purchase-workflow
 - branch: '13.0'
