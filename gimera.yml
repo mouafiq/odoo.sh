@@ -1876,6 +1876,7 @@ repos:
   url: https://github.com/OCA/hr-expense
 - branch: '12.0'
   path: OCA/queue/12.0
+  sha: 56ad0568de740aac4fbcfba603d6f27b50e73191
   type: integrated
   url: https://github.com/OCA/queue
 - branch: '13.0'
