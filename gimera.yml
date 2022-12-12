@@ -5001,6 +5001,7 @@ repos:
   url: https://github.com/OCA/connector-accountedge
 - branch: '12.0'
   path: OCA/business-requirement/12.0
+  sha: dcdd77c75a15d6c88e3b19ae9990958a1eea2230
   type: integrated
   url: https://github.com/OCA/business-requirement
 - branch: '13.0'
