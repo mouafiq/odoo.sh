@@ -3768,6 +3768,7 @@ repos:
   url: https://github.com/OCA/rest-api
 - branch: '16.0'
   path: OCA/rest-api/16.0
+  sha: 3ba7f3c66ea37efc7904f80830fbe43082326204
   type: integrated
   url: https://github.com/OCA/rest-api
 - branch: '12.0'
