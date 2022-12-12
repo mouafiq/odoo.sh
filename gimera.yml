@@ -4663,6 +4663,7 @@ repos:
   url: https://github.com/OCA/l10n-austria
 - branch: '14.0'
   path: OCA/l10n-austria/14.0
+  sha: de15cc45f70b73788318e1459763f440f5f26aef
   type: integrated
   url: https://github.com/OCA/l10n-austria
 - branch: '15.0'
