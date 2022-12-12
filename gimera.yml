@@ -706,6 +706,7 @@ repos:
   url: https://github.com/OCA/stock-logistics-reporting
 - branch: '12.0'
   path: OCA/iot/12.0
+  sha: c9235124686d3f6c1b7a88fcf878d1f38cba57a4
   type: integrated
   url: https://github.com/OCA/iot
 - branch: '13.0'
