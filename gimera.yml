@@ -979,12 +979,9 @@ repos:
   sha: 9142489ad429b703da29b3b5d898c6cf4d5b33c9
   type: integrated
   url: https://github.com/OCA/cooperative
-- branch: '15.0'
-  path: OCA/cooperative/15.0
-  type: integrated
-  url: https://github.com/OCA/cooperative
 - branch: '16.0'
   path: OCA/cooperative/16.0
+  sha: df3000447dcb6b116fd8df9360ef9f40101c1ca2
   type: integrated
   url: https://github.com/OCA/cooperative
 - branch: '12.0'
