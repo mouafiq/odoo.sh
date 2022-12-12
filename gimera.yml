@@ -3546,6 +3546,7 @@ repos:
   url: https://github.com/OCA/vertical-construction
 - branch: '15.0'
   path: OCA/vertical-construction/15.0
+  sha: 2c9a36a19379e1080815902a80f046b5ac534f8e
   type: integrated
   url: https://github.com/OCA/vertical-construction
 - branch: '16.0'
