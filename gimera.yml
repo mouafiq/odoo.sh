@@ -2075,6 +2075,7 @@ repos:
   url: https://github.com/OCA/vertical-hotel
 - branch: '13.0'
   path: OCA/vertical-hotel/13.0
+  sha: da1a95ee23094dcd48a6ec820c5070fa442f2ba1
   type: integrated
   url: https://github.com/OCA/vertical-hotel
 - branch: '14.0'
