@@ -1630,27 +1630,8 @@ repos:
   type: integrated
   url: https://github.com/OCA/l10n-france
 - branch: '12.0'
-  path: OCA/odoo-test-helper/12.0
-  type: integrated
-  url: https://github.com/OCA/odoo-test-helper
-- branch: '13.0'
-  path: OCA/odoo-test-helper/13.0
-  type: integrated
-  url: https://github.com/OCA/odoo-test-helper
-- branch: '14.0'
-  path: OCA/odoo-test-helper/14.0
-  type: integrated
-  url: https://github.com/OCA/odoo-test-helper
-- branch: '15.0'
-  path: OCA/odoo-test-helper/15.0
-  type: integrated
-  url: https://github.com/OCA/odoo-test-helper
-- branch: '16.0'
-  path: OCA/odoo-test-helper/16.0
-  type: integrated
-  url: https://github.com/OCA/odoo-test-helper
-- branch: '12.0'
   path: OCA/intrastat-extrastat/12.0
+  sha: c2423c28570a282e878da960b4b3fda30c963fce
   type: integrated
   url: https://github.com/OCA/intrastat-extrastat
 - branch: '13.0'
