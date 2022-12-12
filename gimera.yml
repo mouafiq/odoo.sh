@@ -4821,6 +4821,7 @@ repos:
   url: https://github.com/OCA/connector-salesforce
 - branch: '16.0'
   path: OCA/connector-salesforce/16.0
+  sha: 0352e9fbb99a45a7f058fc001bc70a0f0e1815c5
   type: integrated
   url: https://github.com/OCA/connector-salesforce
 - branch: '12.0'
