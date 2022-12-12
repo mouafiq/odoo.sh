@@ -4244,6 +4244,7 @@ repos:
   url: https://github.com/OCA/l10n-mexico
 - branch: '15.0'
   path: OCA/l10n-mexico/15.0
+  sha: 7ed3d22cbfe69a1203f08d5660616c3e481b7ca6
   type: integrated
   url: https://github.com/OCA/l10n-mexico
 - branch: '16.0'
