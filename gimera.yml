@@ -3142,6 +3142,7 @@ repos:
   url: https://github.com/OCA/stock-logistics-orderpoint
 - branch: '12.0'
   path: OCA/purchase-reporting/12.0
+  sha: 674560128ed7d06db8ec0a917011ffa81c4cea79
   type: integrated
   url: https://github.com/OCA/purchase-reporting
 - branch: '13.0'
