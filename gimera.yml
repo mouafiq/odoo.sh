@@ -501,6 +501,7 @@ repos:
   url: https://github.com/OCA/manufacture
 - branch: '16.0'
   path: OCA/manufacture/16.0
+  sha: 0ea6c2439885cadfed9ee2c558c10c97b25580cc
   type: integrated
   url: https://github.com/OCA/manufacture
 - branch: '12.0'
