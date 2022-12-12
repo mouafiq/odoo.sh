@@ -626,6 +626,7 @@ repos:
   url: https://github.com/OCA/account-financial-tools
 - branch: '16.0'
   path: OCA/account-financial-tools/16.0
+  sha: 1782a12048f8f8fe3a8850dd03b075725dbc6810
   type: integrated
   url: https://github.com/OCA/account-financial-tools
 - branch: '12.0'
