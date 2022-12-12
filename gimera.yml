@@ -3674,6 +3674,7 @@ repos:
   url: https://github.com/OCA/server-brand
 - branch: '16.0'
   path: OCA/server-brand/16.0
+  sha: cbfd4e2b852c2bffad761c9ab5d6241a7d4624b7
   type: integrated
   url: https://github.com/OCA/server-brand
 - branch: '12.0'
