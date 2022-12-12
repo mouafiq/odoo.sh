@@ -2573,6 +2573,7 @@ repos:
   url: https://github.com/OCA/calendar
 - branch: '14.0'
   path: OCA/calendar/14.0
+  sha: 528b08110832b622b5487ad2872132eefe9709f5
   type: integrated
   url: https://github.com/OCA/calendar
 - branch: '15.0'
