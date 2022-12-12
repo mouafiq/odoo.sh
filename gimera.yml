@@ -335,12 +335,9 @@ repos:
   sha: 0085226f3d5b20da18d53455cd5394f4719538a9
   type: integrated
   url: https://github.com/OCA/commission
-- branch: '12.0'
-  path: OCA/payroll/12.0
-  type: integrated
-  url: https://github.com/OCA/payroll
 - branch: '13.0'
   path: OCA/payroll/13.0
+  sha: 534878de104712805b0fb16e308f8530ae62191e
   type: integrated
   url: https://github.com/OCA/payroll
 - branch: '14.0'
