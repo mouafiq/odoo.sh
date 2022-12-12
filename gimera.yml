@@ -2371,6 +2371,7 @@ repos:
   url: https://github.com/OCA/ddmrp
 - branch: '12.0'
   path: OCA/dms/12.0
+  sha: 0d28cfa6b31ab2bdb54aaf78660512b9ac1ece6e
   type: integrated
   url: https://github.com/OCA/dms
 - branch: '13.0'
