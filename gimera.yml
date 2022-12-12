@@ -4851,6 +4851,7 @@ repos:
   url: https://github.com/OCA/connector-sage
 - branch: '12.0'
   path: OCA/connector-redmine/12.0
+  sha: ca52a84168c24c8aa7716dc00166e3fb378a60ef
   type: integrated
   url: https://github.com/OCA/connector-redmine
 - branch: '13.0'
