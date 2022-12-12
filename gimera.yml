@@ -3239,6 +3239,7 @@ repos:
   url: https://github.com/OCA/connector-ecommerce
 - branch: '13.0'
   path: OCA/connector-ecommerce/13.0
+  sha: 879e1086c7369689d7b15d3931bef57e0caf99ab
   type: integrated
   url: https://github.com/OCA/connector-ecommerce
 - branch: '14.0'
