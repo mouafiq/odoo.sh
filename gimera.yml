@@ -4856,6 +4856,7 @@ repos:
   url: https://github.com/OCA/connector-redmine
 - branch: '13.0'
   path: OCA/connector-redmine/13.0
+  sha: 4d09d3a127a9737ad848a23d554532136cce0416
   type: integrated
   url: https://github.com/OCA/connector-redmine
 - branch: '14.0'
