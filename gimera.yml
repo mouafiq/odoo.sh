@@ -3051,6 +3051,7 @@ repos:
   url: https://github.com/OCA/web-api
 - branch: '16.0'
   path: OCA/web-api/16.0
+  sha: 1dbda66c37a18e976c125504c8d2a96e2eb78b77
   type: integrated
   url: https://github.com/OCA/web-api
 - branch: '12.0'
