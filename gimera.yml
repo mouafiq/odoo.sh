@@ -4598,6 +4598,7 @@ repos:
   url: https://github.com/OCA/l10n-chile
 - branch: '16.0'
   path: OCA/l10n-chile/16.0
+  sha: 01fc09d2577d2860788a5a5667051e64efd42179
   type: integrated
   url: https://github.com/OCA/l10n-chile
 - branch: '12.0'
