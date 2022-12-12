@@ -1101,6 +1101,7 @@ repos:
   url: https://github.com/OCA/timesheet
 - branch: '15.0'
   path: OCA/timesheet/15.0
+  sha: 403b183929abf25d61254dd47edc8f8693187d76
   type: integrated
   url: https://github.com/OCA/timesheet
 - branch: '16.0'
