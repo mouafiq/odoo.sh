@@ -3339,6 +3339,7 @@ repos:
   url: https://github.com/OCA/webhook
 - branch: '13.0'
   path: OCA/webhook/13.0
+  sha: c951b3a7ef6ec310e43cfc1f8f1883e6acb02d11
   type: integrated
   url: https://github.com/OCA/webhook
 - branch: '14.0'
