@@ -516,6 +516,7 @@ repos:
   url: https://github.com/OCA/hr
 - branch: '14.0'
   path: OCA/hr/14.0
+  sha: c96d53e81d33ec091ae9d32669d486e42f67c4f2
   type: integrated
   url: https://github.com/OCA/hr
 - branch: '15.0'
