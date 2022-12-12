@@ -4463,6 +4463,7 @@ repos:
   url: https://github.com/OCA/l10n-estonia
 - branch: '14.0'
   path: OCA/l10n-estonia/14.0
+  sha: 7a059ce6f8ba3b7ce5ceb3703807ffbf95cb8b09
   type: integrated
   url: https://github.com/OCA/l10n-estonia
 - branch: '15.0'
