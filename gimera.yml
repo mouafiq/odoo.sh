@@ -2296,6 +2296,7 @@ repos:
   url: https://github.com/OCA/product-variant
 - branch: '12.0'
   path: OCA/fleet/12.0
+  sha: e2e1a78bfe05199c8d1c0b761b460057b218c7a8
   type: integrated
   url: https://github.com/OCA/fleet
 - branch: '13.0'
