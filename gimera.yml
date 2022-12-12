@@ -1796,6 +1796,7 @@ repos:
   url: https://github.com/OCA/account-reconcile
 - branch: '12.0'
   path: OCA/account-budgeting/12.0
+  sha: a692eac196349291cad2326fa2f2c06523839423
   type: integrated
   url: https://github.com/OCA/account-budgeting
 - branch: '13.0'
