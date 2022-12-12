@@ -2000,6 +2000,7 @@ repos:
   url: https://github.com/OCA/crm
 - branch: '12.0'
   path: OCA/product-pack/12.0
+  sha: 3aea18133503df1a9090f39eba452c3ef0cefda2
   type: integrated
   url: https://github.com/OCA/product-pack
 - branch: '13.0'
