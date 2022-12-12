@@ -4219,6 +4219,7 @@ repos:
   url: https://github.com/OCA/l10n-morocco
 - branch: '15.0'
   path: OCA/l10n-morocco/15.0
+  sha: 4666e2af8451813252dc9b047a4b961004e871bd
   type: integrated
   url: https://github.com/OCA/l10n-morocco
 - branch: '16.0'
