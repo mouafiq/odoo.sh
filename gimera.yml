@@ -4693,6 +4693,7 @@ repos:
   url: https://github.com/OCA/infrastructure
 - branch: '15.0'
   path: OCA/infrastructure/15.0
+  sha: f29e55c764c1362388a3677b748deaae62d3bb0a
   type: integrated
   url: https://github.com/OCA/infrastructure
 - branch: '16.0'
