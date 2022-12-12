@@ -806,6 +806,7 @@ repos:
   url: https://github.com/OCA/l10n-belgium
 - branch: '12.0'
   path: OCA/rest-framework/12.0
+  sha: fdf13795fb03fc8eea940bc259774f5720977d19
   type: integrated
   url: https://github.com/OCA/rest-framework
 - branch: '13.0'
