@@ -4801,6 +4801,7 @@ repos:
   url: https://github.com/OCA/connector-spscommerce
 - branch: '12.0'
   path: OCA/connector-salesforce/12.0
+  sha: 89d9e3c1b31969e4a14b4692d2173f0cf8ea6413
   type: integrated
   url: https://github.com/OCA/connector-salesforce
 - branch: '13.0'
