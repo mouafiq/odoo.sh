@@ -437,6 +437,7 @@ repos:
   url: https://github.com/OCA/l10n-brazil
 - branch: '13.0'
   path: OCA/l10n-brazil/13.0
+  sha: c6171adda749ddd93913c2592a16201c57da7262
   type: integrated
   url: https://github.com/OCA/l10n-brazil
 - branch: '14.0'
