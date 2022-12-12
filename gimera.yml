@@ -811,6 +811,7 @@ repos:
   url: https://github.com/OCA/rest-framework
 - branch: '13.0'
   path: OCA/rest-framework/13.0
+  sha: 90cd25687cd3ebc926a7ac0853cb444c55a8cf42
   type: integrated
   url: https://github.com/OCA/rest-framework
 - branch: '14.0'
