@@ -3963,6 +3963,7 @@ repos:
   url: https://github.com/OCA/l10n-venezuela
 - branch: '13.0'
   path: OCA/l10n-venezuela/13.0
+  sha: 8a922fb4d5f3a28c9a310b220897af8170fcca6e
   type: integrated
   url: https://github.com/OCA/l10n-venezuela
 - branch: '14.0'
