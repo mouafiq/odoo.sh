@@ -1591,6 +1591,7 @@ repos:
   url: https://github.com/OCA/l10n-ukraine
 - branch: '14.0'
   path: OCA/l10n-ukraine/14.0
+  sha: ec5e2b0b5b5d0c530a206fc8a47581d92bf7281b
   type: integrated
   url: https://github.com/OCA/l10n-ukraine
 - branch: '15.0'
