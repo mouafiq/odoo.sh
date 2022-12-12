@@ -1071,6 +1071,7 @@ repos:
   url: https://github.com/OCA/account-invoicing
 - branch: '14.0'
   path: OCA/account-invoicing/14.0
+  sha: 89fe19870e4ec4fe40a3fe54af2fb7385b685c44
   type: integrated
   url: https://github.com/OCA/account-invoicing
 - branch: '15.0'
