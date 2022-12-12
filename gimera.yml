@@ -2717,6 +2717,7 @@ repos:
   url: https://github.com/OCA/manufacture-reporting
 - branch: '15.0'
   path: OCA/manufacture-reporting/15.0
+  sha: fa85a1dac48a2201b8016d6dfe7633bc9c5a5090
   type: integrated
   url: https://github.com/OCA/manufacture-reporting
 - branch: '16.0'
