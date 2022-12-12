@@ -2005,6 +2005,7 @@ repos:
   url: https://github.com/OCA/product-pack
 - branch: '13.0'
   path: OCA/product-pack/13.0
+  sha: f31ad996dc6403761e3a21d8945081123635e920
   type: integrated
   url: https://github.com/OCA/product-pack
 - branch: '14.0'
