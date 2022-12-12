@@ -1116,6 +1116,7 @@ repos:
   url: https://github.com/OCA/connector
 - branch: '13.0'
   path: OCA/connector/13.0
+  sha: a3d9208dca2913c670986db2adbddf5b890a8b8e
   type: integrated
   url: https://github.com/OCA/connector
 - branch: '14.0'
