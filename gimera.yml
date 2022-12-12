@@ -1141,6 +1141,7 @@ repos:
   url: https://github.com/OCA/sale-reporting
 - branch: '13.0'
   path: OCA/sale-reporting/13.0
+  sha: 6f214f4ede2164116ac5a98317a5604655eebb28
   type: integrated
   url: https://github.com/OCA/sale-reporting
 - branch: '14.0'
