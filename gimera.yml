@@ -1409,12 +1409,9 @@ repos:
   sha: ea4d12b84f42e5cfc6020877f1fd5a4eee77412b
   type: integrated
   url: https://github.com/OCA/reporting-engine
-- branch: '12.0'
-  path: OCA/hr-attendance/12.0
-  type: integrated
-  url: https://github.com/OCA/hr-attendance
 - branch: '13.0'
   path: OCA/hr-attendance/13.0
+  sha: dcf13aa2b5e90189bb17a01f08a32cce028683cf
   type: integrated
   url: https://github.com/OCA/hr-attendance
 - branch: '14.0'
