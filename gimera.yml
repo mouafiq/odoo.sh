@@ -3204,6 +3204,7 @@ repos:
   url: https://github.com/OCA/stock-logistics-interfaces
 - branch: '16.0'
   path: OCA/stock-logistics-interfaces/16.0
+  sha: 8e9b24b53efb9a4c85841aca513ea967939d1824
   type: integrated
   url: https://github.com/OCA/stock-logistics-interfaces
 - branch: '12.0'
