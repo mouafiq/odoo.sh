@@ -1186,6 +1186,7 @@ repos:
   url: https://github.com/OCA/maintenance
 - branch: '12.0'
   path: OCA/l10n-spain/12.0
+  sha: 5bccbf0ac831f277537733773d3d5e1efcfcfa43
   type: integrated
   url: https://github.com/OCA/l10n-spain
 - branch: '13.0'
