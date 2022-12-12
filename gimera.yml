@@ -1086,6 +1086,7 @@ repos:
   url: https://github.com/OCA/account-invoicing
 - branch: '12.0'
   path: OCA/timesheet/12.0
+  sha: 5a1333122da0cf6192ca2fbe8bb8bb917baf81dd
   type: integrated
   url: https://github.com/OCA/timesheet
 - branch: '13.0'
