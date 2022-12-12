@@ -4776,6 +4776,7 @@ repos:
   url: https://github.com/OCA/connector-woocommerce
 - branch: '12.0'
   path: OCA/connector-spscommerce/12.0
+  sha: 581760bf78ccbae45757c4130d5ca3b447972074
   type: integrated
   url: https://github.com/OCA/connector-spscommerce
 - branch: '13.0'
