@@ -4921,6 +4921,7 @@ repos:
   url: https://github.com/OCA/connector-lengow
 - branch: '16.0'
   path: OCA/connector-lengow/16.0
+  sha: f092192889c104e17c65300a925760ad2bd03d0e
   type: integrated
   url: https://github.com/OCA/connector-lengow
 - branch: '12.0'
