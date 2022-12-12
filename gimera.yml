@@ -531,6 +531,7 @@ repos:
   url: https://github.com/OCA/hr
 - branch: '12.0'
   path: OCA/account-analytic/12.0
+  sha: c40c6c31f1e2cad0427134ec66bd2393ab550a1f
   type: integrated
   url: https://github.com/OCA/account-analytic
 - branch: '13.0'
