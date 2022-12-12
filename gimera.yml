@@ -3403,6 +3403,7 @@ repos:
   url: https://github.com/OCA/vertical-realestate
 - branch: '16.0'
   path: OCA/vertical-realestate/16.0
+  sha: b6378a265eefbec3cb0ced3930bacdec8b81c8fb
   type: integrated
   url: https://github.com/OCA/vertical-realestate
 - branch: '12.0'
