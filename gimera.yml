@@ -2703,6 +2703,7 @@ repos:
   url: https://github.com/OCA/odoo-module-migrator
 - branch: '12.0'
   path: OCA/manufacture-reporting/12.0
+  sha: 515ed407e3bdf36c46e6d3da78748caaddb31797
   type: integrated
   url: https://github.com/OCA/manufacture-reporting
 - branch: '13.0'
