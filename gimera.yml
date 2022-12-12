@@ -846,6 +846,7 @@ repos:
   url: https://github.com/OCA/currency
 - branch: '15.0'
   path: OCA/currency/15.0
+  sha: 7429de316b7fe4cacfb3632f527870dd83fd2477
   type: integrated
   url: https://github.com/OCA/currency
 - branch: '16.0'
