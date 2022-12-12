@@ -1806,6 +1806,7 @@ repos:
   url: https://github.com/OCA/account-budgeting
 - branch: '14.0'
   path: OCA/account-budgeting/14.0
+  sha: 55d1f8d1c00b915119f603a577fa70ba966188f9
   type: integrated
   url: https://github.com/OCA/account-budgeting
 - branch: '15.0'
