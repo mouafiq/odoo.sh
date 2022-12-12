@@ -959,12 +959,9 @@ repos:
   sha: b43b31ef39f8651a644e80d519ae97cf1a9242f2
   type: integrated
   url: https://github.com/OCA/vertical-rental
-- branch: '13.0'
-  path: OCA/vertical-rental/13.0
-  type: integrated
-  url: https://github.com/OCA/vertical-rental
 - branch: '14.0'
   path: OCA/vertical-rental/14.0
+  sha: 1ab03d5a4137f827ae2785e0fa72a0f6a9fb477e
   type: integrated
   url: https://github.com/OCA/vertical-rental
 - branch: '15.0'
