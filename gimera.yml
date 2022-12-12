@@ -1980,6 +1980,7 @@ repos:
   url: https://github.com/OCA/crm
 - branch: '13.0'
   path: OCA/crm/13.0
+  sha: 5ee1e9cc2fda7b87799db8042ac957495514f7ae
   type: integrated
   url: https://github.com/OCA/crm
 - branch: '14.0'
