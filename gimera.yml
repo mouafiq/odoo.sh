@@ -3862,6 +3862,7 @@ repos:
   url: https://github.com/OCA/program
 - branch: '16.0'
   path: OCA/program/16.0
+  sha: 51d3ab7e4d06fe108feb539c66141a85abb7a7f9
   type: integrated
   url: https://github.com/OCA/program
 - branch: '12.0'
