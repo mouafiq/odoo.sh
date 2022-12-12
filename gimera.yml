@@ -347,6 +347,7 @@ repos:
   url: https://github.com/OCA/payroll
 - branch: '15.0'
   path: OCA/payroll/15.0
+  sha: a87f8ebf830624f6676fa1383a21ef27bae38e9d
   type: integrated
   url: https://github.com/OCA/payroll
 - branch: '16.0'
