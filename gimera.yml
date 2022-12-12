@@ -1556,6 +1556,7 @@ repos:
   url: https://github.com/OCA/website
 - branch: '12.0'
   path: OCA/helpdesk/12.0
+  sha: 3e595ac2b4e650e761f3bc4c941a272533d8263f
   type: integrated
   url: https://github.com/OCA/helpdesk
 - branch: '13.0'
