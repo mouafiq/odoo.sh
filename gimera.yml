@@ -781,6 +781,7 @@ repos:
   url: https://github.com/OCA/bank-payment
 - branch: '12.0'
   path: OCA/l10n-belgium/12.0
+  sha: fd3b16112f223a2273b0e08819ed87dc28029c73
   type: integrated
   url: https://github.com/OCA/l10n-belgium
 - branch: '13.0'
