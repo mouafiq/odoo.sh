@@ -911,6 +911,7 @@ repos:
   url: https://github.com/OCA/contract
 - branch: '13.0'
   path: OCA/contract/13.0
+  sha: 9c8e14b48d3809e1fb67213a7b84da8512ff5ef7
   type: integrated
   url: https://github.com/OCA/contract
 - branch: '14.0'
