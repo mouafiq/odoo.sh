@@ -1826,6 +1826,7 @@ repos:
   url: https://github.com/OCA/repair
 - branch: '16.0'
   path: OCA/repair/16.0
+  sha: 0330b8dfd8b408c8af5d3f30ad27454f2dcfdfdf
   type: integrated
   url: https://github.com/OCA/repair
 - branch: '12.0'
