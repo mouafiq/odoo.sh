@@ -2426,6 +2426,7 @@ repos:
   url: https://github.com/OCA/product-configurator
 - branch: '15.0'
   path: OCA/product-configurator/15.0
+  sha: 77f0135933ad920c06d51281636a27054cf38f4e
   type: integrated
   url: https://github.com/OCA/product-configurator
 - branch: '16.0'
