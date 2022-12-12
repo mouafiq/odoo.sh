@@ -2023,12 +2023,9 @@ repos:
   sha: 8478fc5593e5c7ff620b5655431f20bff5278492
   type: integrated
   url: https://github.com/OCA/product-pack
-- branch: '12.0'
-  path: OCA/sale-promotion/12.0
-  type: integrated
-  url: https://github.com/OCA/sale-promotion
 - branch: '13.0'
   path: OCA/sale-promotion/13.0
+  sha: 3d9f9c2eee77c674c33afd62517ec4df8d63dcc5
   type: integrated
   url: https://github.com/OCA/sale-promotion
 - branch: '14.0'
