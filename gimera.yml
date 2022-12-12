@@ -1931,6 +1931,7 @@ repos:
   url: https://github.com/OCA/search-engine
 - branch: '13.0'
   path: OCA/search-engine/13.0
+  sha: 28621826015c2a651e49ebc56b1c504f5c9b48c5
   type: integrated
   url: https://github.com/OCA/search-engine
 - branch: '14.0'
