@@ -4278,6 +4278,7 @@ repos:
   url: https://github.com/OCA/l10n-macedonia
 - branch: '12.0'
   path: OCA/l10n-luxemburg/12.0
+  sha: a5fadaab102ce8706592a75a27633d431a999377
   type: integrated
   url: https://github.com/OCA/l10n-luxemburg
 - branch: '13.0'
