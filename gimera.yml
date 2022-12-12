@@ -3679,6 +3679,7 @@ repos:
   url: https://github.com/OCA/server-brand
 - branch: '12.0'
   path: OCA/sale-financial/12.0
+  sha: 0f14d0080769190f94a90d2181d8a5883e3c5cc1
   type: integrated
   url: https://github.com/OCA/sale-financial
 - branch: '13.0'
