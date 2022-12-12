@@ -1061,6 +1061,7 @@ repos:
   url: https://github.com/OCA/connector-interfaces
 - branch: '12.0'
   path: OCA/account-invoicing/12.0
+  sha: 747cedbeb01b8cbefc82c271c685abf919cb0ef6
   type: integrated
   url: https://github.com/OCA/account-invoicing
 - branch: '13.0'
