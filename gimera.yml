@@ -2361,6 +2361,7 @@ repos:
   url: https://github.com/OCA/ddmrp
 - branch: '15.0'
   path: OCA/ddmrp/15.0
+  sha: f8bbcbe65a2b32d67f13f661bd1e9d364c8762ce
   type: integrated
   url: https://github.com/OCA/ddmrp
 - branch: '16.0'
