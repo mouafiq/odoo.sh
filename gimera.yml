@@ -5026,6 +5026,7 @@ repos:
   url: https://github.com/OCA/business-requirement
 - branch: '12.0'
   path: OCA/apps-store/12.0
+  sha: b5378c9b7d8405aacb1f122e7dad6b3fc1cb296a
   type: integrated
   url: https://github.com/OCA/apps-store
 - branch: '13.0'
