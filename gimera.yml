@@ -3309,6 +3309,7 @@ repos:
   url: https://github.com/OCA/website-cms
 - branch: '12.0'
   path: OCA/webkit-tools/12.0
+  sha: 91f9d3ca29071a66b3159fea61a64fa78d447e4c
   type: integrated
   url: https://github.com/OCA/webkit-tools
 - branch: '13.0'
