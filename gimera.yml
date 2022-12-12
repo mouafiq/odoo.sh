@@ -1581,6 +1581,7 @@ repos:
   url: https://github.com/OCA/helpdesk
 - branch: '12.0'
   path: OCA/l10n-ukraine/12.0
+  sha: 5287e5c47c7241a095a164ca9ab129ec73979c29
   type: integrated
   url: https://github.com/OCA/l10n-ukraine
 - branch: '13.0'
