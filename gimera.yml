@@ -1546,6 +1546,7 @@ repos:
   url: https://github.com/OCA/website
 - branch: '15.0'
   path: OCA/website/15.0
+  sha: e49d77fdcb8b410e5620b9ec36a0eda9888899d6
   type: integrated
   url: https://github.com/OCA/website
 - branch: '16.0'
