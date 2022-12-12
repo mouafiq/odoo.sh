@@ -4348,6 +4348,7 @@ repos:
   url: https://github.com/OCA/l10n-indonesia
 - branch: '16.0'
   path: OCA/l10n-indonesia/16.0
+  sha: 4bb58305d79512f4c73bcab5360cc8a9241eced3
   type: integrated
   url: https://github.com/OCA/l10n-indonesia
 - branch: '12.0'
