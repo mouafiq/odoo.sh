@@ -2967,6 +2967,7 @@ repos:
   url: https://github.com/OCA/vertical-association
 - branch: '12.0'
   path: OCA/wallet/12.0
+  sha: 27afacb9aeda0cc4af73765e107d1c6b863652df
   type: integrated
   url: https://github.com/OCA/wallet
 - branch: '13.0'
