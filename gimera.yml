@@ -3809,6 +3809,7 @@ repos:
   url: https://github.com/OCA/project-reporting
 - branch: '15.0'
   path: OCA/project-reporting/15.0
+  sha: c4c4942ad17e6ee928192a3afe86bf7ec7abfb04
   type: integrated
   url: https://github.com/OCA/project-reporting
 - branch: '16.0'
