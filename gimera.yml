@@ -1671,6 +1671,7 @@ repos:
   url: https://github.com/OCA/pms
 - branch: '12.0'
   path: OCA/l10n-netherlands/12.0
+  sha: 53798050a234ba3ea8517f0e622226fd3673049f
   type: integrated
   url: https://github.com/OCA/l10n-netherlands
 - branch: '13.0'
