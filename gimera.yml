@@ -2593,6 +2593,7 @@ repos:
   url: https://github.com/OCA/event
 - branch: '13.0'
   path: OCA/event/13.0
+  sha: 0e2d5d2b1d3d80d70e6600bde3f8bf4153e5d9a9
   type: integrated
   url: https://github.com/OCA/event
 - branch: '14.0'
