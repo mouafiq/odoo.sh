@@ -3468,6 +3468,7 @@ repos:
   url: https://github.com/OCA/vertical-education
 - branch: '14.0'
   path: OCA/vertical-education/14.0
+  sha: 460c29d1f665962f4e8b74c8837b1f30a8025acd
   type: integrated
   url: https://github.com/OCA/vertical-education
 - branch: '15.0'
