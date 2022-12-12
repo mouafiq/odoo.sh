@@ -3314,6 +3314,7 @@ repos:
   url: https://github.com/OCA/webkit-tools
 - branch: '13.0'
   path: OCA/webkit-tools/13.0
+  sha: 2ddfad0887855bbf6213a866adae2fe05f283478
   type: integrated
   url: https://github.com/OCA/webkit-tools
 - branch: '14.0'
