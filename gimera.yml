@@ -2446,6 +2446,7 @@ repos:
   url: https://github.com/OCA/interface-github
 - branch: '14.0'
   path: OCA/interface-github/14.0
+  sha: 003c8eb41692900561384fcccac66b8a255eae75
   type: integrated
   url: https://github.com/OCA/interface-github
 - branch: '15.0'
