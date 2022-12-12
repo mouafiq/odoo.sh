@@ -1196,6 +1196,7 @@ repos:
   url: https://github.com/OCA/l10n-spain
 - branch: '14.0'
   path: OCA/l10n-spain/14.0
+  sha: 4543e16874c92a0c45992867391fa7cfb64b430e
   type: integrated
   url: https://github.com/OCA/l10n-spain
 - branch: '15.0'
