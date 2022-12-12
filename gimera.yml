@@ -2927,6 +2927,7 @@ repos:
   url: https://github.com/OCA/connector-odoo2odoo
 - branch: '14.0'
   path: OCA/connector-odoo2odoo/14.0
+  sha: 922069c56fed6f57f633d40176be3e605ed79074
   type: integrated
   url: https://github.com/OCA/connector-odoo2odoo
 - branch: '15.0'
