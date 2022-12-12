@@ -3626,6 +3626,7 @@ repos:
   url: https://github.com/OCA/stock-logistics-tracking
 - branch: '16.0'
   path: OCA/stock-logistics-tracking/16.0
+  sha: f29eb83d354152481fe16b03020e4935cdad988e
   type: integrated
   url: https://github.com/OCA/stock-logistics-tracking
 - branch: '12.0'
