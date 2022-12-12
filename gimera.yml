@@ -1466,6 +1466,7 @@ repos:
   url: https://github.com/OCA/field-service
 - branch: '14.0'
   path: OCA/field-service/14.0
+  sha: 3cf6defb7d52f2a50921848732278e7208d72f68
   type: integrated
   url: https://github.com/OCA/field-service
 - branch: '15.0'
