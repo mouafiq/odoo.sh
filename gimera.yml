@@ -3872,6 +3872,7 @@ repos:
   url: https://github.com/OCA/product-kitting
 - branch: '13.0'
   path: OCA/product-kitting/13.0
+  sha: ff93ef8a6867b1e8b3e0efebcd40d6c27126e40b
   type: integrated
   url: https://github.com/OCA/product-kitting
 - branch: '14.0'
