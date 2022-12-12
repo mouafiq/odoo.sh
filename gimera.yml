@@ -2134,6 +2134,7 @@ repos:
   url: https://github.com/OCA/storage
 - branch: '15.0'
   path: OCA/storage/15.0
+  sha: 374e03339fedd2374a63a032cf8e474488b24312
   type: integrated
   url: https://github.com/OCA/storage
 - branch: '16.0'
