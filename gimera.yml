@@ -3591,6 +3591,7 @@ repos:
   url: https://github.com/OCA/vertical-agriculture
 - branch: '14.0'
   path: OCA/vertical-agriculture/14.0
+  sha: b94d4adfccebac53b9000a5c5442f4bf3c2f5138
   type: integrated
   url: https://github.com/OCA/vertical-agriculture
 - branch: '15.0'
