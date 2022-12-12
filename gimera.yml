@@ -2266,6 +2266,7 @@ repos:
   url: https://github.com/OCA/l10n-japan
 - branch: '16.0'
   path: OCA/l10n-japan/16.0
+  sha: eb955e652ba858ec78872e4d1eb2dc8c3decec73
   type: integrated
   url: https://github.com/OCA/l10n-japan
 - branch: '12.0'
