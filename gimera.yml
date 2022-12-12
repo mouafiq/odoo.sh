@@ -2158,6 +2158,7 @@ repos:
   url: https://github.com/OCA/product-variant
 - branch: '15.0'
   path: OCA/product-variant/15.0
+  sha: 63f1750ae6c1dc01d34384846b65202a0f5b0c82
   type: integrated
   url: https://github.com/OCA/product-variant
 - branch: '16.0'
