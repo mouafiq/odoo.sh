@@ -2320,27 +2320,8 @@ repos:
   type: integrated
   url: https://github.com/OCA/fleet
 - branch: '12.0'
-  path: OCA/pylint-odoo/12.0
-  type: integrated
-  url: https://github.com/OCA/pylint-odoo
-- branch: '13.0'
-  path: OCA/pylint-odoo/13.0
-  type: integrated
-  url: https://github.com/OCA/pylint-odoo
-- branch: '14.0'
-  path: OCA/pylint-odoo/14.0
-  type: integrated
-  url: https://github.com/OCA/pylint-odoo
-- branch: '15.0'
-  path: OCA/pylint-odoo/15.0
-  type: integrated
-  url: https://github.com/OCA/pylint-odoo
-- branch: '16.0'
-  path: OCA/pylint-odoo/16.0
-  type: integrated
-  url: https://github.com/OCA/pylint-odoo
-- branch: '12.0'
   path: OCA/survey/12.0
+  sha: 5ee6e8ef26eae67e1a9cf7aeacc397d53c84c716
   type: integrated
   url: https://github.com/OCA/survey
 - branch: '13.0'
