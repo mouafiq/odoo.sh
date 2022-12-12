@@ -2115,6 +2115,7 @@ repos:
   url: https://github.com/OCA/mis-builder
 - branch: '16.0'
   path: OCA/mis-builder/16.0
+  sha: d16e015901a6255330b6257c0c8a55e35364abf1
   type: integrated
   url: https://github.com/OCA/mis-builder
 - branch: '12.0'
