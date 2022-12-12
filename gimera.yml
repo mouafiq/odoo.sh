@@ -4358,6 +4358,7 @@ repos:
   url: https://github.com/OCA/l10n-india
 - branch: '13.0'
   path: OCA/l10n-india/13.0
+  sha: 80dbc81f6c4ac3c26752abe4d5fc57cd649d0995
   type: integrated
   url: https://github.com/OCA/l10n-india
 - branch: '14.0'
