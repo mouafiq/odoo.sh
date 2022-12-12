@@ -2825,6 +2825,7 @@ repos:
   url: https://github.com/OCA/vertical-medical
 - branch: '12.0'
   path: OCA/l10n-portugal/12.0
+  sha: cd799c8725b0c510073aeadc80626018666dc714
   type: integrated
   url: https://github.com/OCA/l10n-portugal
 - branch: '13.0'
