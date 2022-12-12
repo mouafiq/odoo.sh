@@ -2226,6 +2226,7 @@ repos:
   url: https://github.com/OCA/server-env
 - branch: '13.0'
   path: OCA/server-env/13.0
+  sha: 4e98900ce33b7d1f8fcc2ec0c4cf85e46b0e9932
   type: integrated
   url: https://github.com/OCA/server-env
 - branch: '14.0'
