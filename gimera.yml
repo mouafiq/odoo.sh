@@ -3794,6 +3794,7 @@ repos:
   url: https://github.com/OCA/pwa-builder
 - branch: '12.0'
   path: OCA/project-reporting/12.0
+  sha: fcdff29fc2b48e65d7bccc04a6d52c701d99a34e
   type: integrated
   url: https://github.com/OCA/project-reporting
 - branch: '13.0'
