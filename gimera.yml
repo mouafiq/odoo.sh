@@ -2752,6 +2752,7 @@ repos:
   url: https://github.com/OCA/l10n-germany
 - branch: '12.0'
   path: OCA/stock-logistics-transport/12.0
+  sha: 53a1a758f90f5a67ca4654d8137668a9ded26337
   type: integrated
   url: https://github.com/OCA/stock-logistics-transport
 - branch: '13.0'
