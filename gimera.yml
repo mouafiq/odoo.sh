@@ -4976,6 +4976,7 @@ repos:
   url: https://github.com/OCA/connector-cmis
 - branch: '12.0'
   path: OCA/connector-accountedge/12.0
+  sha: 7f0c5bb63776f79e963df5ba706e69ed5656b426
   type: integrated
   url: https://github.com/OCA/connector-accountedge
 - branch: '13.0'
