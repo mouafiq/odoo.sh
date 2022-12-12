@@ -4756,6 +4756,7 @@ repos:
   url: https://github.com/OCA/connector-woocommerce
 - branch: '13.0'
   path: OCA/connector-woocommerce/13.0
+  sha: e4110932584de37667496e9f2a93f69a2fda5973
   type: integrated
   url: https://github.com/OCA/connector-woocommerce
 - branch: '14.0'
