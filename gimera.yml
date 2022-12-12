@@ -3453,6 +3453,7 @@ repos:
   url: https://github.com/OCA/vertical-isp
 - branch: '16.0'
   path: OCA/vertical-isp/16.0
+  sha: 87daac3364cae9282e919805320a4567ac1ffbc9
   type: integrated
   url: https://github.com/OCA/vertical-isp
 - branch: '12.0'
