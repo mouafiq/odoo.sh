@@ -4283,6 +4283,7 @@ repos:
   url: https://github.com/OCA/l10n-luxemburg
 - branch: '13.0'
   path: OCA/l10n-luxemburg/13.0
+  sha: 198f185b831fdf06ee1937282520e2b588731a3e
   type: integrated
   url: https://github.com/OCA/l10n-luxemburg
 - branch: '14.0'
