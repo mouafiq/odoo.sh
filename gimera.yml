@@ -4971,6 +4971,7 @@ repos:
   url: https://github.com/OCA/connector-cmis
 - branch: '16.0'
   path: OCA/connector-cmis/16.0
+  sha: dfb602ffebf6c5f149953f91088c7ac80acd7b4a
   type: integrated
   url: https://github.com/OCA/connector-cmis
 - branch: '12.0'
