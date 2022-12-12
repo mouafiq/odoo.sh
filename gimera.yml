@@ -3274,6 +3274,7 @@ repos:
   url: https://github.com/OCA/website-themes
 - branch: '15.0'
   path: OCA/website-themes/15.0
+  sha: a6f8ccb67367b8ae9778c2079723f83b0b6b759c
   type: integrated
   url: https://github.com/OCA/website-themes
 - branch: '16.0'
