@@ -4378,6 +4378,7 @@ repos:
   url: https://github.com/OCA/l10n-india
 - branch: '12.0'
   path: OCA/l10n-greece/12.0
+  sha: aceefdaefab8bd02f9cbedb09c338797e8591554
   type: integrated
   url: https://github.com/OCA/l10n-greece
 - branch: '13.0'
