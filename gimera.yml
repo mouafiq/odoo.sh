@@ -2020,6 +2020,7 @@ repos:
   url: https://github.com/OCA/product-pack
 - branch: '16.0'
   path: OCA/product-pack/16.0
+  sha: 8478fc5593e5c7ff620b5655431f20bff5278492
   type: integrated
   url: https://github.com/OCA/product-pack
 - branch: '12.0'
