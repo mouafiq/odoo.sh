@@ -1701,6 +1701,7 @@ repos:
   url: https://github.com/OCA/connector-prestashop
 - branch: '13.0'
   path: OCA/connector-prestashop/13.0
+  sha: 3aca14aae47f3685e7cc4b773c682e361cf399bc
   type: integrated
   url: https://github.com/OCA/connector-prestashop
 - branch: '14.0'
