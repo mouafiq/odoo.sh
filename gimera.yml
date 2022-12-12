@@ -3561,6 +3561,7 @@ repos:
   url: https://github.com/OCA/vertical-community
 - branch: '13.0'
   path: OCA/vertical-community/13.0
+  sha: 6ddacfdc3039b8c49459654a0d8fb03085bd581b
   type: integrated
   url: https://github.com/OCA/vertical-community
 - branch: '14.0'
