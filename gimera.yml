@@ -481,6 +481,7 @@ repos:
   url: https://github.com/OCA/server-tools
 - branch: '12.0'
   path: OCA/manufacture/12.0
+  sha: 5d1f0a498ab10a64d6e38f74f7a020eb946e2692
   type: integrated
   url: https://github.com/OCA/manufacture
 - branch: '13.0'
