@@ -1041,6 +1041,7 @@ repos:
   url: https://github.com/OCA/connector-interfaces
 - branch: '13.0'
   path: OCA/connector-interfaces/13.0
+  sha: 43a43c19715651e5f27311824add60a9116f2045
   type: integrated
   url: https://github.com/OCA/connector-interfaces
 - branch: '14.0'
