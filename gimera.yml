@@ -2216,6 +2216,7 @@ repos:
   url: https://github.com/OCA/account-fiscal-rule
 - branch: '16.0'
   path: OCA/account-fiscal-rule/16.0
+  sha: 1202fae00c6f6158ad1d997a33bdc89bad2833b2
   type: integrated
   url: https://github.com/OCA/account-fiscal-rule
 - branch: '12.0'
