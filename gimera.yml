@@ -2912,6 +2912,7 @@ repos:
   url: https://github.com/OCA/stock-logistics-availability
 - branch: '16.0'
   path: OCA/stock-logistics-availability/16.0
+  sha: 5c2e367e01ed271a87350c3ffe93129dc5164fe2
   type: integrated
   url: https://github.com/OCA/stock-logistics-availability
 - branch: '12.0'
