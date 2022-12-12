@@ -5061,6 +5061,7 @@ repos:
   url: https://github.com/OCA/account-consolidation
 - branch: '14.0'
   path: OCA/account-consolidation/14.0
+  sha: a76b57e3eb00c35205c79d41dd2fc3e8eed964ee
   type: integrated
   url: https://github.com/OCA/account-consolidation
 - branch: '15.0'
