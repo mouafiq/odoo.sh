@@ -966,6 +966,7 @@ repos:
   url: https://github.com/OCA/vertical-rental
 - branch: '15.0'
   path: OCA/vertical-rental/15.0
+  sha: caf54ce25cf710e8ee5f3856156e121623a0787c
   type: integrated
   url: https://github.com/OCA/vertical-rental
 - branch: '16.0'
