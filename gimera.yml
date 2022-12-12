@@ -791,6 +791,7 @@ repos:
   url: https://github.com/OCA/l10n-belgium
 - branch: '14.0'
   path: OCA/l10n-belgium/14.0
+  sha: f4602558006ca342b9c82f6606b3f0fa9bcc45a3
   type: integrated
   url: https://github.com/OCA/l10n-belgium
 - branch: '15.0'
