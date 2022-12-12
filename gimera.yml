@@ -856,6 +856,7 @@ repos:
   url: https://github.com/OCA/currency
 - branch: '12.0'
   path: OCA/report-print-send/12.0
+  sha: 4f441e6791e8f92430b76ff3a4dca39125df8d7a
   type: integrated
   url: https://github.com/OCA/report-print-send
 - branch: '13.0'
