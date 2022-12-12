@@ -2376,6 +2376,7 @@ repos:
   url: https://github.com/OCA/dms
 - branch: '13.0'
   path: OCA/dms/13.0
+  sha: cd10afdbdca328d0e1c8b175728f87c2f38366de
   type: integrated
   url: https://github.com/OCA/dms
 - branch: '14.0'
