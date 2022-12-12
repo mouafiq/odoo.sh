@@ -4493,6 +4493,7 @@ repos:
   url: https://github.com/OCA/l10n-croatia
 - branch: '15.0'
   path: OCA/l10n-croatia/15.0
+  sha: 284418a2e006d14c0349c552e2ca54f806289947
   type: integrated
   url: https://github.com/OCA/l10n-croatia
 - branch: '16.0'
