@@ -1911,6 +1911,7 @@ repos:
   url: https://github.com/OCA/odoo-pim
 - branch: '14.0'
   path: OCA/odoo-pim/14.0
+  sha: 32d96956974c216e82e32166e5bc8069a8b99656
   type: integrated
   url: https://github.com/OCA/odoo-pim
 - branch: '15.0'
