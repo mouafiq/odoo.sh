@@ -2010,6 +2010,7 @@ repos:
   url: https://github.com/OCA/product-pack
 - branch: '14.0'
   path: OCA/product-pack/14.0
+  sha: 15feb673552a6ed8797a6f9cf39a8a16ffd5cff5
   type: integrated
   url: https://github.com/OCA/product-pack
 - branch: '15.0'
