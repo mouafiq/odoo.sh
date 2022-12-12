@@ -3933,6 +3933,7 @@ repos:
   url: https://github.com/OCA/oca.recipe.odoo
 - branch: '12.0'
   path: OCA/l10n-vietnam/12.0
+  sha: 03c3be167dda69d6ca534a9218a15538ebc6fc4d
   type: integrated
   url: https://github.com/OCA/l10n-vietnam
 - branch: '13.0'
