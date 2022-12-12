@@ -1246,6 +1246,7 @@ repos:
   url: https://github.com/OCA/account-financial-reporting
 - branch: '14.0'
   path: OCA/account-financial-reporting/14.0
+  sha: 7a85d5095a79cd5c9eae7d70f6b76d1b7a6a2672
   type: integrated
   url: https://github.com/OCA/account-financial-reporting
 - branch: '15.0'
