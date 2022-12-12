@@ -2658,6 +2658,7 @@ repos:
   url: https://github.com/OCA/l10n-ecuador
 - branch: '12.0'
   path: OCA/geospatial/12.0
+  sha: e1ada0cffe31d9323ca236bdd824b84409a322b9
   type: integrated
   url: https://github.com/OCA/geospatial
 - branch: '13.0'
