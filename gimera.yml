@@ -3724,6 +3724,7 @@ repos:
   url: https://github.com/OCA/runbot-addons
 - branch: '16.0'
   path: OCA/runbot-addons/16.0
+  sha: 99e698cf99a829fe2682fe1a14681d614df6e471
   type: integrated
   url: https://github.com/OCA/runbot-addons
 - branch: '12.0'
