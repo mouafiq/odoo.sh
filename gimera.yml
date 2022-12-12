@@ -3684,6 +3684,7 @@ repos:
   url: https://github.com/OCA/sale-financial
 - branch: '13.0'
   path: OCA/sale-financial/13.0
+  sha: a9cc60ab0a02d573de6711a788b7d6656dbd5618
   type: integrated
   url: https://github.com/OCA/sale-financial
 - branch: '14.0'
