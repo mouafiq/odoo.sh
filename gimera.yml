@@ -3733,6 +3733,7 @@ repos:
   url: https://github.com/OCA/role-policy
 - branch: '13.0'
   path: OCA/role-policy/13.0
+  sha: 6fa7226f969ea90dbd7d540b545b16d852847a77
   type: integrated
   url: https://github.com/OCA/role-policy
 - branch: '14.0'
