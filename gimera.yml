@@ -1351,6 +1351,7 @@ repos:
   url: https://github.com/OCA/brand
 - branch: '15.0'
   path: OCA/brand/15.0
+  sha: 948f756f81ce5f600d517e1ea089d324231d99fc
   type: integrated
   url: https://github.com/OCA/brand
 - branch: '16.0'
