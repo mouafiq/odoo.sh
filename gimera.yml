@@ -3988,6 +3988,7 @@ repos:
   url: https://github.com/OCA/l10n-uruguay
 - branch: '13.0'
   path: OCA/l10n-uruguay/13.0
+  sha: be88a63689423b4cc4af6293f2337c6f97428edb
   type: integrated
   url: https://github.com/OCA/l10n-uruguay
 - branch: '14.0'
