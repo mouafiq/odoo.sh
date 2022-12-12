@@ -1441,6 +1441,7 @@ repos:
   url: https://github.com/OCA/bank-statement-import
 - branch: '14.0'
   path: OCA/bank-statement-import/14.0
+  sha: f70f63dd4453dcbbb969564a4d0b163d88575b99
   type: integrated
   url: https://github.com/OCA/bank-statement-import
 - branch: '15.0'
