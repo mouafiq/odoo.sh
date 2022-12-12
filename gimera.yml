@@ -1431,6 +1431,7 @@ repos:
   url: https://github.com/OCA/hr-attendance
 - branch: '12.0'
   path: OCA/bank-statement-import/12.0
+  sha: 88193f394cf2d4d1aab5638068e7a4b8e0007d52
   type: integrated
   url: https://github.com/OCA/bank-statement-import
 - branch: '13.0'
