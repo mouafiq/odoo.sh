@@ -561,6 +561,7 @@ repos:
   url: https://github.com/OCA/stock-logistics-barcode
 - branch: '13.0'
   path: OCA/stock-logistics-barcode/13.0
+  sha: da8805f51bb74e99217aaa96c944d7c2bdb775db
   type: integrated
   url: https://github.com/OCA/stock-logistics-barcode
 - branch: '14.0'
