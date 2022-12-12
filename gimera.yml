@@ -3359,6 +3359,7 @@ repos:
   url: https://github.com/OCA/webhook
 - branch: '12.0'
   path: OCA/vertical-travel/12.0
+  sha: 3572c0689eb67a757681070ac913c72cea50645f
   type: integrated
   url: https://github.com/OCA/vertical-travel
 - branch: '13.0'
