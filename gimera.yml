@@ -1661,6 +1661,7 @@ repos:
   url: https://github.com/OCA/pms
 - branch: '15.0'
   path: OCA/pms/15.0
+  sha: dfcfab635b5fe51d5dd1027331153e9eb879eb6d
   type: integrated
   url: https://github.com/OCA/pms
 - branch: '16.0'
