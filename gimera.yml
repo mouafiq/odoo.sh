@@ -2486,6 +2486,7 @@ repos:
   url: https://github.com/OCA/l10n-usa
 - branch: '12.0'
   path: OCA/donation/12.0
+  sha: 90f6255a0a441f4cd3097453b27e097d6274379d
   type: integrated
   url: https://github.com/OCA/donation
 - branch: '13.0'
