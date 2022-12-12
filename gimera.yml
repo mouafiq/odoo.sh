@@ -2891,6 +2891,7 @@ repos:
   url: https://github.com/OCA/spreadsheet
 - branch: '16.0'
   path: OCA/spreadsheet/16.0
+  sha: 52a1849faea2342c074200c3fd79c69228cda969
   type: integrated
   url: https://github.com/OCA/spreadsheet
 - branch: '12.0'
