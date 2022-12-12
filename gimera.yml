@@ -2792,6 +2792,7 @@ repos:
   url: https://github.com/OCA/connector-telephony
 - branch: '15.0'
   path: OCA/connector-telephony/15.0
+  sha: 0913efe1364217d84074c88e7f06c32d29350e2a
   type: integrated
   url: https://github.com/OCA/connector-telephony
 - branch: '16.0'
