@@ -3606,6 +3606,7 @@ repos:
   url: https://github.com/OCA/vertical-agriculture
 - branch: '12.0'
   path: OCA/stock-logistics-tracking/12.0
+  sha: 3567b5a10e6279fba78cf177872d36a32acc8c35
   type: integrated
   url: https://github.com/OCA/stock-logistics-tracking
 - branch: '13.0'
