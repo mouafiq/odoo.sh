@@ -1901,6 +1901,7 @@ repos:
   url: https://github.com/OCA/queue
 - branch: '12.0'
   path: OCA/odoo-pim/12.0
+  sha: 13d64a3248067d28f600cce85a3633fc0f515661
   type: integrated
   url: https://github.com/OCA/odoo-pim
 - branch: '13.0'
