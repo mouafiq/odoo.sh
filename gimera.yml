@@ -4831,6 +4831,7 @@ repos:
   url: https://github.com/OCA/connector-sage
 - branch: '13.0'
   path: OCA/connector-sage/13.0
+  sha: db008c1728ddf9c54130d9bb85b17eaa077bdfae
   type: integrated
   url: https://github.com/OCA/connector-sage
 - branch: '14.0'
