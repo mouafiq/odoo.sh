@@ -3056,6 +3056,7 @@ repos:
   url: https://github.com/OCA/web-api
 - branch: '12.0'
   path: OCA/l10n-argentina/12.0
+  sha: 755605d3fe9d48b384e86a043793953baa8508d7
   type: integrated
   url: https://github.com/OCA/l10n-argentina
 - branch: '13.0'
