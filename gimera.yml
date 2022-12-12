@@ -4796,6 +4796,7 @@ repos:
   url: https://github.com/OCA/connector-spscommerce
 - branch: '16.0'
   path: OCA/connector-spscommerce/16.0
+  sha: b999d2ea9375233e483235c5c0d192897bb42ef0
   type: integrated
   url: https://github.com/OCA/connector-spscommerce
 - branch: '12.0'
