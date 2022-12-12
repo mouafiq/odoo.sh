@@ -3183,6 +3183,7 @@ repos:
   url: https://github.com/OCA/stock-logistics-request
 - branch: '16.0'
   path: OCA/stock-logistics-request/16.0
+  sha: e72e31e425a1de04229fbe990d0e76362e262a94
   type: integrated
   url: https://github.com/OCA/stock-logistics-request
 - branch: '12.0'
