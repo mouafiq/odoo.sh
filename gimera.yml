@@ -4043,6 +4043,7 @@ repos:
   url: https://github.com/OCA/l10n-turkey
 - branch: '14.0'
   path: OCA/l10n-turkey/14.0
+  sha: 1058c9193953b997305e331030e3a8c49f538fc0
   type: integrated
   url: https://github.com/OCA/l10n-turkey
 - branch: '15.0'
