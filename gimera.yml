@@ -541,6 +541,7 @@ repos:
   url: https://github.com/OCA/account-analytic
 - branch: '14.0'
   path: OCA/account-analytic/14.0
+  sha: 50cc804537cfbc2844aa2a8ef3dd7b442e9734f5
   type: integrated
   url: https://github.com/OCA/account-analytic
 - branch: '15.0'
