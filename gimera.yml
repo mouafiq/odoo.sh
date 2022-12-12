@@ -2516,29 +2516,8 @@ repos:
   url: https://github.com/OCA/agreement
 - branch: '16.0'
   path: OCA/agreement/16.0
-  sha: 9cb5a3f7782f37988431c0ab333cea6c9f08f39f
   type: integrated
   url: https://github.com/OCA/agreement
-- branch: '12.0'
-  path: OCA/maintainer-tools/12.0
-  type: integrated
-  url: https://github.com/OCA/maintainer-tools
-- branch: '13.0'
-  path: OCA/maintainer-tools/13.0
-  type: integrated
-  url: https://github.com/OCA/maintainer-tools
-- branch: '14.0'
-  path: OCA/maintainer-tools/14.0
-  type: integrated
-  url: https://github.com/OCA/maintainer-tools
-- branch: '15.0'
-  path: OCA/maintainer-tools/15.0
-  type: integrated
-  url: https://github.com/OCA/maintainer-tools
-- branch: '16.0'
-  path: OCA/maintainer-tools/16.0
-  type: integrated
-  url: https://github.com/OCA/maintainer-tools
 - branch: '12.0'
   path: OCA/hr-holidays/12.0
   type: integrated
@@ -2549,6 +2528,7 @@ repos:
   url: https://github.com/OCA/hr-holidays
 - branch: '14.0'
   path: OCA/hr-holidays/14.0
+  sha: 85338b603f206535e973a90e23aaa59b9ff42cc4
   type: integrated
   url: https://github.com/OCA/hr-holidays
 - branch: '15.0'
@@ -2679,26 +2659,6 @@ repos:
   path: OCA/geospatial/16.0
   type: integrated
   url: https://github.com/OCA/geospatial
-- branch: '12.0'
-  path: OCA/odoo-pre-commit-hooks/12.0
-  type: integrated
-  url: https://github.com/OCA/odoo-pre-commit-hooks
-- branch: '13.0'
-  path: OCA/odoo-pre-commit-hooks/13.0
-  type: integrated
-  url: https://github.com/OCA/odoo-pre-commit-hooks
-- branch: '14.0'
-  path: OCA/odoo-pre-commit-hooks/14.0
-  type: integrated
-  url: https://github.com/OCA/odoo-pre-commit-hooks
-- branch: '15.0'
-  path: OCA/odoo-pre-commit-hooks/15.0
-  type: integrated
-  url: https://github.com/OCA/odoo-pre-commit-hooks
-- branch: '16.0'
-  path: OCA/odoo-pre-commit-hooks/16.0
-  type: integrated
-  url: https://github.com/OCA/odoo-pre-commit-hooks
 - branch: '12.0'
   path: OCA/odoo-module-migrator/12.0
   type: integrated
