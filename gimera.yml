@@ -4124,6 +4124,7 @@ repos:
   url: https://github.com/OCA/l10n-russia
 - branch: '16.0'
   path: OCA/l10n-russia/16.0
+  sha: 65a2a1f703b4da02a37da9cdf04f93cd3736179c
   type: integrated
   url: https://github.com/OCA/l10n-russia
 - branch: '12.0'
