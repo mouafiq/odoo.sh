@@ -4881,6 +4881,7 @@ repos:
   url: https://github.com/OCA/connector-lims
 - branch: '13.0'
   path: OCA/connector-lims/13.0
+  sha: 19eb282d52d0b1b9bb80910dd488d1fff4283651
   type: integrated
   url: https://github.com/OCA/connector-lims
 - branch: '14.0'
