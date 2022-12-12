@@ -4628,6 +4628,7 @@ repos:
   url: https://github.com/OCA/l10n-canada
 - branch: '12.0'
   path: OCA/l10n-belarus/12.0
+  sha: ed5fac4c255f694ddd916ec326c970900e2eff3c
   type: integrated
   url: https://github.com/OCA/l10n-belarus
 - branch: '13.0'
