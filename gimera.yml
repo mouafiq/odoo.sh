@@ -1171,6 +1171,7 @@ repos:
   url: https://github.com/OCA/maintenance
 - branch: '14.0'
   path: OCA/maintenance/14.0
+  sha: 8dfe04ed267670f7566b96bf99ae2a0a1f2f867a
   type: integrated
   url: https://github.com/OCA/maintenance
 - branch: '15.0'
