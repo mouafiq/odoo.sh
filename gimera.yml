@@ -641,6 +641,7 @@ repos:
   url: https://github.com/OCA/community-data-files
 - branch: '14.0'
   path: OCA/community-data-files/14.0
+  sha: f1a30a2f0b25b094d3c970a9b1940903282c36b2
   type: integrated
   url: https://github.com/OCA/community-data-files
 - branch: '15.0'
