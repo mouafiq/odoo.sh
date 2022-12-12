@@ -1936,7 +1936,6 @@ repos:
   url: https://github.com/OCA/search-engine
 - branch: '14.0'
   path: OCA/search-engine/14.0
-  sha: c7391fa606487cf9eff2d20f45b326ed2f7ffb9f
   type: integrated
   url: https://github.com/OCA/search-engine
 - branch: '15.0'
@@ -2120,27 +2119,8 @@ repos:
   type: integrated
   url: https://github.com/OCA/mis-builder
 - branch: '12.0'
-  path: OCA/maintainer-quality-tools/12.0
-  type: integrated
-  url: https://github.com/OCA/maintainer-quality-tools
-- branch: '13.0'
-  path: OCA/maintainer-quality-tools/13.0
-  type: integrated
-  url: https://github.com/OCA/maintainer-quality-tools
-- branch: '14.0'
-  path: OCA/maintainer-quality-tools/14.0
-  type: integrated
-  url: https://github.com/OCA/maintainer-quality-tools
-- branch: '15.0'
-  path: OCA/maintainer-quality-tools/15.0
-  type: integrated
-  url: https://github.com/OCA/maintainer-quality-tools
-- branch: '16.0'
-  path: OCA/maintainer-quality-tools/16.0
-  type: integrated
-  url: https://github.com/OCA/maintainer-quality-tools
-- branch: '12.0'
   path: OCA/storage/12.0
+  sha: 867af59e33dd010305016100fb4ebdab78ac21b5
   type: integrated
   url: https://github.com/OCA/storage
 - branch: '13.0'
@@ -4840,3 +4820,19 @@ repos:
   path: OCA/contribute-md-template/16.0
   type: integrated
   url: https://github.com/OCA/contribute-md-template
+- branch: '13.0'
+  path: OCA/maintainer-quality-tools/13.0
+  type: integrated
+  url: https://github.com/OCA/maintainer-quality-tools
+- branch: '14.0'
+  path: OCA/maintainer-quality-tools/14.0
+  type: integrated
+  url: https://github.com/OCA/maintainer-quality-tools
+- branch: '15.0'
+  path: OCA/maintainer-quality-tools/15.0
+  type: integrated
+  url: https://github.com/OCA/maintainer-quality-tools
+- branch: '16.0'
+  path: OCA/maintainer-quality-tools/16.0
+  type: integrated
+  url: https://github.com/OCA/maintainer-quality-tools
