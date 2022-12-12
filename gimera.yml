@@ -1726,6 +1726,7 @@ repos:
   url: https://github.com/OCA/credit-control
 - branch: '13.0'
   path: OCA/credit-control/13.0
+  sha: 64711974820ad2d1451a7309e43fce52c73d29a8
   type: integrated
   url: https://github.com/OCA/credit-control
 - branch: '14.0'
