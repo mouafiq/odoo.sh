@@ -2830,6 +2830,7 @@ repos:
   url: https://github.com/OCA/l10n-portugal
 - branch: '13.0'
   path: OCA/l10n-portugal/13.0
+  sha: f7e12724ccaa6c3a3066ffad716dc564aff44ad5
   type: integrated
   url: https://github.com/OCA/l10n-portugal
 - branch: '14.0'
