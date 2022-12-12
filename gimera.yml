@@ -656,6 +656,7 @@ repos:
   url: https://github.com/OCA/community-data-files
 - branch: '12.0'
   path: OCA/management-system/12.0
+  sha: a902eab95fe5ea0cc3483fb0fa11585a24d1c0a2
   type: integrated
   url: https://github.com/OCA/management-system
 - branch: '13.0'
