@@ -866,6 +866,7 @@ repos:
   url: https://github.com/OCA/report-print-send
 - branch: '14.0'
   path: OCA/report-print-send/14.0
+  sha: 4072f81f097bf44f95be64c4726cb74919d4c85f
   type: integrated
   url: https://github.com/OCA/report-print-send
 - branch: '15.0'
