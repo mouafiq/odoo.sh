@@ -4708,6 +4708,7 @@ repos:
   url: https://github.com/OCA/dotnet
 - branch: '13.0'
   path: OCA/dotnet/13.0
+  sha: a0db32563c76201311175d8eb1264cfa4fde3c45
   type: integrated
   url: https://github.com/OCA/dotnet
 - branch: '14.0'
