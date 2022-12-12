@@ -2419,16 +2419,9 @@ repos:
   sha: bc46a00cbc9f26183c5a5ec96a89889221200432
   type: integrated
   url: https://github.com/OCA/connector-magento
-- branch: '12.0'
-  path: OCA/product-configurator/12.0
-  type: integrated
-  url: https://github.com/OCA/product-configurator
-- branch: '13.0'
-  path: OCA/product-configurator/13.0
-  type: integrated
-  url: https://github.com/OCA/product-configurator
 - branch: '14.0'
   path: OCA/product-configurator/14.0
+  sha: 0ebaeb10d923a5012dff415d1cd4604341787fb1
   type: integrated
   url: https://github.com/OCA/product-configurator
 - branch: '15.0'
