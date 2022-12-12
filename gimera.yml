@@ -4683,6 +4683,7 @@ repos:
   url: https://github.com/OCA/infrastructure
 - branch: '13.0'
   path: OCA/infrastructure/13.0
+  sha: 3b0fdb2a11b0e3eff51389aac6e24132b6ad0eae
   type: integrated
   url: https://github.com/OCA/infrastructure
 - branch: '14.0'
