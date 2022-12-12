@@ -2040,6 +2040,7 @@ repos:
   url: https://github.com/OCA/sale-promotion
 - branch: '16.0'
   path: OCA/sale-promotion/16.0
+  sha: a6c079b46ef02667e7d70ceafd6d4e4fab2ba7b4
   type: integrated
   url: https://github.com/OCA/sale-promotion
 - branch: '12.0'
