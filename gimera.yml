@@ -2326,6 +2326,7 @@ repos:
   url: https://github.com/OCA/survey
 - branch: '13.0'
   path: OCA/survey/13.0
+  sha: fe6424b55fab3799fd57a8c97247a3eeea05b534
   type: integrated
   url: https://github.com/OCA/survey
 - branch: '14.0'
