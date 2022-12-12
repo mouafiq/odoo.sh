@@ -2179,6 +2179,7 @@ repos:
   url: https://github.com/OCA/data-protection
 - branch: '14.0'
   path: OCA/data-protection/14.0
+  sha: 14585c88cf029b3445475f02b640cc243a46f4ed
   type: integrated
   url: https://github.com/OCA/data-protection
 - branch: '15.0'
