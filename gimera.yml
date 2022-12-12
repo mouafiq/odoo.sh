@@ -5121,6 +5121,7 @@ repos:
   url: https://github.com/OCA/oca-custom
 - branch: '13.0'
   path: OCA/oca-custom/13.0
+  sha: 0c2f2d732a4df6c60a3b6e119a30b3d01a76268c
   type: integrated
   url: https://github.com/OCA/oca-custom
 - branch: '14.0'
