@@ -3234,6 +3234,7 @@ repos:
   url: https://github.com/OCA/vertical-abbey
 - branch: '12.0'
   path: OCA/connector-ecommerce/12.0
+  sha: 060ad840f42817daf9f1377c0adb16f57e8831b4
   type: integrated
   url: https://github.com/OCA/connector-ecommerce
 - branch: '13.0'
