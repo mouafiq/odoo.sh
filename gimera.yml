@@ -1001,6 +1001,7 @@ repos:
   url: https://github.com/OCA/project
 - branch: '15.0'
   path: OCA/project/15.0
+  sha: 948d993b9939a0baa5e5f58502728c7953c8957c
   type: integrated
   url: https://github.com/OCA/project
 - branch: '16.0'
