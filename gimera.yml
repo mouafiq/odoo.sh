@@ -4144,6 +4144,7 @@ repos:
   url: https://github.com/OCA/l10n-poland
 - branch: '15.0'
   path: OCA/l10n-poland/15.0
+  sha: d46a1cd2961e0132e75f8f1490900d79c5cf86fc
   type: integrated
   url: https://github.com/OCA/l10n-poland
 - branch: '16.0'
