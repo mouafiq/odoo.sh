@@ -661,6 +661,7 @@ repos:
   url: https://github.com/OCA/management-system
 - branch: '13.0'
   path: OCA/management-system/13.0
+  sha: 3106cd5efe2b311fa69e948882152266ddf6a679
   type: integrated
   url: https://github.com/OCA/management-system
 - branch: '14.0'
