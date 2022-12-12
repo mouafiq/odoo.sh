@@ -2159,6 +2159,7 @@ repos:
   url: https://github.com/OCA/server-backend
 - branch: '15.0'
   path: OCA/server-backend/15.0
+  sha: 98ff572016ce6dfa28cbc27811876a4adcd5075c
   type: integrated
   url: https://github.com/OCA/server-backend
 - branch: '16.0'
