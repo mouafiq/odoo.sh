@@ -2563,6 +2563,7 @@ repos:
   url: https://github.com/OCA/oca-addons-repo-template
 - branch: '12.0'
   path: OCA/calendar/12.0
+  sha: d14e90be6ae2a1f228846dcee6b328e18391e3d9
   type: integrated
   url: https://github.com/OCA/calendar
 - branch: '13.0'
