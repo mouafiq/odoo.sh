@@ -1621,6 +1621,7 @@ repos:
   url: https://github.com/OCA/l10n-france
 - branch: '15.0'
   path: OCA/l10n-france/15.0
+  sha: a8958c06698cddc446be6c563e7e4b9253682384
   type: integrated
   url: https://github.com/OCA/l10n-france
 - branch: '16.0'
