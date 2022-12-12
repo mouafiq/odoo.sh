@@ -1211,6 +1211,7 @@ repos:
   url: https://github.com/OCA/l10n-spain
 - branch: '12.0'
   path: OCA/e-commerce/12.0
+  sha: d049af51695c7ebb1bf7f86ce125949a41f7f9ec
   type: integrated
   url: https://github.com/OCA/e-commerce
 - branch: '13.0'
