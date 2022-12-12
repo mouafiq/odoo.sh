@@ -3493,6 +3493,7 @@ repos:
   url: https://github.com/OCA/vertical-edition
 - branch: '14.0'
   path: OCA/vertical-edition/14.0
+  sha: 4ac997529666eb0d4c92306dac54491dcba72e74
   type: integrated
   url: https://github.com/OCA/vertical-edition
 - branch: '15.0'
