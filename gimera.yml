@@ -556,6 +556,7 @@ repos:
   url: https://github.com/OCA/account-analytic
 - branch: '12.0'
   path: OCA/stock-logistics-barcode/12.0
+  sha: 1df43b57ef9f3836b6139370202f654a02eef41b
   type: integrated
   url: https://github.com/OCA/stock-logistics-barcode
 - branch: '13.0'
