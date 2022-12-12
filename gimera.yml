@@ -4101,6 +4101,7 @@ repos:
   url: https://github.com/OCA/l10n-slovenia
 - branch: '16.0'
   path: OCA/l10n-slovenia/16.0
+  sha: bc3695a515520ce6953c7e0d30dde35cb802f35b
   type: integrated
   url: https://github.com/OCA/l10n-slovenia
 - branch: '12.0'
