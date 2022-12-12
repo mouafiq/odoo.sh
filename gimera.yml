@@ -4736,6 +4736,7 @@ repos:
   url: https://github.com/OCA/department
 - branch: '14.0'
   path: OCA/department/14.0
+  sha: bd5d2c58cfec940f923bfcda6442371d983e15cc
   type: integrated
   url: https://github.com/OCA/department
 - branch: '15.0'
