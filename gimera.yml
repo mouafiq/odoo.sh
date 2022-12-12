@@ -4204,6 +4204,7 @@ repos:
   url: https://github.com/OCA/l10n-norway
 - branch: '12.0'
   path: OCA/l10n-morocco/12.0
+  sha: 00eba0e48e262aa2b6c6e0dce1db02ed98d24436
   type: integrated
   url: https://github.com/OCA/l10n-morocco
 - branch: '13.0'
