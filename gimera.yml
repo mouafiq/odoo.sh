@@ -2668,6 +2668,7 @@ repos:
   url: https://github.com/OCA/geospatial
 - branch: '14.0'
   path: OCA/geospatial/14.0
+  sha: 1c40b231389cb3a74eb348da6804d76f10619553
   type: integrated
   url: https://github.com/OCA/geospatial
 - branch: '15.0'
