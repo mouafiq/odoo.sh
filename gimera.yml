@@ -4876,6 +4876,7 @@ repos:
   url: https://github.com/OCA/connector-redmine
 - branch: '12.0'
   path: OCA/connector-lims/12.0
+  sha: 1f7d17d1c08183aaf9eb18b0c21054775e4da281
   type: integrated
   url: https://github.com/OCA/connector-lims
 - branch: '13.0'
