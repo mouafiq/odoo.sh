@@ -2815,6 +2815,7 @@ repos:
   url: https://github.com/OCA/vertical-medical
 - branch: '15.0'
   path: OCA/vertical-medical/15.0
+  sha: c98544823ab393f0b550d63a3e6a0ec2b763446d
   type: integrated
   url: https://github.com/OCA/vertical-medical
 - branch: '16.0'
