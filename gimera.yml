@@ -2246,6 +2246,7 @@ repos:
   url: https://github.com/OCA/server-env
 - branch: '12.0'
   path: OCA/l10n-japan/12.0
+  sha: 611bbc846b237070daa042489fac6d1c75d93e07
   type: integrated
   url: https://github.com/OCA/l10n-japan
 - branch: '13.0'
