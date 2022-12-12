@@ -2850,6 +2850,7 @@ repos:
   url: https://github.com/OCA/l10n-portugal
 - branch: '12.0'
   path: OCA/l10n-iran/12.0
+  sha: c508c3153f656de94697277795d064cc19f694d1
   type: integrated
   url: https://github.com/OCA/l10n-iran
 - branch: '13.0'
