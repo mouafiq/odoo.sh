@@ -2516,6 +2516,7 @@ repos:
   url: https://github.com/OCA/agreement
 - branch: '16.0'
   path: OCA/agreement/16.0
+  sha: 9cb5a3f7782f37988431c0ab333cea6c9f08f39f
   type: integrated
   url: https://github.com/OCA/agreement
 - branch: '12.0'
