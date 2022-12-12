@@ -4703,6 +4703,7 @@ repos:
   url: https://github.com/OCA/infrastructure
 - branch: '12.0'
   path: OCA/dotnet/12.0
+  sha: d055b58d4c0785ca2cfb3cd0515b8eefe89c7052
   type: integrated
   url: https://github.com/OCA/dotnet
 - branch: '13.0'
