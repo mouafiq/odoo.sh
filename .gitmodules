@@ -1,12 +1,4 @@
-[submodule "OCA/module_tools/15.0"]
-	path = OCA/module_tools/15.0
-	url = git@github.com:marcwimmer/odoo-module_tools.git
-	branch = 15.0
 [submodule "module_tools/15.0"]
 	path = module_tools/15.0
-	url = git@github.com:marcwimmer/odoo-module_tools.git
-	branch = 15.0
-[submodule "addons_ninjas/module_tools/15.0"]
-	path = addons_ninjas/module_tools/15.0
 	url = git@github.com:marcwimmer/odoo-module_tools.git
 	branch = 15.0
