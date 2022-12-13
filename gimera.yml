@@ -2518,10 +2518,6 @@ repos:
   path: OCA/agreement/16.0
   type: integrated
   url: https://github.com/OCA/agreement
-- branch: '12.0'
-  path: OCA/hr-holidays/12.0
-  type: integrated
-  url: https://github.com/OCA/hr-holidays
 - branch: '13.0'
   path: OCA/hr-holidays/13.0
   type: integrated
@@ -2541,26 +2537,6 @@ repos:
   sha: 0c073f789cffbd8eb088821397c640b2a8cd15d3
   type: integrated
   url: https://github.com/OCA/hr-holidays
-- branch: '12.0'
-  path: OCA/oca-addons-repo-template/12.0
-  type: integrated
-  url: https://github.com/OCA/oca-addons-repo-template
-- branch: '13.0'
-  path: OCA/oca-addons-repo-template/13.0
-  type: integrated
-  url: https://github.com/OCA/oca-addons-repo-template
-- branch: '14.0'
-  path: OCA/oca-addons-repo-template/14.0
-  type: integrated
-  url: https://github.com/OCA/oca-addons-repo-template
-- branch: '15.0'
-  path: OCA/oca-addons-repo-template/15.0
-  type: integrated
-  url: https://github.com/OCA/oca-addons-repo-template
-- branch: '16.0'
-  path: OCA/oca-addons-repo-template/16.0
-  type: integrated
-  url: https://github.com/OCA/oca-addons-repo-template
 - branch: '12.0'
   path: OCA/calendar/12.0
   sha: d14e90be6ae2a1f228846dcee6b328e18391e3d9
@@ -2612,26 +2588,6 @@ repos:
   type: integrated
   url: https://github.com/OCA/event
 - branch: '12.0'
-  path: OCA/odoo-community.org/12.0
-  type: integrated
-  url: https://github.com/OCA/odoo-community.org
-- branch: '13.0'
-  path: OCA/odoo-community.org/13.0
-  type: integrated
-  url: https://github.com/OCA/odoo-community.org
-- branch: '14.0'
-  path: OCA/odoo-community.org/14.0
-  type: integrated
-  url: https://github.com/OCA/odoo-community.org
-- branch: '15.0'
-  path: OCA/odoo-community.org/15.0
-  type: integrated
-  url: https://github.com/OCA/odoo-community.org
-- branch: '16.0'
-  path: OCA/odoo-community.org/16.0
-  type: integrated
-  url: https://github.com/OCA/odoo-community.org
-- branch: '12.0'
   path: OCA/l10n-ecuador/12.0
   sha: 8b5750f8f554a484892bcce45a4eccde3cb57ddd
   type: integrated
@@ -2681,26 +2637,6 @@ repos:
   sha: f0226845701aa63edd555eda297b65846dd2875e
   type: integrated
   url: https://github.com/OCA/geospatial
-- branch: '12.0'
-  path: OCA/odoo-module-migrator/12.0
-  type: integrated
-  url: https://github.com/OCA/odoo-module-migrator
-- branch: '13.0'
-  path: OCA/odoo-module-migrator/13.0
-  type: integrated
-  url: https://github.com/OCA/odoo-module-migrator
-- branch: '14.0'
-  path: OCA/odoo-module-migrator/14.0
-  type: integrated
-  url: https://github.com/OCA/odoo-module-migrator
-- branch: '15.0'
-  path: OCA/odoo-module-migrator/15.0
-  type: integrated
-  url: https://github.com/OCA/odoo-module-migrator
-- branch: '16.0'
-  path: OCA/odoo-module-migrator/16.0
-  type: integrated
-  url: https://github.com/OCA/odoo-module-migrator
 - branch: '12.0'
   path: OCA/manufacture-reporting/12.0
   sha: 515ed407e3bdf36c46e6d3da78748caaddb31797
@@ -2800,14 +2736,6 @@ repos:
   sha: f8764a8c9abc941d8002766374d1f84d0a56a124
   type: integrated
   url: https://github.com/OCA/connector-telephony
-- branch: '12.0'
-  path: OCA/vertical-medical/12.0
-  type: integrated
-  url: https://github.com/OCA/vertical-medical
-- branch: '13.0'
-  path: OCA/vertical-medical/13.0
-  type: integrated
-  url: https://github.com/OCA/vertical-medical
 - branch: '14.0'
   path: OCA/vertical-medical/14.0
   sha: c84befd584856868a8fa344b982b137d94cd28d9
@@ -2873,43 +2801,11 @@ repos:
   sha: ef6a064991919c1f31d077243ab8326e6cde073c
   type: integrated
   url: https://github.com/OCA/l10n-iran
-- branch: '12.0'
-  path: OCA/spreadsheet/12.0
-  type: integrated
-  url: https://github.com/OCA/spreadsheet
-- branch: '13.0'
-  path: OCA/spreadsheet/13.0
-  type: integrated
-  url: https://github.com/OCA/spreadsheet
-- branch: '14.0'
-  path: OCA/spreadsheet/14.0
-  type: integrated
-  url: https://github.com/OCA/spreadsheet
-- branch: '15.0'
-  path: OCA/spreadsheet/15.0
-  type: integrated
-  url: https://github.com/OCA/spreadsheet
 - branch: '16.0'
   path: OCA/spreadsheet/16.0
   sha: 52a1849faea2342c074200c3fd79c69228cda969
   type: integrated
   url: https://github.com/OCA/spreadsheet
-- branch: '12.0'
-  path: OCA/stock-logistics-availability/12.0
-  type: integrated
-  url: https://github.com/OCA/stock-logistics-availability
-- branch: '13.0'
-  path: OCA/stock-logistics-availability/13.0
-  type: integrated
-  url: https://github.com/OCA/stock-logistics-availability
-- branch: '14.0'
-  path: OCA/stock-logistics-availability/14.0
-  type: integrated
-  url: https://github.com/OCA/stock-logistics-availability
-- branch: '15.0'
-  path: OCA/stock-logistics-availability/15.0
-  type: integrated
-  url: https://github.com/OCA/stock-logistics-availability
 - branch: '16.0'
   path: OCA/stock-logistics-availability/16.0
   sha: 5c2e367e01ed271a87350c3ffe93129dc5164fe2
@@ -2970,17 +2866,9 @@ repos:
   sha: 27afacb9aeda0cc4af73765e107d1c6b863652df
   type: integrated
   url: https://github.com/OCA/wallet
-- branch: '13.0'
-  path: OCA/wallet/13.0
-  type: integrated
-  url: https://github.com/OCA/wallet
 - branch: '14.0'
   path: OCA/wallet/14.0
   sha: 78e90038b2dfa8cb1cda2494e3215b1a5602df76
-  type: integrated
-  url: https://github.com/OCA/wallet
-- branch: '15.0'
-  path: OCA/wallet/15.0
   type: integrated
   url: https://github.com/OCA/wallet
 - branch: '16.0'
@@ -2988,34 +2876,6 @@ repos:
   sha: f0f91c96e1475dd87caad2a42cc724e2da7b50e2
   type: integrated
   url: https://github.com/OCA/wallet
-- branch: '12.0'
-  path: OCA/oca-weblate-deployment/12.0
-  type: integrated
-  url: https://github.com/OCA/oca-weblate-deployment
-- branch: '13.0'
-  path: OCA/oca-weblate-deployment/13.0
-  type: integrated
-  url: https://github.com/OCA/oca-weblate-deployment
-- branch: '14.0'
-  path: OCA/oca-weblate-deployment/14.0
-  type: integrated
-  url: https://github.com/OCA/oca-weblate-deployment
-- branch: '15.0'
-  path: OCA/oca-weblate-deployment/15.0
-  type: integrated
-  url: https://github.com/OCA/oca-weblate-deployment
-- branch: '16.0'
-  path: OCA/oca-weblate-deployment/16.0
-  type: integrated
-  url: https://github.com/OCA/oca-weblate-deployment
-- branch: '12.0'
-  path: OCA/l10n-cambodia/12.0
-  type: integrated
-  url: https://github.com/OCA/l10n-cambodia
-- branch: '13.0'
-  path: OCA/l10n-cambodia/13.0
-  type: integrated
-  url: https://github.com/OCA/l10n-cambodia
 - branch: '14.0'
   path: OCA/l10n-cambodia/14.0
   sha: cce288e064e99d87e7f7111aac681e031202f610
@@ -3031,14 +2891,6 @@ repos:
   sha: 99278f424c2bfee66c708a6327fd3e8047e470cc
   type: integrated
   url: https://github.com/OCA/l10n-cambodia
-- branch: '12.0'
-  path: OCA/web-api/12.0
-  type: integrated
-  url: https://github.com/OCA/web-api
-- branch: '13.0'
-  path: OCA/web-api/13.0
-  type: integrated
-  url: https://github.com/OCA/web-api
 - branch: '14.0'
   path: OCA/web-api/14.0
   sha: 4d6e2f91bd4120848199bf4cf107a9920923dead
@@ -3079,62 +2931,6 @@ repos:
   sha: f3c7f82aae05924207e39a832c62c18e4a88d3e0
   type: integrated
   url: https://github.com/OCA/l10n-argentina
-- branch: '12.0'
-  path: OCA/odoorpc/12.0
-  type: integrated
-  url: https://github.com/OCA/odoorpc
-- branch: '13.0'
-  path: OCA/odoorpc/13.0
-  type: integrated
-  url: https://github.com/OCA/odoorpc
-- branch: '14.0'
-  path: OCA/odoorpc/14.0
-  type: integrated
-  url: https://github.com/OCA/odoorpc
-- branch: '15.0'
-  path: OCA/odoorpc/15.0
-  type: integrated
-  url: https://github.com/OCA/odoorpc
-- branch: '16.0'
-  path: OCA/odoorpc/16.0
-  type: integrated
-  url: https://github.com/OCA/odoorpc
-- branch: '12.0'
-  path: OCA/oca-port/12.0
-  type: integrated
-  url: https://github.com/OCA/oca-port
-- branch: '13.0'
-  path: OCA/oca-port/13.0
-  type: integrated
-  url: https://github.com/OCA/oca-port
-- branch: '14.0'
-  path: OCA/oca-port/14.0
-  type: integrated
-  url: https://github.com/OCA/oca-port
-- branch: '15.0'
-  path: OCA/oca-port/15.0
-  type: integrated
-  url: https://github.com/OCA/oca-port
-- branch: '16.0'
-  path: OCA/oca-port/16.0
-  type: integrated
-  url: https://github.com/OCA/oca-port
-- branch: '12.0'
-  path: OCA/stock-logistics-orderpoint/12.0
-  type: integrated
-  url: https://github.com/OCA/stock-logistics-orderpoint
-- branch: '13.0'
-  path: OCA/stock-logistics-orderpoint/13.0
-  type: integrated
-  url: https://github.com/OCA/stock-logistics-orderpoint
-- branch: '14.0'
-  path: OCA/stock-logistics-orderpoint/14.0
-  type: integrated
-  url: https://github.com/OCA/stock-logistics-orderpoint
-- branch: '15.0'
-  path: OCA/stock-logistics-orderpoint/15.0
-  type: integrated
-  url: https://github.com/OCA/stock-logistics-orderpoint
 - branch: '16.0'
   path: OCA/stock-logistics-orderpoint/16.0
   sha: f68b229603e43769803b37e035b34149b696636c
@@ -3165,43 +2961,11 @@ repos:
   sha: f6f4dcce88729c4e9b942ddeb58ff25d6da456d3
   type: integrated
   url: https://github.com/OCA/purchase-reporting
-- branch: '12.0'
-  path: OCA/stock-logistics-request/12.0
-  type: integrated
-  url: https://github.com/OCA/stock-logistics-request
-- branch: '13.0'
-  path: OCA/stock-logistics-request/13.0
-  type: integrated
-  url: https://github.com/OCA/stock-logistics-request
-- branch: '14.0'
-  path: OCA/stock-logistics-request/14.0
-  type: integrated
-  url: https://github.com/OCA/stock-logistics-request
-- branch: '15.0'
-  path: OCA/stock-logistics-request/15.0
-  type: integrated
-  url: https://github.com/OCA/stock-logistics-request
 - branch: '16.0'
   path: OCA/stock-logistics-request/16.0
   sha: e72e31e425a1de04229fbe990d0e76362e262a94
   type: integrated
   url: https://github.com/OCA/stock-logistics-request
-- branch: '12.0'
-  path: OCA/stock-logistics-interfaces/12.0
-  type: integrated
-  url: https://github.com/OCA/stock-logistics-interfaces
-- branch: '13.0'
-  path: OCA/stock-logistics-interfaces/13.0
-  type: integrated
-  url: https://github.com/OCA/stock-logistics-interfaces
-- branch: '14.0'
-  path: OCA/stock-logistics-interfaces/14.0
-  type: integrated
-  url: https://github.com/OCA/stock-logistics-interfaces
-- branch: '15.0'
-  path: OCA/stock-logistics-interfaces/15.0
-  type: integrated
-  url: https://github.com/OCA/stock-logistics-interfaces
 - branch: '16.0'
   path: OCA/stock-logistics-interfaces/16.0
   sha: 8e9b24b53efb9a4c85841aca513ea967939d1824
@@ -3382,10 +3146,6 @@ repos:
   sha: 5e11b5a572f70fe81c9316e1f55d5e84f01dc72f
   type: integrated
   url: https://github.com/OCA/vertical-travel
-- branch: '12.0'
-  path: OCA/vertical-realestate/12.0
-  type: integrated
-  url: https://github.com/OCA/vertical-realestate
 - branch: '13.0'
   path: OCA/vertical-realestate/13.0
   sha: 2537bfa244baa51d6c91e5709af6716b85b79a40
@@ -3511,17 +3271,9 @@ repos:
   sha: 7586756b3ebb2f85355ab6950aa760e483dbad20
   type: integrated
   url: https://github.com/OCA/vertical-cooperative-supermarket
-- branch: '13.0'
-  path: OCA/vertical-cooperative-supermarket/13.0
-  type: integrated
-  url: https://github.com/OCA/vertical-cooperative-supermarket
 - branch: '14.0'
   path: OCA/vertical-cooperative-supermarket/14.0
   sha: e73a8e67595f55cc51521f809c77187fac9b9b26
-  type: integrated
-  url: https://github.com/OCA/vertical-cooperative-supermarket
-- branch: '15.0'
-  path: OCA/vertical-cooperative-supermarket/15.0
   type: integrated
   url: https://github.com/OCA/vertical-cooperative-supermarket
 - branch: '16.0'
@@ -3634,17 +3386,9 @@ repos:
   sha: d11ab08bf040300e27ee1f42702c9e226c01a4e5
   type: integrated
   url: https://github.com/OCA/shift-planning
-- branch: '13.0'
-  path: OCA/shift-planning/13.0
-  type: integrated
-  url: https://github.com/OCA/shift-planning
 - branch: '14.0'
   path: OCA/shift-planning/14.0
   sha: 6ba3c5a79f0e923c3d91df856d212c55d9343181
-  type: integrated
-  url: https://github.com/OCA/shift-planning
-- branch: '15.0'
-  path: OCA/shift-planning/15.0
   type: integrated
   url: https://github.com/OCA/shift-planning
 - branch: '16.0'
@@ -3727,17 +3471,9 @@ repos:
   sha: 99e698cf99a829fe2682fe1a14681d614df6e471
   type: integrated
   url: https://github.com/OCA/runbot-addons
-- branch: '12.0'
-  path: OCA/role-policy/12.0
-  type: integrated
-  url: https://github.com/OCA/role-policy
 - branch: '13.0'
   path: OCA/role-policy/13.0
   sha: 6fa7226f969ea90dbd7d540b545b16d852847a77
-  type: integrated
-  url: https://github.com/OCA/role-policy
-- branch: '14.0'
-  path: OCA/role-policy/14.0
   type: integrated
   url: https://github.com/OCA/role-policy
 - branch: '15.0'
@@ -3750,43 +3486,11 @@ repos:
   sha: 97a100658c8caf0426dd9ddc5a7b7d32e0c031b7
   type: integrated
   url: https://github.com/OCA/role-policy
-- branch: '12.0'
-  path: OCA/rest-api/12.0
-  type: integrated
-  url: https://github.com/OCA/rest-api
-- branch: '13.0'
-  path: OCA/rest-api/13.0
-  type: integrated
-  url: https://github.com/OCA/rest-api
-- branch: '14.0'
-  path: OCA/rest-api/14.0
-  type: integrated
-  url: https://github.com/OCA/rest-api
-- branch: '15.0'
-  path: OCA/rest-api/15.0
-  type: integrated
-  url: https://github.com/OCA/rest-api
 - branch: '16.0'
   path: OCA/rest-api/16.0
   sha: 3ba7f3c66ea37efc7904f80830fbe43082326204
   type: integrated
   url: https://github.com/OCA/rest-api
-- branch: '12.0'
-  path: OCA/pwa-builder/12.0
-  type: integrated
-  url: https://github.com/OCA/pwa-builder
-- branch: '13.0'
-  path: OCA/pwa-builder/13.0
-  type: integrated
-  url: https://github.com/OCA/pwa-builder
-- branch: '14.0'
-  path: OCA/pwa-builder/14.0
-  type: integrated
-  url: https://github.com/OCA/pwa-builder
-- branch: '15.0'
-  path: OCA/pwa-builder/15.0
-  type: integrated
-  url: https://github.com/OCA/pwa-builder
 - branch: '16.0'
   path: OCA/pwa-builder/16.0
   sha: c641c6999c22f3f46ee47d8d920b479ad4e7a071
@@ -3842,14 +3546,6 @@ repos:
   sha: b0ce7f0798c23cbe0b9ec5ba4fe288ffbd95fe6c
   type: integrated
   url: https://github.com/OCA/project-agile
-- branch: '12.0'
-  path: OCA/program/12.0
-  type: integrated
-  url: https://github.com/OCA/program
-- branch: '13.0'
-  path: OCA/program/13.0
-  type: integrated
-  url: https://github.com/OCA/program
 - branch: '14.0'
   path: OCA/program/14.0
   sha: e713f86ae1413aa4e709837e71fc05fcaf671a18
@@ -3890,42 +3586,6 @@ repos:
   sha: 3237139a98c0cfb43158ff27550c8f41e3937889
   type: integrated
   url: https://github.com/OCA/product-kitting
-- branch: '12.0'
-  path: OCA/mirrors-flake8/12.0
-  type: integrated
-  url: https://github.com/OCA/mirrors-flake8
-- branch: '13.0'
-  path: OCA/mirrors-flake8/13.0
-  type: integrated
-  url: https://github.com/OCA/mirrors-flake8
-- branch: '14.0'
-  path: OCA/mirrors-flake8/14.0
-  type: integrated
-  url: https://github.com/OCA/mirrors-flake8
-- branch: '15.0'
-  path: OCA/mirrors-flake8/15.0
-  type: integrated
-  url: https://github.com/OCA/mirrors-flake8
-- branch: '16.0'
-  path: OCA/mirrors-flake8/16.0
-  type: integrated
-  url: https://github.com/OCA/mirrors-flake8
-- branch: '12.0'
-  path: OCA/oca.recipe.odoo/12.0
-  type: integrated
-  url: https://github.com/OCA/oca.recipe.odoo
-- branch: '13.0'
-  path: OCA/oca.recipe.odoo/13.0
-  type: integrated
-  url: https://github.com/OCA/oca.recipe.odoo
-- branch: '14.0'
-  path: OCA/oca.recipe.odoo/14.0
-  type: integrated
-  url: https://github.com/OCA/oca.recipe.odoo
-- branch: '15.0'
-  path: OCA/oca.recipe.odoo/15.0
-  type: integrated
-  url: https://github.com/OCA/oca.recipe.odoo
 - branch: '16.0'
   path: OCA/oca.recipe.odoo/16.0
   sha: 803488540e8811af58d5ebcaefe50249f5e3952f
@@ -4081,14 +3741,6 @@ repos:
   sha: cfbc0dce083be188d63ea4aadd74c946bdc7efe6
   type: integrated
   url: https://github.com/OCA/l10n-taiwan
-- branch: '12.0'
-  path: OCA/l10n-slovenia/12.0
-  type: integrated
-  url: https://github.com/OCA/l10n-slovenia
-- branch: '13.0'
-  path: OCA/l10n-slovenia/13.0
-  type: integrated
-  url: https://github.com/OCA/l10n-slovenia
 - branch: '14.0'
   path: OCA/l10n-slovenia/14.0
   sha: d9067d7bc1f97be59d55efdd937817f5f82223f5
@@ -4104,14 +3756,6 @@ repos:
   sha: bc3695a515520ce6953c7e0d30dde35cb802f35b
   type: integrated
   url: https://github.com/OCA/l10n-slovenia
-- branch: '12.0'
-  path: OCA/l10n-russia/12.0
-  type: integrated
-  url: https://github.com/OCA/l10n-russia
-- branch: '13.0'
-  path: OCA/l10n-russia/13.0
-  type: integrated
-  url: https://github.com/OCA/l10n-russia
 - branch: '14.0'
   path: OCA/l10n-russia/14.0
   sha: e36a5a6875ec4a75d7bc12c6f720e1cc0479c553
@@ -4255,10 +3899,6 @@ repos:
 - branch: '12.0'
   path: OCA/l10n-macedonia/12.0
   sha: 3568c9950e8d057771923008d24596dee74d0c5a
-  type: integrated
-  url: https://github.com/OCA/l10n-macedonia
-- branch: '13.0'
-  path: OCA/l10n-macedonia/13.0
   type: integrated
   url: https://github.com/OCA/l10n-macedonia
 - branch: '14.0'
@@ -4726,14 +4366,6 @@ repos:
   sha: 6903237e314038d07857f2df02bd2edd12bb3889
   type: integrated
   url: https://github.com/OCA/dotnet
-- branch: '12.0'
-  path: OCA/department/12.0
-  type: integrated
-  url: https://github.com/OCA/department
-- branch: '13.0'
-  path: OCA/department/13.0
-  type: integrated
-  url: https://github.com/OCA/department
 - branch: '14.0'
   path: OCA/department/14.0
   sha: bd5d2c58cfec940f923bfcda6442371d983e15cc
@@ -5075,46 +4707,6 @@ repos:
   type: integrated
   url: https://github.com/OCA/account-consolidation
 - branch: '12.0'
-  path: OCA/oca-ci/12.0
-  type: integrated
-  url: https://github.com/OCA/oca-ci
-- branch: '13.0'
-  path: OCA/oca-ci/13.0
-  type: integrated
-  url: https://github.com/OCA/oca-ci
-- branch: '14.0'
-  path: OCA/oca-ci/14.0
-  type: integrated
-  url: https://github.com/OCA/oca-ci
-- branch: '15.0'
-  path: OCA/oca-ci/15.0
-  type: integrated
-  url: https://github.com/OCA/oca-ci
-- branch: '16.0'
-  path: OCA/oca-ci/16.0
-  type: integrated
-  url: https://github.com/OCA/oca-ci
-- branch: '12.0'
-  path: OCA/.github/12.0
-  type: integrated
-  url: https://github.com/OCA/.github
-- branch: '13.0'
-  path: OCA/.github/13.0
-  type: integrated
-  url: https://github.com/OCA/.github
-- branch: '14.0'
-  path: OCA/.github/14.0
-  type: integrated
-  url: https://github.com/OCA/.github
-- branch: '15.0'
-  path: OCA/.github/15.0
-  type: integrated
-  url: https://github.com/OCA/.github
-- branch: '16.0'
-  path: OCA/.github/16.0
-  type: integrated
-  url: https://github.com/OCA/.github
-- branch: '12.0'
   path: OCA/oca-custom/12.0
   sha: 88a84f834a4036c20469a9c199086afd39d36c21
   type: integrated
@@ -5130,130 +4722,11 @@ repos:
   type: integrated
   url: https://github.com/OCA/oca-custom
 - branch: '15.0'
-  path: OCA/oca-custom/15.0
-  type: integrated
-  url: https://github.com/OCA/oca-custom
-- branch: '16.0'
-  path: OCA/oca-custom/16.0
-  type: integrated
-  url: https://github.com/OCA/oca-custom
-- branch: '12.0'
-  path: OCA/odoo-sentinel/12.0
-  type: integrated
-  url: https://github.com/OCA/odoo-sentinel
-- branch: '13.0'
-  path: OCA/odoo-sentinel/13.0
-  type: integrated
-  url: https://github.com/OCA/odoo-sentinel
+  path: OCA/module_tools/15.0
+  sha: 8cf3b83a4626d5d61f53275cc62a2d3591a93534
+  type: submodule
+  url: git@github.com:marcwimmer/odoo-module_tools.git
 - branch: '14.0'
-  path: OCA/odoo-sentinel/14.0
-  type: integrated
-  url: https://github.com/OCA/odoo-sentinel
-- branch: '15.0'
-  path: OCA/odoo-sentinel/15.0
-  type: integrated
-  url: https://github.com/OCA/odoo-sentinel
-- branch: '16.0'
-  path: OCA/odoo-sentinel/16.0
-  type: integrated
-  url: https://github.com/OCA/odoo-sentinel
-- branch: '12.0'
-  path: OCA/ansible-odoo/12.0
-  type: integrated
-  url: https://github.com/OCA/ansible-odoo
-- branch: '13.0'
-  path: OCA/ansible-odoo/13.0
-  type: integrated
-  url: https://github.com/OCA/ansible-odoo
-- branch: '14.0'
-  path: OCA/ansible-odoo/14.0
-  type: integrated
-  url: https://github.com/OCA/ansible-odoo
-- branch: '15.0'
-  path: OCA/ansible-odoo/15.0
-  type: integrated
-  url: https://github.com/OCA/ansible-odoo
-- branch: '16.0'
-  path: OCA/ansible-odoo/16.0
-  type: integrated
-  url: https://github.com/OCA/ansible-odoo
-- branch: '12.0'
-  path: OCA/odoo-sphinx-autodoc/12.0
-  type: integrated
-  url: https://github.com/OCA/odoo-sphinx-autodoc
-- branch: '13.0'
-  path: OCA/odoo-sphinx-autodoc/13.0
-  type: integrated
-  url: https://github.com/OCA/odoo-sphinx-autodoc
-- branch: '14.0'
-  path: OCA/odoo-sphinx-autodoc/14.0
-  type: integrated
-  url: https://github.com/OCA/odoo-sphinx-autodoc
-- branch: '15.0'
-  path: OCA/odoo-sphinx-autodoc/15.0
-  type: integrated
-  url: https://github.com/OCA/odoo-sphinx-autodoc
-- branch: '16.0'
-  path: OCA/odoo-sphinx-autodoc/16.0
-  type: integrated
-  url: https://github.com/OCA/odoo-sphinx-autodoc
-- branch: '12.0'
-  path: OCA/oca-decorators/12.0
-  type: integrated
-  url: https://github.com/OCA/oca-decorators
-- branch: '13.0'
-  path: OCA/oca-decorators/13.0
-  type: integrated
-  url: https://github.com/OCA/oca-decorators
-- branch: '14.0'
-  path: OCA/oca-decorators/14.0
-  type: integrated
-  url: https://github.com/OCA/oca-decorators
-- branch: '15.0'
-  path: OCA/oca-decorators/15.0
-  type: integrated
-  url: https://github.com/OCA/oca-decorators
-- branch: '16.0'
-  path: OCA/oca-decorators/16.0
-  type: integrated
-  url: https://github.com/OCA/oca-decorators
-- branch: '12.0'
-  path: OCA/connector-magento-php-extension/12.0
-  type: integrated
-  url: https://github.com/OCA/connector-magento-php-extension
-- branch: '13.0'
-  path: OCA/connector-magento-php-extension/13.0
-  type: integrated
-  url: https://github.com/OCA/connector-magento-php-extension
-- branch: '14.0'
-  path: OCA/connector-magento-php-extension/14.0
-  type: integrated
-  url: https://github.com/OCA/connector-magento-php-extension
-- branch: '15.0'
-  path: OCA/connector-magento-php-extension/15.0
-  type: integrated
-  url: https://github.com/OCA/connector-magento-php-extension
-- branch: '16.0'
-  path: OCA/connector-magento-php-extension/16.0
-  type: integrated
-  url: https://github.com/OCA/connector-magento-php-extension
-- branch: '12.0'
-  path: OCA/contribute-md-template/12.0
-  type: integrated
-  url: https://github.com/OCA/contribute-md-template
-- branch: '13.0'
-  path: OCA/contribute-md-template/13.0
-  type: integrated
-  url: https://github.com/OCA/contribute-md-template
-- branch: '14.0'
-  path: OCA/contribute-md-template/14.0
-  type: integrated
-  url: https://github.com/OCA/contribute-md-template
-- branch: '15.0'
-  path: OCA/contribute-md-template/15.0
-  type: integrated
-  url: https://github.com/OCA/contribute-md-template
-- branch: '16.0'
-  path: OCA/contribute-md-template/16.0
-  type: integrated
-  url: https://github.com/OCA/contribute-md-template
+  path: OCA/module_tools/14.0
+  type: submodule
+  url: git@github.com:marcwimmer/odoo-module_tools.git
