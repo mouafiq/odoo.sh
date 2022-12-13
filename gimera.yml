@@ -4722,11 +4722,11 @@ repos:
   type: integrated
   url: https://github.com/OCA/oca-custom
 - branch: '15.0'
-  path: module_tools/15.0
+  path: addons_ninjas/module_tools/15.0
   sha: 8cf3b83a4626d5d61f53275cc62a2d3591a93534
   type: submodule
   url: git@github.com:marcwimmer/odoo-module_tools.git
 - branch: '14.0'
-  path: module_tools/14.0
+  path: addons_ninjas/module_tools/14.0
   type: submodule
   url: git@github.com:marcwimmer/odoo-module_tools.git
